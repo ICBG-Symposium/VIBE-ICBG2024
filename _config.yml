@@ -59,7 +59,7 @@ heroImage: "DNA2.jpg"
 heroTitle: "<typeout>"
 eventDate: "December, 2022"
 typeoutTextValues: '"SYSTEMS GENOMICS SUMMIT"'
-typeoutFallback: "Season"
+typeoutFallback: "SysGen 2022"
 
 # About Block
 aboutTitle: "About SysGen 2022"
@@ -178,13 +178,13 @@ footerBlocks:
   links:
    - {link: "https://genomicsdatascience.ie/", text: "SFI Genomics CRT"}
  -
-  title: "Contacts"
-  links:
-   - {link: "sysgensummit2021@nuigalway.ie", text: "sysgensummit2021@nuigalway.ie"}
- -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "sysgensummit2021@nuigalway.ie", text: "sysgensummit2021@nuigalway.ie"}
 
 # Blog
 blogTitle: "Latest news"
