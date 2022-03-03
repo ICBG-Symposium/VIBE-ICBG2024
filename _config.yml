@@ -55,14 +55,11 @@ rightNavigationButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "DNA.jpg"
 heroTitle: "<typeout>"
 eventDate: "December, 2022"
 typeoutTextValues: '"SYSTEMS GENOMICS SUMMIT"'
 typeoutFallback: "Season"
-heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
