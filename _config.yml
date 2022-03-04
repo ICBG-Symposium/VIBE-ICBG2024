@@ -72,10 +72,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "10", specialCharacter: "", info: "speakers", detail: "from various systems genomics background"}
+ - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere around the globe"}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: "from various research background"}
  - {count: "4", specialCharacter: "", info: "themes", detail: "of different aspect of genomics"}
- - {count: "0", specialCharacter: "€", info: "parallel tracks", detail: "to enter"}
+ - {count: "0", specialCharacter: "€", info: "fees", detail: "to enter"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
