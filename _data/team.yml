@@ -1,60 +1,112 @@
-- 
+-
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "John Francis"
+  surname: "O’Grady "
+  title: "Chairman"
+  thumbnailUrl: Mads.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {abbr: "CHR", title: "Chairman"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/John_G_The_OG"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/john-francis-o-grady-936a411a5/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Aideen"
+  surname: "McCabee"
+  title: "Co-Chair"
+  thumbnailUrl: Mads.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {abbr: "CCR", title: "Co-Chair"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/aideen-mccabe-433b29192/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Micheál"
+  surname: "Ó Dálaigh "
+  title: "Finance and Venue"
+  thumbnailUrl: Mads.jpg
   team: true
   ribbon: 
-    - {abbr: "GDG", title: "Google Developer Group"}
+    - {abbr: "FAV", title: "Finance and Venue"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/M_ODalaigh"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/miche%C3%A1l-%C3%B3-d%C3%A1laigh/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
+- 
+  id: 3
+  name: "Kevin"
+  surname: "Ryan"
+  title: "Finance and Venue"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "FAV", title: "Finance and Venue" }
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "twitter", link: "https://twitter.com/kev_ryan_95"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-ryan-85549b12b/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
+  name: "Narod"
+  surname: "Kebabcı"
+  title: "Communications"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "CMM", title: "Communications" }
+  social:
+    - {name: "twitter", link: "https://twitter.com/naar_k"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/narod-kebabci/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
+-
+  id: 5
+  name: "Catherine"
+  surname: "Higgins"
+  title: "Communications"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "FAV", title: "Communications" }
+  social:
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
+-
+  id: 6
+  name: "Karen Guerrero"
+  surname: "Vázquez"
+  title: "Sponsorships Liaisons"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Sponsorships Liaisons" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/karen-guerrero-v%C3%A1zquez-685737122/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
+-
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+  name: "Muhammad"
+  surname: "Ali"
+  title: "Sponsorships Liaisons"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Sponsorships Liaisons" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/m-ali-0112/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
+-
+  id: 8
+  name: "Zain"
+  surname: "Arifin"
+  title: "Web Development"
+  thumbnailUrl: Mads.jpg
+  team: true
+  ribbon:
+    - { abbr: "WED", title: "Web Development" }
+  social:
+    - {name: "twitter", link: "https://twitter.com/SaintZainn"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/muhammad-zainul-a-479aa1151/"}
+    - {name: "site", link: "https://genomicsdatascience.ie/"}
