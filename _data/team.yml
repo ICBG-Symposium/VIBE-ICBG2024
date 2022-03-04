@@ -102,7 +102,7 @@
   name: "Zain"
   surname: "Arifin"
   title: "Web Development"
-  thumbnailUrl: Mads.jpg
+  thumbnailUrl: Zain.jpg
   team: true
   ribbon:
     - { abbr: "WED", title: "Web Development" }
