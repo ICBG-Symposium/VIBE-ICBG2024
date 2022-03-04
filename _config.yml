@@ -153,7 +153,7 @@ footerBlocks:
   links:
    - {link: "https://genomicsdatascience.ie/", text: "SFI Genomics CRT"}
  -
-  title: "FAQ"
+  title: "Decorum"
   links:
    - {permalink: "/hackathon/", text: "Code of Conduct"}
  -
