@@ -159,7 +159,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "sysgensummit2021@nuigalway.ie", text: "sysgensummit2021@nuigalway.ie"}
+   - {link: "mailto:sysgensummit2021@nuigalway.ie", text: "sysgensummit2021@nuigalway.ie"}
 
 # Blog
 blogTitle: "Latest news"
