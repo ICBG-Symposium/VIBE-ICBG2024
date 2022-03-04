@@ -1,16 +1,16 @@
 
 -
-  group: "Funded by"
+  group: "FUNDED BY"
   elements:
     - {name: "SFI CRT GDS", description: "SFI Centre for Research Training in Genomics Data Science", link: "https://genomicsdatascience.ie/", imageUrl: "GDS.svg"}
     - {name: "SFI", description: "Science Foundation Ireland", link: "https://www.sfi.ie/", imageUrl: "SFI.svg"}
 #   - {name: "Systems Biology Ireland", description: "Systems Biology Ireland PhD program in Bioinformatics", link: "https://www.ucd.ie/sbi/", imageUrl: "ucd.svg"}
 -
-  group: "Special gratitude to"
+  group: "SPECIAL GRATITUDE TO"
   elements:
     - {name: "The Ireland Funds", link: "https://irelandfunds.org/", imageUrl: "theirelandfunds.svg" }
 -
-  group: "With support from our sponsors"
+  group: "WITH SUPPORT FROM OUR SPONSORS"
   elements:
          # - {name: "Accuscience", description: "Accuscience", link: "https://www.accuscience.ie/", imageUrl: "Accuscience.svg", width: "120px"}
       #   - {name: "BioMarin", description: "BioMarin", link: "https://www.biomarin.com/", imageUrl: "biomarin.svg", width: "120px"}
