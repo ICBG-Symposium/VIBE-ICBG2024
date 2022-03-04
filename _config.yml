@@ -67,13 +67,13 @@ aboutBlock:
  - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "cells2.jpg", text: "The symposium will highlight research that falls under the umbrella of computational genomics and systems biology, with a focus on four broad research themes: Methods development and systems biology, Metagenomics and agrigenomics, Evolution and population genomics, and Health and disease genomics" }
  - {title: "Format", image: "conference.jpg", text: "TBD" }
- - {title: "Social", image: "workshop.jpg", text: "The symposium will gather different experts in systems genomics from various research background. Take this opportunity to get to know more and socialize with leading genomics expert."}
+ - {title: "Social", image: "workshop.jpg", text: "The symposium will gather different experts in systems genomics from various research backgrounds. Take this opportunity to get to know more and socialize with leading genomics expert."}
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "100", specialCharacter: "+", info: "attendees", detail: "from everywhere around the globe"}
- - {count: "10", specialCharacter: "", info: "speakers", detail: "from various research background"}
+ - {count: "10", specialCharacter: "", info: "speakers", detail: "from various research backgrounds"}
  - {count: "4", specialCharacter: "", info: "themes", detail: "of different aspect of genomics"}
  - {count: "0", specialCharacter: "€", info: "fees", detail: "to enter"}
 
