@@ -49,6 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Decorum"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
 
 # Hero Block
 heroImage: "DNA2.jpg"
@@ -226,6 +227,24 @@ enableHackathon: true
 aboutHackathonTitle: "Code of Conduct"
 hackathonRows:
  - {title: "Please respect each other", image: "inclusion.png", details: "The Systems Genomics Summit is dedicated to facilitating the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. The Systems Genomics Summit is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
+
+
+
+# Hackathon
+hackathonTitle: "Sponsors"
+enableHackathon: true
+
+# Hackathon About Block
+aboutSponsorsTitle: "Meet our Sponsors"
+sposorsRows:
+ - {title: "BioSciences", image: "hackathon-2.png", details: "From the outset, Bio-Sciences' business objective was to focus on becoming a market leader in the sales, service and distribution of laboratory equipment, reagents and consumables within the Biotechnology sector. More recently with the evolution of Molecular Diagnostics, technology has brought us into the Clinical Diagnostics market."}
+ - {title: "The Ireland Funds", image: "theirelandfunds.png", details: "The Ireland Funds is a global philanthropic network established in 1976 to promote and support peace, culture, education and community development throughout the island of Ireland, and Irish-related causes around the world. With chapters in 12 countries,The Ireland Funds has raised over $600 million for deserving causes in Ireland and beyond, benefiting more than 3,200 different organizations."}
+ - {title: "Macrogen", image: "macrogen.png", details: "Macrogen is a leading provider of DNA sequencing services, offering fast, high-quality Sanger and next generation sequencing for research and industry."}
+ - {title: "RStudio", image: "rstudio.png", details: "RStudio is dedicated to sustainable investment in free and open-source software for data science."}
+ - {title: "Systems Biology Ireland", image: "ucd.png", details: "Systems Biology Ireland investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks."}
+
+
+
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
