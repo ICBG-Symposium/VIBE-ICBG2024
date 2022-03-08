@@ -113,7 +113,7 @@ ticketsOffers:
   price: "50"
   priceCurrency: "€"
   ticketsNumber: "150"
-  ribbon: "-x%"
+  ribbon: "50% off"
   buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
   buyButtonText: "Register Now"
   ticketContentList: ["Talks", "Refreshment", "Lunch"]
@@ -130,7 +130,7 @@ ticketsOffers:
   ticketContentList: ["Talks", "Refreshment", "Lunch"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
-  disabled: true
+  disabled: false
  -
   name: "Student"
   price: "0"
@@ -143,7 +143,7 @@ ticketsOffers:
   ticketContentList: ["Talks", "Refreshment", "Lunch"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
-  soldOut: true
+  soldOut: false
   soldOutText: "Register Now"
 
 # Footer
