@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "SYSTEMS GENOMICS SUMMIT 2022"
 email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+description: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/zeppelin"
 url: "http://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -21,16 +21,16 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerName: "CRT Genomics Data Science"
+organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
+organizerDescription: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022."
 organizerEmail: "lviv@gdg.org.ua"
 organizerLogo: "/img/seo/logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech, ireland, galway"
+twitterAccount: "@SysGenSummit"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -45,6 +45,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/team/", text: "Team"}
+ - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
@@ -172,7 +173,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Systems Genomics Summit 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event online this February! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Muhammad Zainul Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
+aboutUs: "Systems Genomics Summit 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Muhammad Zainul Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -219,22 +220,22 @@ directionDetailsWideCards:
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
      - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
-# Hackathon
+# Hackathon (actually decorum)
 hackathonTitle: "Hackathon"
 enableHackathon: true
 
-# Hackathon About Block
+# Hackathon About Block (actually decorum)
 aboutHackathonTitle: "Code of Conduct"
 hackathonRows:
  - {title: "Please respect each other", image: "inclusion.png", details: "The Systems Genomics Summit is dedicated to facilitating the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. The Systems Genomics Summit is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
 
 
 
-# Hackathon
+# Sponsors
 sponsorsTitle: "Sponsors"
 enableSponsors: true
 
-# Hackathon About Block
+# Sponsors About Block
 aboutSponsorsTitle: "Meet our Sponsors"
 sposorsRows:
  - {title: "BioSciences", image: "hackathon-2.png", details: "From the outset, Bio-Sciences' business objective was to focus on becoming a market leader in the sales, service and distribution of laboratory equipment, reagents and consumables within the Biotechnology sector. More recently with the evolution of Molecular Diagnostics, technology has brought us into the Clinical Diagnostics market."}
@@ -244,7 +245,41 @@ sposorsRows:
  - {title: "Systems Biology Ireland", image: "ucd.png", details: "Systems Biology Ireland investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks."}
 
 
-
+# Tickets Block
+tickets2Title: "Registration"
+tickets2Info: "Registration open September 1st - November 1st. Limited tickets available."
+tickets2Offers:
+ -
+  name: "Student"
+  # price: "20"
+  # priceCurrency: "EUR"
+  # ticketsNumber: "150"
+  featured: true
+# ribbon: "-5%"
+  buyButtonLink: "eventbrite.com"
+  buyButtonText: "Register Now"
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  #  validFrom: "2021-09-01T00:00"
+  #validThrough: "2021-12-01T23:59"
+  disabled: true
+  soldOut: true
+  soldOutText: "No fee"
+ -
+  name: "Academic/Industry"
+  # price: "40"
+  # priceCurrency: "EUR"
+  # ticketsNumber: "100"
+  # ribbon: "-20%"
+  featured: true
+  buyButtonLink: "eventbrite.com"
+  buyButtonText: "Register Now"
+  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  #validFrom: "2021-09-01T00:00"
+  #validThrough: "2021-12-01T23:59"
+  disabled: true
+  soldOut: true
+  soldOutText: "No fee"
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
