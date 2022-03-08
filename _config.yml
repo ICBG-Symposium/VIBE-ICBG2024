@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Decorum"}
+ - {permalink: "/decorum/", text: "Decorum"}
  - {permalink: "/sponsors/", text: "Sponsors"}
 
 # Hero Block
@@ -231,8 +231,8 @@ hackathonRows:
 
 
 # Hackathon
-hackathonTitle: "Sponsors"
-enableHackathon: true
+sponsorsTitle: "Sponsors"
+enableSponsors: true
 
 # Hackathon About Block
 aboutSponsorsTitle: "Meet our Sponsors"
