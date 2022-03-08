@@ -106,45 +106,45 @@ partnersTitle: "Partners"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
+  price: "50"
+  priceCurrency: "€"
   ticketsNumber: "150"
-  ribbon: "-5%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ribbon: "-x%"
+  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Talks", "Refreshment", "Lunch"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
+  price: "100"
+  priceCurrency: "€"
   ticketsNumber: "100"
-  ribbon: "-20%"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
+  buyButtonText: "Register Now"
+  ticketContentList: ["Talks", "Refreshment", "Lunch"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
  -
   name: "Student"
-  price: "200"
-  priceCurrency: "UAH"
+  price: "0"
+  priceCurrency: "€"
   ticketsNumber: "50"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  ribbon: "free"
+  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
+  buyButtonText: "Register Now"
+  additionalInfo: "Requires a valid student ID at the conference check in."
+  ticketContentList: ["Talks", "Refreshment", "Lunch"]
   validFrom: "2014-08-20T10:00"
   validThrough: "2014-10-23T23:59"
   soldOut: true
-  soldOutText: "Sold Out"
+  soldOutText: "Register Now"
 
 # Footer
 socialLinks:
@@ -244,42 +244,6 @@ sposorsRows:
  - {title: "RStudio", image: "rstudio.png", details: "RStudio is dedicated to sustainable investment in free and open-source software for data science."}
  - {title: "Systems Biology Ireland", image: "ucd.png", details: "Systems Biology Ireland investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks."}
 
-
-# Tickets Block
-tickets2Title: "Registration"
-tickets2Info: "Registration open September 1st - November 1st. Limited tickets available."
-tickets2Offers:
- -
-  name: "Student"
-  # price: "20"
-  # priceCurrency: "EUR"
-  # ticketsNumber: "150"
-  featured: true
-# ribbon: "-5%"
-  buyButtonLink: "eventbrite.com"
-  buyButtonText: "Register Now"
-  additionalInfo: "Requires a valid student ID at the conference check in."
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  #  validFrom: "2021-09-01T00:00"
-  #validThrough: "2021-12-01T23:59"
-  disabled: true
-  soldOut: true
-  soldOutText: "No fee"
- -
-  name: "Academic/Industry"
-  # price: "40"
-  # priceCurrency: "EUR"
-  # ticketsNumber: "100"
-  # ribbon: "-20%"
-  featured: true
-  buyButtonLink: "eventbrite.com"
-  buyButtonText: "Register Now"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  #validFrom: "2021-09-01T00:00"
-  #validThrough: "2021-12-01T23:59"
-  disabled: true
-  soldOut: true
-  soldOutText: "No fee"
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
