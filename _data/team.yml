@@ -3,7 +3,7 @@
   name: "John Francis"
   surname: "O’Grady "
   title: "Chairman"
-  thumbnailUrl: Mads.jpg
+  thumbnailUrl: John.jpg
   team: true
   ribbon: 
     - {abbr: "CHR", title: "Chairman"}
@@ -16,7 +16,7 @@
   name: "Aideen"
   surname: "McCabee"
   title: "Co-Chair"
-  thumbnailUrl: John.jpg
+  thumbnailUrl: Mads.jpg
   team: true
   ribbon: 
     - {abbr: "CCR", title: "Co-Chair"}
