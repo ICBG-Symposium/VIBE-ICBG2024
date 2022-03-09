@@ -54,7 +54,7 @@
   name: "Narod"
   surname: "Kebabcı"
   title: "Communications"
-  thumbnailUrl: narod_k.jpg
+  thumbnailUrl: narod_k.png
   team: true
   ribbon:
     - { abbr: "CMM", title: "Communications" }
