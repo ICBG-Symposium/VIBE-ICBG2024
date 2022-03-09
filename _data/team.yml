@@ -41,7 +41,7 @@
   name: "Kevin"
   surname: "Ryan"
   title: "Finance and Venue"
-  thumbnailUrl: Mads.jpg
+  thumbnailUrl: kevin.jpg
   team: true
   ribbon:
     - { abbr: "FAV", title: "Finance and Venue" }
@@ -54,7 +54,7 @@
   name: "Narod"
   surname: "Kebabcı"
   title: "Communications"
-  thumbnailUrl: Mads.jpg
+  thumbnailUrl: narod_k.jpg
   team: true
   ribbon:
     - { abbr: "CMM", title: "Communications" }
