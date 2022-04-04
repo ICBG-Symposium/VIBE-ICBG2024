@@ -68,7 +68,7 @@
   name: "Catherine"
   surname: "Higgins"
   title: "Communications"
-  thumbnailUrl: Mads.jpg
+  thumbnailUrl: Catherine.jpg
   team: true
   ribbon:
     - { abbr: "FAV", title: "Communications" }
