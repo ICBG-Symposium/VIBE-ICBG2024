@@ -64,7 +64,7 @@ aboutTitle: "About SysGen 2022"
 aboutBlock:
  - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "cells2.jpg", text: " - Biology Methods and development <br> - Metagenomics and agrigenomics <br> - Evolution and population genomics <br> - Health and disease genomics" }
- - {title: "Format", image: "conference.jpg", text: "TBD" }
+ - {title: "Format", image: "conference.jpg", text: "The symposium talks will be categorized based on the 4 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
  - {title: "Social", image: "workshop.jpg", text: "The symposium will gather different experts in systems genomics from various research backgrounds. Take this opportunity to get to know more and socialize with leading genomics expert."}
 
 # Statistic Block
