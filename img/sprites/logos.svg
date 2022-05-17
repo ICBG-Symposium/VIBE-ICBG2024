@@ -52,15 +52,15 @@
     </style>
   </defs>
   <title>SVG_AI_logos</title>
-  <text class="cls-1" transform="translate(57.27949 57.23047) scale(1.03488 1)">Symposium 2022</text>
-  <text class="cls-2" transform="translate(57.32637 18.46045) scale(1.03371 1)">Irish Computational</text>
-  <text class="cls-3" transform="translate(57.17793 38.07666) scale(1.03371 1)">Biology and Genomics</text>
-  <text class="cls-1" transform="translate(57.27949 182.67676) scale(1.03488 1)">Symposium 2022</text>
-  <text class="cls-2" transform="translate(57.32637 143.90723) scale(1.03371 1)">Irish Computational</text>
-  <text class="cls-3" transform="translate(57.17793 163.52344) scale(1.03371 1)">Biology and Genomics</text>
-  <text class="cls-4" transform="translate(57.43623 119.11865) scale(1.0407 1)">Symposium 2022</text>
-  <text class="cls-5" transform="translate(57.48262 80.34912) scale(1.03745 1)">Irish Computational</text>
-  <text class="cls-6" transform="translate(56.3332 99.96533) scale(1.03745 1)">Biology and Genomics</text>
+  <text class="cls-1" transform="translate(57.27949 57.23047) scale(1.03488 1)"></text>
+  <text class="cls-2" transform="translate(57.32637 18.46045) scale(1.03371 1)"></text>
+  <text class="cls-3" transform="translate(57.17793 44.07666) scale(2 2)">ICBG</text>
+  <text class="cls-1" transform="translate(57.27949 182.67676) scale(1.03488 1)"></text>
+  <text class="cls-2" transform="translate(57.32637 143.90723) scale(1.03371 1)"></text>
+  <text class="cls-3" transform="translate(57.17793 169.82344) scale(2 2)">ICBG</text>
+  <text class="cls-4" transform="translate(57.43623 119.11865) scale(1.0407 1)"></text>
+  <text class="cls-5" transform="translate(57.48262 80.34912) scale(1.03745 1)"></text>
+  <text class="cls-6" transform="translate(56.3332 107.96533) scale(2 2)">ICBG</text>
   <g>
     <g>
       <path class="cls-7" d="M30.09852,60.96H26.85675a1.68261,1.68261,0,0,1-1.62089-1.73811V53.55221a24.25485,24.25485,0,0,0-9.423-19.40771A31.376,31.376,0,0,1,3.624,9.04044V3.37073A1.68261,1.68261,0,0,1,5.24493,1.63263H8.4867a1.68261,1.68261,0,0,1,1.62089,1.73811V9.04044A24.25377,24.25377,0,0,0,19.5311,28.44815,31.37709,31.37709,0,0,1,31.7194,53.55221v5.66971A1.68261,1.68261,0,0,1,30.09852,60.96Z" transform="translate(-2.85244 -0.44238)"/>
