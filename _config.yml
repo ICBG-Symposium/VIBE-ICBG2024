@@ -91,7 +91,7 @@ venueSmallImage1: "hbb2.jpg"
 venueSmallImage2: "hbb3.jpg"
 venueSmallImage3: "hbb3.jpg"
 venueTitle: "NUI Galway Human Biology Building"
-venueFeatures: ['<a href="https://www.google.com/maps?q=human+biology+building+nuig&rlz=1C1GCEU_enIE969IE969&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjB__iFweb3AhWbEMAKHfThC5YQ_AUoAnoECAIQBA">Click this view direction</a>.', "Located in the center of NUI Galway"]
+venueFeatures: ['<a href="https://www.google.com/maps?q=human+biology+building+nuig&rlz=1C1GCEU_enIE969IE969&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjB__iFweb3AhWbEMAKHfThC5YQ_AUoAnoECAIQBA" style="color:white">Click this view direction</a>.']
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
