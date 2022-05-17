@@ -87,11 +87,11 @@ rockstarSpeakersButtonText: "Find out more about our speakers"
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "hbb1.png"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage1: "hbb2.jpg"
+venueSmallImage2: "hbb3.jpg"
+venueSmallImage3: "hbb3.jpg"
+venueTitle: "NUI Galway Human Biology Building"
+venueFeatures: ['<a href="https://www.google.com/maps?q=human+biology+building+nuig&rlz=1C1GCEU_enIE969IE969&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjB__iFweb3AhWbEMAKHfThC5YQ_AUoAnoECAIQBA">Click this view direction</a>.', "Located in the center of NUI Galway"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
