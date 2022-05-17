@@ -96,7 +96,7 @@ venueFeatures: ['<a href="https://www.google.com/maps?q=human+biology+building+n
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweet @ us!"
-twitterHashTag: "SysGen2022"
+twitterHashTag: "ICBG2022"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
