@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "SYSTEMS GENOMICS SUMMIT 2022"
+title: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
 email: "devfest@gdg.org.ua"
 description: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: "/zeppelin"
@@ -56,11 +56,11 @@ navigationLinks:
 heroImage: "DNA3.jpg"
 heroTitle: "<typeout>"
 eventDate: "December, 2022"
-typeoutTextValues: '"SYSTEMS GENOMICS SUMMIT"'
-typeoutFallback: "SysGen 2022"
+typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
+typeoutFallback: "ICBG 2022"
 
 # About Block
-aboutTitle: "About SysGen 2022"
+aboutTitle: "About ICBG  2022"
 aboutBlock:
  - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
  - {title: "Themes", image: "cells2.jpg", text: " - Biology Methods and development <br> - Metagenomics and agrigenomics <br> - Evolution and population genomics <br> - Health and disease genomics" }
