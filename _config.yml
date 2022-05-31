@@ -62,7 +62,7 @@ typeoutFallback: "ICBG 2022"
 aboutTitle: "About ICBG  2022"
 aboutBlock:
  - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
- - {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Accessibility in Bioinformatics <br> - Modelling Biological Systems < br> - Agriculture and Population Genomics <br> - Séisiún Gaeilge (Irish Session)" }
+ - {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Accessibility in Bioinformatics <br> - Modelling Biological Systems <br> - Agriculture and Population Genomics <br> - Séisiún Gaeilge (Irish Session)" }
  - {title: "Format", image: "workshop.jpg", text: "The symposium talks will be categorized based on the 6 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
 
 # Statistic Block
@@ -87,7 +87,7 @@ venueBlockTitle: "Venue"
 venueBigImage: "hbb1.png"
 venueSmallImage1: "hbb2_r.jpg"
 venueSmallImage2: "hbb3.jpg"
-venueSmallImage3: "hbb3.jpg"
+venueSmallImage3: "hbb4.jpg"
 venueTitle: "NUI Galway Human Biology Building"
 venueFeatures: ['<a href="https://www.google.com/maps?q=human+biology+building+nuig&rlz=1C1GCEU_enIE969IE969&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjB__iFweb3AhWbEMAKHfThC5YQ_AUoAnoECAIQBA" style="color:white">Click this to view direction</a>.']
 
