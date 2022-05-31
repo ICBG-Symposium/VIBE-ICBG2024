@@ -103,47 +103,7 @@ partnersTitle: "Partners"
 #partnersC4sponsorsButton: "Become a sponsor"
 
 # Tickets Block
-ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket price."
-ticketsEmail: "Should you have questions, please email us on <a href='https://twitter.com/ICBG2022'>Twitter<a> and <a href='https://www.linkedin.com/in/irish-computational-biology-and-genomics-symposium-308558217/'>Linkedin.</a>"
-ticketsOffers:
- -
-  name: "Early Bird"
-  price: "50"
-  priceCurrency: "€"
-  ticketsNumber: "150"
-  ribbon: "50% off"
-  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Talks", "Refreshment", "Lunch"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
- -
-  name: "Last Chance"
-  price: "100"
-  priceCurrency: "€"
-  ticketsNumber: "100"
-  featured: true
-  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
-  buyButtonText: "Register Now"
-  ticketContentList: ["Talks", "Refreshment", "Lunch"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
-  disabled: false
- -
-  name: "Student"
-  price: "0"
-  priceCurrency: "€"
-  ticketsNumber: "50"
-  ribbon: "free"
-  buyButtonLink: "https://www.eventbrite.ie/o/crt-genomics-data-science-amp-ucd-systems-biology-33969832879"
-  buyButtonText: "Register Now"
-  additionalInfo: "Requires a valid student ID at the conference check in."
-  ticketContentList: ["Talks", "Refreshment", "Lunch"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
-  soldOut: false
-  soldOutText: "Register Now"
+ticketsEmail: "Should you have questions, please email us on <a href='https://twitter.com/ICBG2022'>Twitter</a> and <a href='https://www.linkedin.com/in/irish-computational-biology-and-genomics-symposium-308558217/'>Linkedin.</a>"
 
 # Footer
 socialLinks:
