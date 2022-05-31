@@ -105,7 +105,7 @@ partnersTitle: "Partners"
 # Tickets Block
 ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, and lunch. Accommodation is NOT included in the ticket price."
-ticketsEmail: "Should you have questions, please email us at: <a>icbg@nuigalway.ie<a>"
+ticketsEmail: "Should you have questions, please email us at: <a href='mailto:icbg@nuigalway.ie'>icbg@nuigalway.ie<a>"
 ticketsOffers:
  -
   name: "Early Bird"
