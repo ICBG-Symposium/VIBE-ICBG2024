@@ -49,12 +49,12 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/decorum/", text: "Decorum"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+
 
 # Hero Block
 heroImage: "sysgen.jpg"
 heroTitle: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
-eventDate: "December, 2022"
+eventDate: "1-2 December 2022"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2022"
 
@@ -62,9 +62,8 @@ typeoutFallback: "ICBG 2022"
 aboutTitle: "About ICBG  2022"
 aboutBlock:
  - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
- - {title: "Themes", image: "cells2.jpg", text: " - Biology Methods and development <br> - Metagenomics and agrigenomics <br> - Evolution and population genomics <br> - Health and disease genomics" }
- - {title: "Format", image: "conference.jpg", text: "The symposium talks will be categorized based on the 4 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
- - {title: "Social", image: "workshop.jpg", text: "The symposium will gather different experts in systems genomics from various research backgrounds. Take this opportunity to get to know more and socialize with leading genomics expert."}
+ - {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Accessibility in Bioinformatics <br> - Modelling Biological Systems < br> - Agriculture and Population Genomics <br> - Séisiún Gaeilge (Irish Session)" }
+ - {title: "Format", image: "workshop.jpg", text: "The symposium talks will be categorized based on the 6 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
