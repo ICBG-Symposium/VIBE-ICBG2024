@@ -61,7 +61,7 @@ typeoutFallback: "ICBG 2022"
 # About Block
 aboutTitle: "About ICBG  2022"
 aboutBlock:
- - {title: "Student-led", image: "student2.jpg", text: "The format and speakers for the summit have been carefully selected by Bioinformatics and Systems Biology students of UCD and the SFI CRT in Genomics Data Science." }
+ - {title: "Student-led", image: "student2.jpg", text: "The format, speakers, and all activities for the symposium have been carefully selected by the SFI CRT in Genomics Data Science students." }
  - {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Accessibility in Bioinformatics <br> - Modelling Biological Systems <br> - Agriculture and Population Genomics <br> - Seisiún Gaeilge (Irish Session)" }
  - {title: "Format", image: "workshop.jpg", text: "The symposium talks will be categorized based on the 6 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
 
@@ -118,7 +118,7 @@ footerBlocks:
  -
   title: "Decorum"
   links:
-   - {permalink: "/hackathon/", text: "Code of Conduct"}
+   - {permalink: "/decorum/", text: "Code of Conduct"}
  -
   title: "Contacts"
   links:
@@ -162,10 +162,7 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "https://www.maldronhotelgalway.com/", text: "Maldron Hotel Galway"}
 
 # Hackathon (actually decorum)
 hackathonTitle: "Hackathon"
