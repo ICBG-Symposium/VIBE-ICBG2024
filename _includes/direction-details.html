@@ -27,6 +27,7 @@
                         {% assign wideCardColWidth = 12 | divided_by: forloop.length %}
                         <div class="col-md-{{ wideCardColWidth }} col-xs-12">
                             <h5>{{ subCard.title }}</h5>
+                            <p style="text-align:center">We have secured hotel deals for this conference! Call or email the hotels listed below to get exclusive price by mentioning yourself as an ICBG Symposium 2022 participant. </p>
                             <ul>
                                 {% for linkElement in subCard.links %}
                                 <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>

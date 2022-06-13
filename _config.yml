@@ -162,7 +162,7 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://www.maldronhotelgalway.com/", text: "Maldron Hotel Galway"}
+     - {link: "https://www.maldronhotelgalway.com/contact/", text: "Maldron Hotel Galway"}
 
 # Hackathon (actually decorum)
 hackathonTitle: "Hackathon"
