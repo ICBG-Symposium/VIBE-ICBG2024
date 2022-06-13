@@ -160,7 +160,7 @@ directionDetailsWideCards:
   title: "Hotel registration"
   subCards:
    -
-    title: "Hotels"
+    title: ""
     links:
      - {link: "https://www.maldronhotelgalway.com/contact/", text: "Maldron Hotel Galway"}
 
