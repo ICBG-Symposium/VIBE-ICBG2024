@@ -30,7 +30,7 @@ organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech, ireland, galway"
-twitterAccount: "@SysGenSummit"
+twitterAccount: "@ICBG2022"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -109,7 +109,8 @@ partnersTitle: "Partners"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/SysGenSummit", icon: "twitter"}
+ - {link: "https://twitter.com/ICBG2022", icon: "twitter"}
+ - {link: "https://www.linkedin.com/in/icbg2022/", icon: "linkedin"}
 footerBlocks:
  -
   title: "Links"
@@ -122,7 +123,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:sysgensummit2021@nuigalway.ie", text: "icbg@nuigalway.ie"}
+   - {link: "mailto:icbg@nuigalway.ie", text: "icbg@nuigalway.ie"}
 
 # Blog
 blogTitle: "Latest news"
