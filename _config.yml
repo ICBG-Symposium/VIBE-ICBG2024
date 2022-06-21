@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
-email: "icbg@nuigalway.ie"
+email: "icbgsymposium@gmail.com"
 description: "ICBG is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
 baseurl: ""
 url: "https://icbgsymposium.com"
@@ -23,8 +23,8 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "CRT Genomics Data Science"
 organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
-organizerDescription: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022."
-organizerEmail: "icbg@nuigalway.ie"
+organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2022."
+organizerEmail: "icbgsymposium@gmail.com"
 organizerLogo: "/img/seo/logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
