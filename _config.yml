@@ -12,9 +12,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
 email: "icbg@nuigalway.ie"
-description: "Systems Genomics Summit is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
-baseurl: "/zeppelin"
-url: "https://sysgen2022.github.io"
+description: "ICBG is a student-led genomics conference scheduled for February 2022 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
+baseurl: ""
+url: "https://icbgsymposium.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "sysgen2022.github.io"
