@@ -123,7 +123,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
-   - {link: "mailto:icbg@nuigalway.ie", text: "icbg@nuigalway.ie"}
+   - {link: "mailto:icbgsymposium@gmail.com", text: "icbgsymposium@gmail.com"}
 
 # Blog
 blogTitle: "Latest news"
@@ -135,7 +135,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Systems Genomics Summit 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Muhammad Zainul Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
+aboutUs: "ICBG Symposium 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Zain Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
