@@ -26,14 +26,14 @@ organizerAlternateName: "SFI Centre for Research Training in Genomics Data Scien
 organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2022."
 organizerEmail: "icbgsymposium@gmail.com"
 organizerLogo: "/img/seo/logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://icbgsymposium.com/"
 
 # Head
 metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech, ireland, galway"
 twitterAccount: "@ICBG2022"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/logo.png"
+socialImageSrcTwitter: "/img/seo/logo.png"
+socialImageSrcFacebook: "/img/seo/logo.png"
 
 # Documents
 c4pUrl: "http://bit.ly/dfua-c4p"
