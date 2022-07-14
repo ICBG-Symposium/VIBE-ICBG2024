@@ -10,15 +10,4 @@
   social: 
     - {name: "google-plus", link: "https://scholar.google.com/citations?user=4rW5cx4AAAAJ"}
     - {name: "twitter", link: "https://twitter.com/JGDPrendergast "}
-- 
-  id: 3
-  name: "Dr. Nicholas"
-  surname: "McGranahan"
-  company: "CRUK-UCL"
-  title: "Genomics of Disease and Precision Medicine"
-  bio: "Dr Nicholas McGranahan completed his undergraduate degree in Natural Sciences, specializing in Evolutionary Genetics, at the University of Bath before pursuing post-graduate studies at University College London at the Centre of Mathematics and Physics in the Life Science and Experimental Biology (CoMPLEX). In 2011, Dr McGranahan joined Professor Charles Swanton’s group at the CR-UK London Research Institute (now the Francis Crick Institute), completing a PhD in Cancer Genomics in 2015. As a junior group leader within the CRUK Lung Cancer Centre of Excellence, Dr McGranahan’s research interests include using bioinformatics to dissect cancer genome evolution and anti-tumour immunity. His work involves exploring the evolutionary history of cancers through sequencing multiple regions of individual tumours. Dr McGranahan has authored over 40 articles in high impact journals, including first author publications in Science, Nature and Cancer Cell."
-  thumbnailUrl: Nicholas_McGranahan.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ "}
-    - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan "}
+
