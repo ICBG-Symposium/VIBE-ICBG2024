@@ -82,6 +82,10 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "ICBG Symposium 2022 Keynote Speakers"
 rockstarSpeakersButtonText: "Find out more about our speakers"
 
+# Team Block
+speakersBlockTitle: "Keynote Speakers"
+aboutSpeakers: "The ICBG Symposium committees have carefully selected keynote speakers who are leading experts in their respective fields."
+
 # Venue Block
 venueBlockTitle: "Venue"
 venueBigImage: "hbb1.png"
