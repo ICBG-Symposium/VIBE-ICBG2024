@@ -1,16 +1,4 @@
-- 
-  id: 1
-  name: "Professor Carole"
-  surname: "Goble"
-  company: "The University of Manchester"
-  title: "Reproducibility in Bioinformatics"
-  bio: "Carole Goble, CBE, FREng, FBCS, is a Professor of Computer Science at the University of Manchester where she leads a team of researchers, research software engineers and data stewards. She has spent 25 years working in eScience on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines and is one of the founders of the UK’s Software Sustainability Institute. She has led numerous national and European e-Infrastructure projects and is currently the Head of Node of ELIXIR-UK, the national node of the European Research Infrastructure for Life Sciences (ELIXIR) and directs digital infrastructure for the European Research Infrastructure for Industrial Biotechnology (IBISBA). She is also leading workflow infrastructure developments for the EOSC-Life Cluster and Natural History collection digitization."
-  thumbnailUrl: Carole_Goble.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=2G4kqPYAAAAJ&hl=en"}
-    - {name: "twitter", link: "https://twitter.com/caroleannegoble "}
-- 
+-
   id: 2
   name: "Dr. James"
   surname: "Prendergast"
@@ -34,15 +22,3 @@
   social: 
     - {name: "google-plus", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ "}
     - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan "}
-- 
-  id: 4
-  name: "Dr. Nabil"
-  surname: "Fareed Alikhan"
-  company: "Quadram Institute"
-  title: "Microbial Genomics for Health and Industry"
-  bio: "Dr. Nabil is a Bioinformatics Scientific Programmer within the Core Bioinformatics / Page group at the Quadram Institute. He has dedicated his professional life to improve bioinformatics analyses and then using these improvements to find new insight into microbial pathogens. Dr. Nabil completed his doctorate in 2015, which focused on comparative genomics of both O157 and non-O157 Shiga-toxigenic Escherichia coli. He also developed tools and software throughout my PhD, most notably being the the BLAST Ring Image Generator (BRIG). BRIG is a tool for visualizing whole genome comparisons. He then joined Mark Achtman’s group at the University of Warwick where he was a developer on EnteroBase, a web-resource serving over 250,000 genomes; providing genotyping, genome analysis and curated metadata. As of now, Dr. Nabil has joined the Quadram Institute since 2018 and his current duties included developing bioinformatics infrastructure and novel algorithms."
-  thumbnailUrl: Nabil_F.jpg
-  rockstar: true
-  social: 
-    - {name: "google-plus", link: "https://scholar.google.com.au/citations?user=BpzrleYAAAAJ&hl=en"}
-    - {name: "twitter", link: "https://twitter.com/happy_khan"}
