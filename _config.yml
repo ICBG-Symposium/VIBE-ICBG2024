@@ -47,6 +47,7 @@ navigationLinks:
  - {permalink: "/registration/", text: "Registration"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/decorum/", text: "Decorum"}
 
