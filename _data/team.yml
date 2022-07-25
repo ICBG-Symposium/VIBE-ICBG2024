@@ -74,6 +74,7 @@
     - { abbr: "FAV", title: "Communications" }
   social:
     - {name: "site", link: "https://genomicsdatascience.ie/our-people/students/catherine-higgins/"}
+    - {name: "twitter", link: "https://twitter.com/caatherinee_h"}
 -
   id: 6
   name: "Karen Guerrero"
