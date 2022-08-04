@@ -8,7 +8,7 @@
   thumbnailUrl: james_P.jpg
   rockstar: true
   social: 
-    - {name: "google-plus", link: "https://scholar.google.com/citations?user=4rW5cx4AAAAJ"}
+    - {name: "site", link: "https://scholar.google.com/citations?user=4rW5cx4AAAAJ"}
     - {name: "twitter", link: "https://twitter.com/JGDPrendergast"}
 
 -
@@ -21,6 +21,6 @@
   thumbnailUrl: Sandrine.jpeg
   rockstar: true
   social:
-    - {name: "google", link: "https://scholar.google.com/citations?user=hBWARYEAAAAJ"}
+    - {name: "site", link: "https://scholar.google.com/citations?user=hBWARYEAAAAJ"}
     - {name: "twitter", link: "https://mobile.twitter.com/cendrinou"}
 
