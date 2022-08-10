@@ -1,4 +1,17 @@
 -
+  id: 1
+  name: "Professor Carole"
+  surname: "Goble"
+  company: "The University of Manchester"
+  title: "Reproducibility in Bioinformatics"
+  bio: "Carole Goble, CBE, FREng, FBCS, is a Professor of Computer Science at the University of Manchester where she leads a team of researchers, research software engineers and data stewards. She has spent 25 years working in eScience on computational workflows, reproducible science, open sharing, and knowledge and metadata management in a range of disciplines and is one of the founders of the UK’s Software Sustainability Institute. She has led numerous national and European e-Infrastructure projects and is currently the Head of Node of ELIXIR-UK, the national node of the European Research Infrastructure for Life Sciences (ELIXIR) and directs digital infrastructure for the European Research Infrastructure for Industrial Biotechnology (IBISBA). She is also leading workflow infrastructure developments for the EOSC-Life Cluster and Natural History collection digitization."
+  thumbnailUrl: Carole_Goble.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=2G4kqPYAAAAJ&hl=en"}
+    - {name: "twitter", link: "https://twitter.com/caroleannegoble "}
+
+-
   id: 2
   name: "Dr. James"
   surname: "Prendergast"
@@ -10,6 +23,19 @@
   social: 
     - {name: "site", link: "https://scholar.google.com/citations?user=4rW5cx4AAAAJ"}
     - {name: "twitter", link: "https://twitter.com/JGDPrendergast"}
+
+-
+  id: 3
+  name: "Dr. Nicholas"
+  surname: "McGranahan"
+  company: "CRUK-UCL"
+  title: "Genomics of Disease and Precision Medicine"
+  bio: "Dr Nicholas McGranahan completed his undergraduate degree in Natural Sciences, specializing in Evolutionary Genetics, at the University of Bath before pursuing post-graduate studies at University College London at the Centre of Mathematics and Physics in the Life Science and Experimental Biology (CoMPLEX). In 2011, Dr McGranahan joined Professor Charles Swanton’s group at the CR-UK London Research Institute (now the Francis Crick Institute), completing a PhD in Cancer Genomics in 2015.<br> Nicholas established his own research group in 2018 and as a Sir Henry Dale fellow at the UCL-CRUK Lung Cancer Centre of Excellence, his research interests include using bioinformatics to dissect cancer evolution. His team explore the evolutionary history of cancers through sequencing multiple regions of individual tumours. In particular, Dr McGranahan’s research has focused on understanding the importance of genome doubling in tumour evolution, exploring the mutational processes shaping the genomes of cancers over space and time,  and investigating the interface between the cancer genome and the immune microenvironment."
+  thumbnailUrl: Nicholas_McGranahan.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ "}
+    - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan "}
 
 -
   id: 5
