@@ -31,9 +31,20 @@
   thumbnailUrl: Nicholas_McGranahan.jpg
   rockstar: true
   social:
-    - {name: "site", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ "}
-    - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan "}
+    - {name: "site", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ"}
+    - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan"}
 
+-
+  id: 4
+  name: "Dr. Yan"
+  surname: "Wong"
+  company: "University of Oxford"
+  bio: "Yan is evolutionary geneticist with an interest in a wide range of biological problems. After a DPhil in Plant Sciences at Oxford, he collaborated with Richard Dawkins to write The Ancestor’s Tale, a comprehensive history of life in reverse time. This was followed by a period of time as a lecturer at the University of Leeds, then as a TV and radio presenter, most notably on the BBC One show Bang Goes The Theory.<br><br>Yan currently works at Oxford University’s “Big Data Institute” <https://www.bdi.ox.ac.uk/Team/yan-wong> helping to develop open source software for storing, analysing, and simulating huge genomic datasets using an evolutionary approach <https://tskit.dev>. The applications of this approach range from Covid phylogenetics to the “ancestry of everyone on earth” <https://www.science.org/doi/10.1126/science.abi8264>. Yan is also heavily involved in the OneZoom project <https://www.onezoom.org>, a popular online visualization of the entire tree of life down to the species level."
+  thumbnailUrl: Yan.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://www.bdi.ox.ac.uk/Team/yan-wong"}
+    - {name: "twitter", link: "https://twitter.com/DrYanWong"}
 -
   id: 5
   name: "Professor Sandrine"
