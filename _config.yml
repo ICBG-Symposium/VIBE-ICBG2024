@@ -160,7 +160,7 @@ directionDetailsTitle: "Get to Galway"
 directionDetailsCards:
  - {title: "From the Airport", information: 'You can use either train or bus to reach Galway from Dublin Airport. More information is available at this <a href="https://www.tripsavvy.com/how-to-get-from-dublin-to-galway-4799818">site</a>.'}
  - {title: "Public Transit", information: 'Public busses are available in Galway. To find your way to the NUI Galway Human Biology Building, visit this <a href="https://www.google.com/maps/place/The+Human+Biology+Building/@53.2766449,-9.0614814,15z/data=!4m5!3m4!1s0x485b96f17ec4e985:0xc9d0744e751e6211!8m2!3d53.2785951!4d-9.0591318">map</a>.'}
- - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. Check out some of the hotels that partners with us. Do not forget to mention you are with "ICBG Symposium" to get the special rates!'}
 directionDetailsWideCards:
  -
   title: "Hotel registration"
@@ -168,7 +168,7 @@ directionDetailsWideCards:
    -
     title: ""
     links:
-     - {link: "https://www.maldronhotelgalway.com/contact/", text: "Maldron Hotel Galway"}
+     - {link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway"}
 
 # Hackathon (actually decorum)
 hackathonTitle: "Hackathon"
