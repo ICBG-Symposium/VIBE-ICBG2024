@@ -57,3 +57,16 @@
     - {name: "site", link: "https://scholar.google.com/citations?user=hBWARYEAAAAJ"}
     - {name: "twitter", link: "https://mobile.twitter.com/cendrinou"}
 
+-
+  id: 6
+  name: "Dr. Nabil-Fareed"
+  surname: "Alikhan"
+  company: "Quadram institute"
+  bio: "Nabil-Fareed is currently a Bioinformatics Scientific Programmer with Andrew Page at the Quadram Institute Bioscience. He was previously a Senior Research Fellow with Mark Achtman at the University of Warwick. He completed his PhD in 2015, under the supervision of Scott Beatson at the University of Queensland. He graduated from UQ with a Bachelor of Information Technology and a Bachelor of Science in 2008. <br><br>Nabil-Fareed's recent contributions include analysis and data curation for Quadram Institute as part of the COG UK Consortium National effort for tracking COVID19 (SARSCoV2) through genome sequencing. He also develops bioinformatics infrastructure within Quadram Institute, moving towards open web platforms and cloud computing. He contributes to the infrastructure working group within The Public Health Alliance for Genomic Epidemiology (PHA4GE).
+
+Nabil-Fareed's research interest include the population genetics and pathogenesis of enteric pathogens, including Salmonella and E. coli."
+  thumbnailUrl: nabil.png
+  rockstar: true
+  social:
+    - {name: "site", link: "https://scholar.google.com/citations?user=BpzrleYAAAAJ"}
+    - {name: "twitter", link: "https://twitter.com/happy_khan"}
