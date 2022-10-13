@@ -172,8 +172,6 @@ directionDetailsWideCards:
     links:
      - {link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway"}
 
-# Hackathon (actually decorum)
-
 
 # Hackathon About Block (actually decorum)
 aboutHackathonTitle: "Code of Conduct"
@@ -181,9 +179,6 @@ hackathonRows:
  - {title: "Please respect each other", image: "inclusion.png", details: "The Irish Computational Biology and Genomics Symposium is dedicated to facilitate the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. ICBG is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
  - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2022 to familiarise themselves with travel and public health measures that are in place. The ICBG 2022 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2022. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
 
-# Irish Session
-IrishTitle: "seisiun-gaeilge"
-enableIrish: true
 
 # Irish session About block
 aboutIrishTitle: "Siompóisiam Ríomh-Bhitheolaíochta agus Géanómaíochta na hÉireann"
