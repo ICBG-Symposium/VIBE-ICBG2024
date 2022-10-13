@@ -173,8 +173,7 @@ directionDetailsWideCards:
      - {link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway"}
 
 # Hackathon (actually decorum)
-hackathonTitle: "Hackathon"
-enableHackathon: true
+
 
 # Hackathon About Block (actually decorum)
 aboutHackathonTitle: "Code of Conduct"
