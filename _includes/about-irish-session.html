@@ -2,7 +2,7 @@
 <section id="about-Irish" class="about-Irish">
     <div class="content-wrapper">
         <div class="col-md-8 col-md-offset-2">
-            <h3>{{ site.aboutIrishTitle }}</h3>
+            <h4>{{ site.aboutIrishTitle }}</h4>
             {% for row in site.IrishRows %}
             {% assign check = forloop.index0 | modulo:2 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
