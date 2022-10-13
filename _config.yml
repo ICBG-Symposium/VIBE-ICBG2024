@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/irish-session/", text: "Seisiún Gaeilge"}
+ - {permalink: "/seisiun-gaeilge/", text: "Seisiún Gaeilge"}
  - {permalink: "/decorum/", text: "Decorum"}
 
 
@@ -183,12 +183,12 @@ hackathonRows:
  - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2022 to familiarise themselves with travel and public health measures that are in place. The ICBG 2022 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2022. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
 
 # Irish Session
-IrishSessionTitle: "irish-session"
+IrishSessionTitle: "seisiun-gaeilge"
 enableIrishSession: true
 
 # Irish session About block
-aboutIrishSessionTitle: "Siompóisiam Ríomh-Bhitheolaíochta agus Géanómaíochta na hÉireann"
-IrishSessionRows:
+aboutIrishTitle: "Siompóisiam Ríomh-Bhitheolaíochta agus Géanómaíochta na hÉireann"
+IrishRows:
  - {title: "Fúinn", image: "people_talk_s.jpg", details: "Is éard atá i gceist leis an siompóisiam seo ná comhdháil eolaíochta atá faoi stiúir mac léinn PhD chun deis a thabhairt do thaighdeoirí Éireannacha plé a dhéanamh ar an ngéanómaíocht agus ábhair ghaolmhara. Mic léinn ar fad atá ar an gcoiste eagrúcháin (féach anseo) as cohórt 3 den Lárionad SFI d’Oiliúint Taighde san Eolaíocht Sonraí Géanómaíochta (CRT GDS). Tá naonúr mac léinn PhD ar an gcoiste as ceithre ollscoil éagsúla: Ollscoil na Gaillimhe, An Coláiste Ollscoile, Baile Átha Cliath, Coláiste na hOllscoile, Corcaigh, agus Coláiste Ríoga na Máinlia in Éirinn. Beidh an siompóisiam ar siúl ón 1 - 2 Nollaig san Aula Maxima ar champas Ollscoil na Gaillimhe don chéad uair ó gur thosaigh mic léinn an CRT GDS á eagrú. Bhí an chomhdháil ar siúl go fíorúil le dhá bhliain anuas mar gheall ar an bpaindéim."}
  - {title: "An Seisiún Gaeilge", image: "clover_s.jpg",details: "Beidh ''Seisiún Gaeilge'' againn i mbliana ionas go mbeidh deis ag taighdeoirí na hÉireann agus níos faide ó bhaile plé a dhéanamh ar an ngéanómaíocht agus ábhair ghaolmhara trí mheán na Gaeilge. Beidh an seisiún seo ar siúl sa tráthnóna ar an gcéad lá den siompóisiam (1 Nollaig). Táimid ag iarraidh go mbeidh na cainteanna sách ginearálta ionas go bhféadfadh lucht féachana nach saineolaithe iad, chomh maith le taighdeoirí bitheolaíocha tairbhe a bhaint as an siompóisiam. \n\nIs í an aidhm atá ag an togra seo ná go gcuirfeadh sé leis an tuiscint atá ag Gaeilgeoirí ar an ngéanómaíocht agus go dtabharfadh sé deis don phobal labhairt le saineolaithe géanómaíocha agus ceisteanna a chur orthu. Tabharfaidh ár dtogra deis uathúil don phobal Gaeilge páirt a ghlacadh sa chomhrá maidir leis an ról a bheidh ag an ngéanómaíocht sa todhchaí in Éirinn. Is topaic thábhachtach í an ghéanómaíocht maidir le cúrsaí cógais; beidh an leigheas géanómaíoch ag teacht chun cinn sna blianta atá amach romhainn agus tá sé tábhachtach go mbeidh an pobal ar an eolas faoin scéal is déanaí san ábhar seo. Freisin, beidh deis ag taighdeoirí labhairt as Gaeilge faoina gcuid taighde. \n\nMá tá baint agat leis an ngéanómaíocht nó leis an ríomh-bhitheolaíocht, agus má tá spéis agat cur i láthair a dhéanamh ar d’ábhar taighde/spéise, is féidir leat achoimre a chur isteach don seisiún seo ag baint úsáide as an Google Form atá le fáil laistigh den chur síos don ticéad 'Discounted Submission (with Abstract)' ar eventbrite: \n\n<a href='https://www.eventbrite.ie/e/irish-computational-biology-and-genomics-symposium-2022-tickets-399436444157'>nasc clárúcháin</a>\nMá tá suim agat freastal ar an seisiún seo, beidh tuilleadh eolais maidir le ticéid le fáil go luath; coinnígí súil ar ár gcuntas Twitter (@ICBG2022) don nuacht is déanaí. Cuirigí ríomhphost chugainn ag icbg@universityofgalway.ie má tá aon cheist/moladh agaibh faoin togra seo."}
 
