@@ -183,8 +183,8 @@ hackathonRows:
  - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2022 to familiarise themselves with travel and public health measures that are in place. The ICBG 2022 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2022. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
 
 # Irish Session
-IrishSessionTitle: "seisiun-gaeilge"
-enableIrishSession: true
+IrishTitle: "seisiun-gaeilge"
+enableIrish: true
 
 # Irish session About block
 aboutIrishTitle: "Siompóisiam Ríomh-Bhitheolaíochta agus Géanómaíochta na hÉireann"
