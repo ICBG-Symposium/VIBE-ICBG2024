@@ -70,3 +70,15 @@ Nabil-Fareed's research interest include the population genetics and pathogenesi
   social:
     - {name: "site", link: "https://scholar.google.com/citations?user=BpzrleYAAAAJ"}
     - {name: "twitter", link: "https://twitter.com/happy_khan"}
+
+-
+  id: 7
+  name: "Dr. Máire Ní"
+  surname: "Leathlobhair"
+  company: "Trinity College Dublin"
+  bio: "Máire Ní Leathlobhair originally graduated from Trinity College Dublin with a BA in Mathematics. She completed her PhD in Biological Sciences under the supervision of Elizabeth Murchison at the University of Cambridge in 2018. Following three years as a Junior Research Fellow at the University of Oxford, Máire recently started her research group at the School of Genetics and Microbiology in Trinity College Dublin where she is HCI Assistant Professor in Biological Data Analytics. Currently, her main research interests lie in investigating the development of rare cancers."
+  thumbnailUrl: Maire.jpg
+  rockstar: true
+  social:
+    - {name: "site", link: "https://www.tcd.ie/Microbiology/people/nleathlm/"}
+    - {name: "twitter", link: "https://twitter.com/mnileathlobhair"}
