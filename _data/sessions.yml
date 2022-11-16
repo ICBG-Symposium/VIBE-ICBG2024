@@ -1,59 +1,254 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
+  id: 102 # used
+  title: "ICBG symposium registration"
+  description: ""
   service: true
 -
-  id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [63, 69]
-  language: en
-  complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  id: 103 # used
+  title: "Opening address"
+  description: ""
+  service: true
 -
-  id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [64, 65]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [46]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
--
-  id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  id: 104 # used
+  title: "TBA"
+  description: ""
   subtype: keynote
-  speakers: [96]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [4]
+  theme: "Modelling Biological Systems"
+
 -
-  id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  id: 105 # used
+  title: "Sponsor talk: Brennan and Co"
+  description: ""
+  subtype: presentation
+
+-
+  id: 106 # used
+  title: "Student short talk 1"
+  description: "TBA"
+  subtype: presentation
+  theme: "Modelling Biological Systems"
+
+-
+  id: 107 # used
+  title: "Student short talk 2"
+  description: "TBA"
+  subtype: presentation
+  theme: "Modelling Biological Systems"
+
+-
+  id: 108 # used
+  title: "Student short talk 3"
+  description: "TBA"
+  subtype: presentation
+  theme: "Modelling Biological Systems"
+
+-
+  id: 109 # used
+  title: "Coffee break"
+  description: ""
+  service: true
+-
+  id: 110 # used
+  title: "TBA"
+  description: ""
   subtype: keynote
-  speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  speakers: [2]
+  theme: "Agricultural and Population Genomics"
+
+-
+  id: 111 # used
+  title: "Sponsor talk: Systems Biology Ireland"
+  description: ""
+  subtype: presentation
+
+-
+  id: 112 # used
+  title: "Student short talk 4"
+  description: "TBA"
+  subtype: presentation
+  theme: "Agricultural and Population Genomics"
+
+-
+  id: 113 # used
+  title: "Student short talk 5"
+  description: "TBA"
+  subtype: presentation
+  theme: "Agricultural and Population Genomics"
+
+-
+  id: 114 # used
+  title: "Student short talk 6"
+  description: "TBA"
+  subtype: presentation
+  theme: "Agricultural and Population Genomics"
+
+-
+  id: 115 # used
+  title: "Lunch"
+  description: ""
+  service: true
+-
+  id: 116 # used
+  title: "Fáiltiú"
+  description: ""
+  service: true
+-
+  id: 117 # used
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: [10]
+  theme: "Seisiún Gaeilge (Irish Session)"
+-
+  id: 118 # used
+  title: "Gearrchaint 1"
+  description: ""
+  service: true
+-
+  id: 119 # used
+  title: "Tae agus plé"
+  description: ""
+  service: true
+-
+  id: 120 # used
+  title: "Cathal Seoighe"
+  description: ""
+  subtype: presentation
+-
+  id: 122 # used
+  title: "Cainteoirí 2, 3 agus 4"
+  description: ""
+  service: true
+-
+  id: 122 # used
+  title: "Tae agus plé"
+  description: ""
+  service: true
+-
+  id: 201 # used
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: [3]
+  theme: "Genomics of Disease and Precision Medicine"
+
+-
+  id: 202 # used
+  title: "Student short talk 7"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+
+-
+  id: 203 # used
+  title: "Student short talk 8"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+
+-
+  id: 204 # used
+  title: "Student short talk 9"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+-
+  id: 205 # used
+  title: "Coffee break"
+  description: ""
+  service: true
+-
+  id: 206 # used
+  title: "Student short talk 10"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+
+-
+  id: 207 # used
+  title: "Student short talk 11"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+
+-
+  id: 208 # used
+  title: "Student short talk 12"
+  description: "TBA"
+  subtype: presentation
+  theme: "Genomics of Disease and Precision Medicine"
+-
+  id: 209 # used
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: [6]
+  theme: "Microbial Genomics for Health and Industry"
+-
+  id: 210 # used
+  title: "Sponsor talk: Oxford Nanopore"
+  description: ""
+  subtype: presentation
+
+-
+  id: 211 # used
+  title: "Student short talk 1"
+  description: "TBA"
+  subtype: presentation
+  theme: "Microbial Genomics for Health and Industry"
+
+-
+  id: 212 # used
+  title: "Student short talk 2"
+  description: "TBA"
+  subtype: presentation
+  theme: "Microbial Genomics for Health and Industry"
+-
+  id: 213 # used
+  title: "Lunch"
+  description: ""
+  service: true
+-
+  id: 214 # used
+  title: "Poster session"
+  description: ""
+  service: true
+-
+  id: 215 # used
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+  theme: "Reproducibility in Bioinformatics"
+
+-
+  id: 216 # used
+  title: "Student short talk 14"
+  description: "TBA"
+  subtype: presentation
+  theme: "Reproducibility in Bioinformatics"
+
+-
+  id: 217 # used
+  title: "Student short talk 15"
+  description: "TBA"
+  subtype: presentation
+  theme: "Reproducibility in Bioinformatics"
+-
+  id: 218 # used
+  title: "TBA"
+  description: ""
+  subtype: keynote
+  speakers: [5]
+  theme: "Reproducibility in Bioinformatics"
+-
+  id: 219 # used
+  title: "Prizes Announcement: Poster and Short Talk"
+  description: ""
+  service: true
+-
+  id: 220 # used
+  title: "Closing Remarks"
+  description: ""
+  service: true
