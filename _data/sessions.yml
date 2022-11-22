@@ -10,8 +10,8 @@
   service: true
 -
   id: 104 # used
-  title: "TBA"
-  description: ""
+  title: "Modelling in Biology: an Example from Evolutionary Genomics"
+  description: "Often, scientific advances are made when the assumptions of underlying models are found to be inadequate. I will focus on an example from evolutionary genomics, where the assumptions underlying two foundational concepts (the evolutionary “tree”, and the interbreeding “population”) have been undermined by the advent of whole genome analysis. I will present a brief history of these concepts and their role in the development of biological thought, before describing how their inadequacies can start to be addressed by a recent genealogical approach, primarily devised to enable efficient computer simulation. This approach, implemented in our “tree sequence” software toolkit, promises to bring together the study of evolution on different timescales. Focussing on the structure needed to capture results from different statistical and computational models has forced us to examine what these genealogies actually represent. I will argue that our genealogies describe the basic biological processes of mitosis and meiosis, and are therefore less abstract than previous descriptions of the evolutionary process, although several improvements in our approach remain to be be made."
   subtype: keynote
   speakers: [4]
   theme: "Modelling Biological Systems"
@@ -24,21 +24,14 @@
 
 -
   id: 106 # used
-  title: "Student short talk 1"
+  title: "Dr Hui Go"
   description: "TBA"
   subtype: presentation
   theme: "Modelling Biological Systems"
 
 -
   id: 107 # used
-  title: "Student short talk 2"
-  description: "TBA"
-  subtype: presentation
-  theme: "Modelling Biological Systems"
-
--
-  id: 108 # used
-  title: "Student short talk 3"
+  title: "Cosmin Tudose"
   description: "TBA"
   subtype: presentation
   theme: "Modelling Biological Systems"
@@ -50,35 +43,35 @@
   service: true
 -
   id: 110 # used
-  title: "TBA"
-  description: ""
+  title: "How to Build a Better Cow"
+  description: "To a genomics researcher a cow and a human are more similar than different. Both species have similar size genomes and gene number, can be afflicted by similar diseases and traits, and biological processes from gene regulation to body development are highly conserved across them. These similarities make humans a good model organism for the cow and means techniques and approaches developed for humans can rapidly be applied to cattle, while likewise findings from cattle research can potentially be used to improve human health. In this talk I will discuss some of the research we are undertaking bridging the gap between human and cattle research. Illustrating how we are applying approaches developed for humans to livestock research, such as graph genomes, how we are using the understanding of how functional variants conserved across both species can potentially be used to improve both human and cattle health and trying to understand the conservation across species of fundamental processes common to both species such as the regulation of DNA mutations."
   subtype: keynote
   speakers: [2]
   theme: "Agricultural and Population Genomics"
 
 -
   id: 111 # used
-  title: "Sponsor talk: Systems Biology Ireland"
+  title: "Brennan and Co"
   description: ""
   subtype: presentation
 
 -
   id: 112 # used
-  title: "Student short talk 4"
+  title: "Helen Horkan"
   description: "TBA"
   subtype: presentation
   theme: "Agricultural and Population Genomics"
 
 -
   id: 113 # used
-  title: "Student short talk 5"
+  title: "Samuel Carthy"
   description: "TBA"
   subtype: presentation
   theme: "Agricultural and Population Genomics"
 
 -
   id: 114 # used
-  title: "Student short talk 6"
+  title: "Dr. Tom Hall"
   description: "TBA"
   subtype: presentation
   theme: "Agricultural and Population Genomics"
@@ -102,7 +95,7 @@
   theme: "Seisiún Gaeilge (Irish Session)"
 -
   id: 118 # used
-  title: "Gearrchaint 1"
+  title: "Autumn NíDhomhnaill"
   description: ""
   service: true
 -
@@ -112,44 +105,61 @@
   service: true
 -
   id: 120 # used
-  title: "Cathal Seoighe"
+  title: "Professor Cathal Seoighe"
   description: ""
   subtype: presentation
 -
   id: 121 # used
-  title: "Cainteoirí 2, 3 agus 4"
+  title: "DónalO’Shea"
+  description: ""
+  service: true
+
+-
+  id: 122 # used
+  title: "Cian Ó Dubhshláine"
   description: ""
   service: true
 -
-  id: 122 # used
+  id: 123 # used
+  title: "Siothrún Sardina"
+  description: ""
+  service: true
+-
+  id: 124 # used
+  title: "Focal Scoir"
+  description: ""
+  service: true
+-
+  id: 125 # used
   title: "Tae agus plé"
   description: ""
   service: true
+
 -
   id: 201 # used
-  title: "TBA"
-  description: ""
+  title: "Cancer Evolution and Metastasis "
+  description: "Cancer development within an individual is an evolutionary process. This has important clinical implications for cancer prevention and therapy, as well as our understanding of cancer progression and metastatic spread. In this talk, I will outline how we can exploit cancer genomic sequencing data to decipher cancer evolutionary histories and the extent of diversity within individual tumours. I will focus on lung cancer, the leading cause of cancer-related deaths worldwide. I will evaluate how tumours spread from the primary tumour to distant sites, and when this occurs during a tumour’s development. Finally, I will explore how we can use novel bioinformatics tools to shed light on the interface between the cancer cell and the immune microenvironment, and mechanisms of immune escape. I will explore how DNA sequencing data can be harnessed to identify T cells in tumour samples, and the clinical relevance of T cell infiltrate in predicting response to immunotherapy.  "
   subtype: keynote
   speakers: [3]
   theme: "Genomics of Disease and Precision Medicine"
 
 -
   id: 202 # used
-  title: "Student short talk 7"
+  title: "Jacopo Umberto Verga"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
 
 -
   id: 203 # used
-  title: "Student short talk 8"
+  title: "Elle Loughran"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
 
 -
   id: 204 # used
-  title: "Student short talk 9"
+  title: "Sunandini Ramnarayanan"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
@@ -160,21 +170,21 @@
   service: true
 -
   id: 206 # used
-  title: "Student short talk 10"
+  title: "John Scanlan"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
 
 -
   id: 207 # used
-  title: "Student short talk 11"
+  title: "Isabelle Boothman"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
 
 -
   id: 208 # used
-  title: "Student short talk 12"
+  title: "Kane Collins"
   description: "TBA"
   subtype: presentation
   theme: "Genomics of Disease and Precision Medicine"
@@ -193,14 +203,14 @@
 
 -
   id: 211 # used
-  title: "Student short talk 1"
+  title: "Sean Bergin"
   description: "TBA"
   subtype: presentation
   theme: "Microbial Genomics for Health and Industry"
 
 -
   id: 212 # used
-  title: "Student short talk 2"
+  title: "Iseult Jackson"
   description: "TBA"
   subtype: presentation
   theme: "Microbial Genomics for Health and Industry"
@@ -216,29 +226,29 @@
   service: true
 -
   id: 215 # used
-  title: "TBA"
-  description: ""
+  title: "FAIR Computational Workflows in Bioscience: concept to practice"
+  description: "The FAIR (Findable, Accessible, Interoperable, Reusable) principles laid a foundation for sharing and publishing scientific data, now extending to all digital objects including software with the recent publishing of the FAIR principles for Research Software (FAIR4RS).  One kind of software widely used in Biosciences is computational workflow systems – whose adoption has accelerated in the past few years driven by the need for repetitive and scalable data processing, access to and exchange of processing know-how, and the desire for more reproducible (or at least transparent) and quality assured processing methods. Over 320 workflow systems are currently available, although a much smaller number are widely adopted.  As first class, publishable research objects, it seems natural to apply FAIR principles to workflows.  But what does the FAIRness of workflows mean and why does it matter? ELIXIR, European Research Infrastructure for Life Science Data, the European EOSC-Life Workflow Collaboratory, Australia BioCommons and the Workflow Community Initiative, alongside big workflow players like Galaxy, snakemake and Nextflow, are developing an ecosystem of tools, guidelines and best practices to make bioscience workflows FAIR.  In this talk I will shine a light on this work, ranging from the bigger picture of strategic directions to the practicality of daily work in the lab."
   subtype: keynote
   speakers: [1]
   theme: "Reproducibility in Bioinformatics"
 
 -
   id: 216 # used
-  title: "Student short talk 14"
+  title: "Anna Grossbach"
   description: "TBA"
   subtype: presentation
   theme: "Reproducibility in Bioinformatics"
 
 -
   id: 217 # used
-  title: "Student short talk 15"
+  title: "Swathi Ramachandra Upadhya"
   description: "TBA"
   subtype: presentation
   theme: "Reproducibility in Bioinformatics"
 -
   id: 218 # used
-  title: "TBA"
-  description: ""
+  title: "Learning from Data in Single-Cell Transcriptomics"
+  description: "The ability to measure gene expression levels for individual cells (vs. pools of cells) is crucial to address many important biological questions, such as the study of stem cell differentiation, the detection of rare mutations in cancer, or the discovery of cellular subtypes in the brain. Single-cell transcriptome sequencing (RNA-Seq) allows the high-throughput measurement of gene expression levels for entire genomes at the resolution of single cells. RNA-Seq studies provide a great example of the range of questions one encounters in a Data Science workflow, where the data are complex in a variety of ways, there are multiple analysis steps, and drawing on rigorous statistical principles and methods is essential to derive reliable and interpretable biological results. In this talk, I will provide a survey of statistical questions related to the analysis of single-cell RNA-Seq data to investigate the differentiation of stem cells in the brain, including, exploratory data analysis, dimensionality reduction, normalization, expression quantitation, cluster analysis, and the inference of cellular lineages."
   subtype: keynote
   speakers: [5]
   theme: "Reproducibility in Bioinformatics"
