@@ -24,8 +24,8 @@
 
 -
   id: 106 # used
-  title: "Dr Hui Go"
-  description: "TBA"
+  title: "Dr Hui Go: Causal network analysis using genetic instruments"
+  description: "Many studies have focused on identifying disease risk factors. However, whether these risk factors causally affect the disease, and if so, whether their effects are direct or mediated by other factors, are often poorly understood. Knowing causal risk factors and the directionality of their relationships is crucial to understand disease mechanisms and identify “at risk” groups. Mendelian randomization (MR) is a popular method of utilising genetic variants as instruments to investigate causal relationships between risk factors and disease outcomes in observational studies. It mimics randomized controlled trials by assuming that each individual’s genes were inherited randomly from their parents. MR sidesteps the issue of confounding (both observed and unobserved) and reverse causation. There has been a large growth in the application of MR approaches to health research. Most MR methods require parametric models. When sample size and/or the number of variables increases, it is likely that this approach becomes computationally intractable. Network analysis, mainly using machine learning algorithms (e.g. Bayesian network), allows for inclusion of many risk factors and a disease outcome simultaneously in a single model, with the aim to identify direct and indirect effects of the risk factors on the outcome. An advantage of this approach is that it does not require a pre-specified parametric model or impose restrictive assumptions. Hence, they can potentially reduce bias compared to mis-specified complex models. Network analysis is an effective way of exploring data structure by discarding redundant variables (e.g., the PC algorithm) after testing for marginal and conditional (in) dependence properties between each pair of variables. However, the relationships these networks depict are often associations/correlations, and thus, do not necessarily have a causal interpretation. In this talk, I will introduce MR and network analysis, followed by discussion on how one can take forward strengths of both MR and machine learning for causal network analysis."
   subtype: presentation
   theme: "Modelling Biological Systems"
 
@@ -208,7 +208,7 @@
 
 -
   id: 211 # used
-  title: "Sean Bergin: Identification of European isolates of the lager yeast parent Saccharomyces eubayanus."
+  title: "Sean Bergin: GWAS of global C. parapsilosis collection identifies potential novel mechanisms of fluconazole resistance."
   description: "Lager brewing first occurred in Bavaria in the 15th century, associated with restrictions of brewing to colder months. The lager yeast, Saccharomyces pastorianus, is cold tolerant. It is a hybrid between Saccharomyces cerevisiae and Saccharomyces eubayanus, and has been found only in industrial settings. Natural isolates of S. eubayanus were first discovered in Patagonia 11 years ago. They have since been isolated from China, Tibet, New Zealand and North America, but not fromEurope. Here, we describe the first European strains UCD646 and UCD650, isolated from a wooded area on a university campus in Dublin, Ireland. We generated complete chromosome level assemblies of both genomes using long and short read sequencing. The UCD isolates belong to the Holarctic clade. Genome analysis shows that isolates similar to the Irish strains contributed to the S. eubayanus component of the S. pastorianus isolates, but isolates from Tibet share more similarities."
   subtype: presentation
   theme: "Microbial Genomics for Health and Industry"
