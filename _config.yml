@@ -171,7 +171,16 @@ directionDetailsWideCards:
     title: ""
     links:
      - {link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway"}
-
+ - title: "Hotel registration"
+   subCards:
+    - title: "Hotels in partnership with ICBG Symposium"
+      links:
+       - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
+ - title: "What to do in Galway!"
+   subCards:
+    - title: "Galway is a vibrant and brilliant city"
+      links:
+       - { link: "https://www.galwaycity.ie/", text: "Galway City Council" }
 
 # Hackathon About Block (actually decorum)
 aboutHackathonTitle: "Code of Conduct"
