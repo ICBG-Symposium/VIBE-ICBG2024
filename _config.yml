@@ -164,13 +164,6 @@ directionDetailsCards:
  - {title: "Public Transit", information: 'Public busses are available in Galway. To find your way to the University of Galway Human Biology Building, visit this <a href="https://www.google.com/maps/place/The+Human+Biology+Building/@53.2766449,-9.0614814,15z/data=!4m5!3m4!1s0x485b96f17ec4e985:0xc9d0744e751e6211!8m2!3d53.2785951!4d-9.0591318">map</a>.'}
  - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. Check out some of the hotels that partners with us. Do not forget to mention you are with "ICBG Symposium" to get the special rates!'}
 directionDetailsWideCards:
- -
-  title: "Hotel registration"
-  subCards:
-   -
-    title: ""
-    links:
-     - {link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway"}
  - title: "Hotel registration"
    subCards:
     - title: "Hotels in partnership with ICBG Symposium"
@@ -178,9 +171,12 @@ directionDetailsWideCards:
        - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
  - title: "What to do in Galway!"
    subCards:
-    - title: "Galway is a vibrant and brilliant city"
+    - title: "Galway is a vibrant medieval city with a wonderful selection of restaurants, pubs and tourist attractions, like the annual Christmas market currently in Eyre Square. Why not make the most of your Galway trip for #ICBG2022 and visit http://galwaytourism.ie to plan your stay. if you are an international visitor, we would recommend to use train to visit Galway. There are many public transportation options you can choose onece you are in Galway. Visit http://www.galwaytransport.info/2009/07/city-bus-services.html for more information."
       links:
        - { link: "https://www.galwaycity.ie/", text: "Galway City Council" }
+       - {link: "http://galwaytourism.ie", text: "Galway Tourism"}
+       - {link: "https://www.irishrail.ie/", text: "Irish Rail"}
+       - {link: "http://www.galwaytransport.info/2009/07/city-bus-services.html", text: "Galway Bus Services"}
 
 # Hackathon About Block (actually decorum)
 aboutHackathonTitle: "Code of Conduct"
