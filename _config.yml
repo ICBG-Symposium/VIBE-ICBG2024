@@ -23,14 +23,14 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "CRT Genomics Data Science"
 organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
-organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2022."
+organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2023"
 organizerEmail: "icbgsymposium@gmail.com"
 organizerLogo: "/img/seo/logo.png"
 organizerLink: "http://icbgsymposium.com/"
 
 # Head
 metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech, ireland, galway"
-twitterAccount: "@ICBG2022"
+twitterAccount: "@ICBG2023"
 socialImageSrcGooglePlus: "/img/seo/logo.png"
 socialImageSrcTwitter: "/img/seo/logo.png"
 socialImageSrcFacebook: "/img/seo/logo.png"
@@ -49,7 +49,7 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/seisiun-gaeilge/", text: "Seisiún Gaeilge"}
+ - {permalink: "/icbg2022/", text: "ICBG 2022"}
  - {permalink: "/decorum/", text: "Decorum"}
 
 
@@ -57,15 +57,16 @@ navigationLinks:
 # Hero Block
 heroImage: "sysgen.jpg"
 heroTitle: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
-eventDate: "1-2 December 2022"
+eventDate: "4-5 December 2023"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
-typeoutFallback: "ICBG 2022"
+typeoutFallback: "ICBG 2023"
 
 # About Block
-aboutTitle: "About ICBG  2022"
+aboutTitle: "About ICBG"
 aboutBlock:
  - {title: "Student-led", image: "commitee-ICBG.png", text: "The format, speakers, and all activities for the symposium have been carefully selected by the SFI CRT in Genomics Data Science students." }
- - {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Reproducibility in Bioinformatics <br> - Modelling Biological Systems <br> - Agriculture and Population Genomics <br> - Seisiún Gaeilge (Irish Session)" }
+ - {title: "Themes", image: "cells2.jpg", text: "- Cancer genomics and precision medicine / human disease genomics <br> - Agrigenomics <br> - Genomics for pathogen surveillance and control <br> - Biotechnological genomics, including metagenomics <br> - Population genomics and molecular evolution <br> - Methods, frameworks and infrastructure development for genomics"} 
+   #- {title: "Themes", image: "cells2.jpg", text: " - Genomics of Disease and Precision Medicine <br> - Microbial Genomics for Health and Industry <br> - Reproducibility in Bioinformatics <br> - Modelling Biological Systems <br> - Agriculture and Population Genomics <br> - Seisiún Gaeilge (Irish Session)" }
  - {title: "Format", image: "workshop.jpg", text: "The symposium talks will be categorized based on the 6 themes. We will have keynote speaker talks, poster session, and sponsor talks." }
 
 # Statistic Block
@@ -82,7 +83,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 10
-rockstarSpeakersTitle: "ICBG Symposium 2022 Keynote Speakers"
+rockstarSpeakersTitle: "ICBG Symposium 2023 Keynote Speakers"
 rockstarSpeakersButtonText: "Find out more about our speakers"
 
 # Team Block
@@ -94,14 +95,15 @@ venueBlockTitle: "Venue"
 venueBigImage: "Aula3.jpg"
 venueSmallImage1: "Aula2.JPG"
 venueSmallImage2: "Aula1.JPG"
-venueSmallImage3: "NUIG.jpg"
-venueTitle: "Aula Maxima Building University of Galway"
+venueSmallImadirectionDetailsWideCardsge3: "NUIG.jpg"
+#venueTitle: "Aula Maxima Building University of Galway"
+venueTitle: "University of Galway"
 venueFeatures: ['<a href="https://www.google.com/maps/place/Aula+Maxima/@53.2777215,-9.0645123,17z/data=!3m1!4b1!4m5!3m4!1s0x485b96f6b4689fb1:0xfb92de531a0f2092!8m2!3d53.2777215!4d-9.0623236" style="color:white">Click this to view direction</a>.']
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweet @ us!"
-twitterHashTag: "ICBG2022"
+twitterHashTag: "ICBG2023"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -116,8 +118,8 @@ partnersTitle: "Partners"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ICBG2022", icon: "twitter"}
- - {link: "https://www.linkedin.com/in/icbg2022/", icon: "linkedin"}
+ - {link: "https://twitter.com/ICBG2023", icon: "twitter"}
+ - {link: "https://www.linkedin.com/in/icbg2023/", icon: "linkedin"}
 footerBlocks:
  -
   title: "Links"
@@ -142,7 +144,8 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "ICBG Symposium 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Zain Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
+aboutUs: "ICBG Symposium 2023 is organized by a committee of PhD students from three Irish universities (UoG, RCSI and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December!"
+aboutUs-2022: "ICBG Symposium 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Zain Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -164,11 +167,11 @@ directionDetailsCards:
  - {title: "Public Transit", information: 'Public busses are available in Galway. To find your way to the University of Galway Human Biology Building, visit this <a href="https://www.google.com/maps/place/The+Human+Biology+Building/@53.2766449,-9.0614814,15z/data=!4m5!3m4!1s0x485b96f17ec4e985:0xc9d0744e751e6211!8m2!3d53.2785951!4d-9.0591318">map</a>.'}
  - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. Check out some of the hotels that partners with us. Do not forget to mention you are with "ICBG Symposium" to get the special rates!'}
 directionDetailsWideCards:
- - title: "Hotel registration"
-   subCards:
-    - title: "Hotels in partnership with ICBG Symposium"
-      links:
-       - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
+# - title: "Hotel registration"
+#   subCards:
+#    - title: "Hotels in partnership with ICBG Symposium"
+#      links:
+#       - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
  - title: "What to do in Galway!"
    subCards:
     - title: "<p>Galway is a vibrant medieval city with a wonderful selection of restaurants, pubs and tourist attractions, like the annual Christmas market currently in Eyre Square. Why not make the most of your Galway trip for #ICBG2022 and visit <a href='http://galwaytourism.ie'>Galway tourism</a> to plan your stay. <br><br>If you are an international visitor, we would recommend to use train to visit Galway. There are many public transportation options you can choose once you are in Galway. Visit <a href='http://www.galwaytransport.info/2009/07/city-bus-services.html'>http://www.galwaytransport.info/2009/07/city-bus-services.html</a> for more information.</p>"
