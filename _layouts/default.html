@@ -27,7 +27,9 @@ layout: compress
         </div>
     </div>
 
-    {% if page.modal != null %} 
+    {% if page.permalink == '/speakers/' %}
+        {% include speakers-modals2023.html %}
+    {% elsif page.modal != null %} 
     	{% include speakers-modals.html %} 
     {% endif %} 
 

@@ -1,0 +1,21 @@
+-
+  id: 1 # used
+  title: "The Gut Microbiome in Health and Sport"
+  description: ""
+  subtype: keynote
+  speakers: [1]
+  theme: "Microbiome Data Analysis"
+-
+  id: 2 # used
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: [2]
+  theme: "Infectious disease epidemiology"
+-
+  id: 3 # used
+  title: ""
+  description: ""
+  subtype: keynote
+  speakers: [3]
+  theme: "Evolutionary genomics"

@@ -8,4 +8,8 @@ image: sysgen.jpg
 
 {% include top-section.html %}
 
-{% include comingSoon2023.html %}
+{% if site.showSessions %}
+    {% include speakers2023.html %}
+{% else %}
+    {% include speakers2-2023.html %}
+{% endif %}
