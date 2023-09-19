@@ -1,0 +1,92 @@
+-
+  id: 0
+  name: "Jack"
+  surname: "Roban"
+  title: "Chairman"
+  thumbnailUrl: 2023/jack.jpg
+  team: true
+  ribbon: 
+    - {abbr: "CHR", title: "Chairman"}
+  social:
+    - {name: "linkedin", link: "https://ie.linkedin.com/in/jack-roban-5abb06195"}
+- 
+  id: 1
+  name: "Alanah"
+  surname: "McIntosh"
+  title: "Secretary"
+  thumbnailUrl: 2023/alanah.jpg
+  team: true
+  ribbon: 
+    - {abbr: "CCR", title: "Secretary"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/alanah-mcintosh-7a4530222/"}
+- 
+  id: 2
+  name: "Shir"
+  surname: "Dahan"
+  title: "Finance and Venue"
+  thumbnailUrl: 2023/shir.jpg
+  team: true
+  ribbon: 
+    - {abbr: "FAV", title: "Finance and Venue"}
+- 
+  id: 3
+  name: "Mehak"
+  surname: "Chopra"
+  title: "Finance and Venue"
+  thumbnailUrl: 2023/mehak.jpg
+  team: true
+  ribbon:
+    - { abbr: "FAV", title: "Finance and Venue" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mehak-chopra/"}
+-
+  id: 4
+  name: "Bhavya"
+  surname: "Dhaka"
+  title: "Sponsorships Liaisons"
+  thumbnailUrl: 2023/bhavya.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Sponsorships Liaisons" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bhavyadhaka"}
+-
+  id: 5
+  name: "Katie"
+  surname: "Herron"
+  title: "Sponsorships Liaisons"
+  thumbnailUrl: 2023/katie.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Sponsorships Liaisons" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kherronism"}
+-
+  id: 6
+  name: "Ciardha"
+  surname: "Carmody"
+  title: "Communications"
+  thumbnailUrl: 2023/ciardha.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Sponsorships Liaisons" }
+- 
+  id: 7
+  name: "Emily"
+  surname: "Tinsley"
+  title: "Communications"
+  team: true
+  ribbon:
+    - { abbr: "CMM", title: "Communications" }
+-
+  id: 8
+  name: "Sarang"
+  surname: "Bhutada"
+  title: "Website Development"
+  thumbnailUrl: 2023/sarang.jpg
+  team: true
+  ribbon:
+    - { abbr: "WED", title: "Web Development" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
