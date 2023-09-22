@@ -10,7 +10,7 @@
     - {name: "twitter", link: "https://twitter.com/OrlaOS"}
 -
   id: 2
-  name: "Dr Francois"
+  name: "Prof Francois"
   surname: "Balloux"
   company: "University College London"
   bio: "Francois studied at the University of Lausanne where he got his PhD in 2000. He then moved to Edinburgh as a postdoc. Somewhat unexpectedly he was offered an Assistant Professorship by Cambridge University two years after his PhD and moved there in 2002. Five years later he relocated to the newly formed MRC Centre for Outbreak Modelling at Imperial College, and in 2012 moved again to University College London (UCL) where he’s held a post of professor of computational biology, and since 2015 Director of the UCL Genetics Institute. He’s published a few papers over the years but what he’s most proud of is that the majority of the PhD students and postdocs who have gone through his lab have already secured positions as principal investigators themselves."
@@ -24,7 +24,31 @@
   surname: "Scally"
   company: "University of Cambridge"
   bio: "Aylwyn Scally is a researcher in human evolutionary genetics at the University of Cambridge. His research uses computational and mathematical methods with large-scale genetic data, studying the evolution and ancestry of human and great-ape populations, and the genetics of germline mutation."
-  thumbnailUrl: 
+  thumbnailUrl: aylwyn.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/aylwyn_scally"}
+-
+  id: 4
+  name: "Dr Daria"
+  surname: "Iakovishina"
+  company: ""
+  bio: ""
+  thumbnailUrl: blank.png
+  rockstar: true
+-
+  id: 5
+  name: "Dr Zosia"
+  surname: "Miedzybrodzka"
+  company: ""
+  bio: ""
+  thumbnailUrl: blank.png
+  rockstar: true
+-
+  id: 6
+  name: "Dr Aedin"
+  surname: "Culhane"
+  company: ""
+  bio: ""
+  thumbnailUrl: blank.png
+  rockstar: true
