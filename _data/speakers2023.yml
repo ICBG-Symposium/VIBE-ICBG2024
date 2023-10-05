@@ -30,11 +30,11 @@
     - {name: "twitter", link: "https://twitter.com/aylwyn_scally"}
 -
   id: 4
-  name: "Dr Daria"
+  name: "Mrs Daria"
   surname: "Iakovishina"
-  company: ""
-  bio: ""
-  thumbnailUrl: blank.png
+  company: "Breedi B.V."
+  bio: "Daria Iakovishina is an agri-biotech entrepreneur in the field of livestock genomic selection. With a PhD in Bioinformatics from École Polytechnique, Paris, she co-founded <a href='https://breedi.app/'>Breedi</a>, a pioneering company for genomic solutions in livestock agriculture. Previously, she honed her skills as a Senior Bioinformatics Scientist at Atlas Biomed and a Researcher at iBinom. As CEO of Breedi, she's revolutionised livestock breeding in CIS countries using cutting-edge genomic and bioinformatic technologies."
+  thumbnailUrl: daria.jpeg
   rockstar: true
 -
   id: 5
