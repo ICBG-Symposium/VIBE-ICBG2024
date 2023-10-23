@@ -1,7 +1,28 @@
 <!-- Begin Schedule Section -->
+<style>
+    .row {
+    display: flex;
+    }
+
+    .column {
+    flex: 50%;
+    padding: 5px;
+    }
+</style>
 <section id="schedule" class="schedule">
-    <div class="content-wrapper">
-        {% for day in site.data.schedule2023 %}
+    <!-- <div class="row" style="display: flex;">
+        <div class="column">
+          <img src="{{ site.baseurl }}/img/day1.png" alt="Day 1 schedule" style="width:80%">
+        </div>
+        <div class="column">
+          <img src="{{ site.baseurl }}/img/day2.png" alt="Day 2 schedule" style="width:80%">
+        </div>
+    </div> -->
+    <!-- <div class="content-wrapper"> -->
+    <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+        <h5 class="schedule-table-heading"> This is a tentative schedule. More details will be added soon!</h3> 
+        <object data="{{ site.baseurl }}/img/Draft_schedule_outline_ICBG_1.pdf" width="1000" height="800"> </object> 
+        <!-- {% for day in site.data.schedule2023 %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
@@ -77,7 +98,7 @@
             </div>
             {% endfor %}
         </div>
-        {% endfor %}
+        {% endfor %} -->
     </div>
 </section>
 <!-- End Schedule Section -->
