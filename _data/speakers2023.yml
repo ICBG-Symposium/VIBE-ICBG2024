@@ -41,8 +41,8 @@
   name: "Dr Zosia"
   surname: "Miedzybrodzka"
   company: ""
-  bio: ""
-  thumbnailUrl: blank.png
+  bio: "Zosia is Professor of Medical Genetics, University of Aberdeen and Honorary Consultant Clinical Geneticist and Service Clinical Director- Genetics for NHS Grampian. Zosia Miedzybrodzka studied medicine and trained as a clinical researcher and specialist genetics doctor at University of Aberdeen and with the NHS Grampian in the North of Scotland. She uses the roles of service clinical director of NHS laboratory and clinical genetics in the north of Scotland, and honorary consultant clinical geneticist to deliver high quality impactful research in gene discovery, characterisation, clinical epidemiology and rigorous technology assessment. Her work is highly collaborative both locally, nationally and internationally and she has particular interests in evaluation of genomics, Huntington’s disease (HD) and prevention in hereditary cancer. As chair of the Scottish genetics laboratories’ consortium she led NHS Scotland from testing for small panels of genes to exomes and genomes, with widespread cancer testing and beginnings of pharmacogenomics in everyday clinical practice. Recently her work on a breast and ovarian cancer gene, BRCA1, in Orkney came to public attention, leading to Woman and Home Magazine celebrating her as “Britain’s most amazing woman- Science Pioneer” for 2023."
+  thumbnailUrl: zosia.jpg
   rockstar: true
 -
   id: 6

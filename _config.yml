@@ -91,13 +91,17 @@ aboutSpeakers: "The ICBG Symposium committee have carefully selected keynote spe
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueBigImage: "Aula3.jpg"
-venueSmallImage1: "Aula2.JPG"
-venueSmallImage2: "Aula1.JPG"
+# venueBigImage: "Aula3.jpg"
+# venueSmallImage1: "Aula2.JPG"
+# venueSmallImage2: "Aula1.JPG"
+venueBigImage: "hbbbig.jpg"
+venueSmallImage1: "hbb3.jpg"
+venueSmallImage2: "hbb4.jpg"
 venueSmallImadirectionDetailsWideCardsge3: "NUIG.jpg"
 #venueTitle: "Aula Maxima Building University of Galway"
-venueTitle: "University of Galway"
-venueFeatures: ['<a href="https://www.google.com/maps/place/Aula+Maxima/@53.2777215,-9.0645123,17z/data=!3m1!4b1!4m5!3m4!1s0x485b96f6b4689fb1:0xfb92de531a0f2092!8m2!3d53.2777215!4d-9.0623236" style="color:white">Click this to view direction</a>.']
+venueTitle: "Human Biology Building, University of Galway"
+venueFeatures: ['<a href="https://maps.app.goo.gl/cuX4KnGhXSHAmYpMA" style="color:white">Click this to view direction</a>.', 'The venue is wheelchair accessible.']
+#venueFeatures: ['<a href="https://www.google.com/maps/place/Aula+Maxima/@53.2777215,-9.0645123,17z/data=!3m1!4b1!4m5!3m4!1s0x485b96f6b4689fb1:0xfb92de531a0f2092!8m2!3d53.2777215!4d-9.0623236" style="color:white">Click this to view direction</a>.']
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
