@@ -18,11 +18,11 @@
           <img src="{{ site.baseurl }}/img/day2.png" alt="Day 2 schedule" style="width:80%">
         </div>
     </div> -->
-    <!-- <div class="content-wrapper"> -->
-    <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+    <div class="content-wrapper">
+    <!-- <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
         <h5 class="schedule-table-heading"> This is a tentative schedule. More details will be added soon!</h3> 
-        <iframe src="{{ site.baseurl }}/img/Draft_schedule_outline_ICBG_1.pdf" width="1000" height="800"> </iframe> 
-        <!-- {% for day in site.data.schedule2023 %}
+        <iframe src="{{ site.baseurl }}/img/Draft_schedule_outline_ICBG_1.pdf" width="1000" height="800"> </iframe>  -->
+        {% for day in site.data.schedule2023 %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
@@ -67,7 +67,7 @@
                                             {% for speaker in site.data.speakers2023 %}
                                                 {% for session_speaker in session.speakers %}
                                                     {% if session_speaker == speaker.id %}
-                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                                    <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/2023/' | append: speaker.thumbnailUrl }})"></div>
                                                     <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                                         <span class="speaker-position">{{ speaker.company }}</span>
                                                     </p>
@@ -98,7 +98,7 @@
             </div>
             {% endfor %}
         </div>
-        {% endfor %} -->
+        {% endfor %}
     </div>
 </section>
 <!-- End Schedule Section -->
