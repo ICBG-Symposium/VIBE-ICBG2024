@@ -4,7 +4,7 @@
   surname: "O'Sullivan"
   company: "Teagasc Food Research"
   bio: "Orla O’Sullivan is a Senior Computational Biologist in Teagasc Food Research Centre, Ireland and Principal Investigator with VistaMilk and APC Microbiome Ireland (Science foundation Ireland Research Centres). Orla graduated from UCC with a BSc in Biochemistry and subsequently a PhD in Bioinformatics. She is scientific advisor with SeqBiome and sits on the scientific advisory board of Open Research Europe. Orla has a H-Index of 65 with over 16000 citations leading to a list as a Clarivate Analytics Highly Cited Researcher. In 2019, she was awarded the highly prestigious SFI Early Career Researcher of the Year. Her research focuses on elucidating the microbiome from various environments including human gut and lung, soil, rumen and food. Of particular interest to her is the role of fitness and diet, specifically whey protein, on the human gut microbiome both in healthy and diseased cohorts. This research has led to collaborations with many sporting bodies including the Irish Rugby Football Union, Cricket Ireland, Sports Ireland and English Premiership teams."
-  thumbnailUrl: orla.jpg
+  thumbnailUrl: orla2.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/OrlaOS"}
@@ -50,5 +50,5 @@
   surname: "Culhane"
   company: "University of Limerick"
   bio: ""
-  thumbnailUrl: blank.png
+  thumbnailUrl: aedin2.jpg
   rockstar: true
