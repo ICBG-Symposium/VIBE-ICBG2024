@@ -11,6 +11,12 @@
   service: true
 
 -
+  id: 231040 # used
+  title: "Session 1"
+  description: "Theme: Genomics for Pathogen Surveillence & Control"
+  service: true
+
+-
   id: 23104 # used
   title: "Keynote Speaker 1"
   subtype: keynote
@@ -40,6 +46,13 @@
   title: "Coffee break"
   description: ""
   service: true
+
+-
+  id: 231090 # used
+  title: "Session 2"
+  description: "Human Disease Genomics"
+  service: true
+
 -
   id: 23109 # used
   title: "Keynote Speaker 2"
@@ -68,6 +81,12 @@
   id: 23113 # used
   title: "Lunch + Poster Session"
   description: ""
+  service: true
+
+-
+  id: 231140 # used
+  title: "Session 3"
+  description: "Biotechnological Genomics"
   service: true
 
 -
@@ -116,6 +135,13 @@
   title: "Day 2 Opening Address"
   description: ""
   service: true
+
+-
+  id: 232040 # used
+  title: "Session 4"
+  description: "Population Genomics and Molecular Evolution"
+  service: true
+
 -
   id: 23204 # used
   title: "Keynote Speaker 4"
@@ -146,6 +172,13 @@
   title: "Coffee break"
   description: ""
   service: true
+
+-
+  id: 232090 # used
+  title: "Session 5"
+  description: "Agrigenomics"
+  service: true
+
 -
   id: 23209 # used
   title: "Keynote Speaker 5"
@@ -179,6 +212,12 @@
   id: 23214 # used
   title: "Lunch + Poster Session"
   description: ""
+  service: true
+
+-
+  id: 232150 # used
+  title: "Session 6"
+  description: "Methods and Infrastructure Development for Genomics"
   service: true
 
 -
