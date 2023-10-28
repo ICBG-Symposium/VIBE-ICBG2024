@@ -3,7 +3,7 @@
   name: "Jack"
   surname: "Roban"
   title: "Chairman"
-  thumbnailUrl: 2023/jack.jpg
+  thumbnailUrl: 2023/jack.png
   team: true
   ribbon: 
     - {abbr: "CHR", title: "Chairman"}
@@ -14,7 +14,7 @@
   name: "Alanah"
   surname: "McIntosh"
   title: "Secretary"
-  thumbnailUrl: 2023/alanah.jpg
+  thumbnailUrl: 2023/alanah.png
   team: true
   ribbon: 
     - {abbr: "CCR", title: "Secretary"}
@@ -25,16 +25,18 @@
   name: "Shir"
   surname: "Dahan"
   title: "Finance and Venue"
-  thumbnailUrl: 2023/shir.jpg
+  thumbnailUrl: 2023/shir.png
   team: true
   ribbon: 
     - {abbr: "FAV", title: "Finance and Venue"}
+  social:
+    - {name: "linkedin", link: ""}
 - 
   id: 3
   name: "Mehak"
   surname: "Chopra"
   title: "Finance and Venue"
-  thumbnailUrl: 2023/mehak.jpg
+  thumbnailUrl: 2023/mehak.png
   team: true
   ribbon:
     - { abbr: "FAV", title: "Finance and Venue" }
@@ -45,7 +47,7 @@
   name: "Bhavya"
   surname: "Dhaka"
   title: "Sponsorships Liaisons"
-  thumbnailUrl: 2023/bhavya.jpg
+  thumbnailUrl: 2023/bhavya.png
   team: true
   ribbon:
     - { abbr: "SPL", title: "Sponsorships Liaisons" }
@@ -56,7 +58,7 @@
   name: "Katie"
   surname: "Herron"
   title: "Sponsorships Liaisons"
-  thumbnailUrl: 2023/katie.jpg
+  thumbnailUrl: 2023/katie.png
   team: true
   ribbon:
     - { abbr: "SPL", title: "Sponsorships Liaisons" }
@@ -67,24 +69,30 @@
   name: "Ciardha"
   surname: "Carmody"
   title: "Communications"
-  thumbnailUrl: 2023/ciardha.jpg
+  thumbnailUrl: 2023/ciardha.png
   team: true
   ribbon:
     - { abbr: "SPL", title: "Sponsorships Liaisons" }
+  social:
+    - {name: "linkedin", link: ""}
 - 
   id: 7
   name: "Emily"
   surname: "Tinsley"
   title: "Communications"
+  thumbnailUrl: 2023/blank.png
   team: true
   ribbon:
     - { abbr: "CMM", title: "Communications" }
+  social:
+    - {name: "linkedin", link: ""}
+
 -
   id: 8
   name: "Sarang"
   surname: "Bhutada"
   title: "Website Development"
-  thumbnailUrl: 2023/sarang.jpg
+  thumbnailUrl: 2023/sarang.png
   team: true
   ribbon:
     - { abbr: "WED", title: "Web Development" }
