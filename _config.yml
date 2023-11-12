@@ -59,6 +59,8 @@ heroTitle: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
 eventDate: "4th and 5th December 2023"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2023"
+heroButtons:
+ - {text: "Abstract submissions are closed but general admission is open till 20th November, 2023", link: "https://www.eventbrite.ie/e/icbg2023-irish-computational-biology-and-genomics-symposium-2023-tickets-696678753907"}
 
 # About Block
 aboutTitle: "About ICBG"

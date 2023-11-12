@@ -3,7 +3,7 @@
   name: "Jack"
   surname: "Roban"
   title: "Chairman"
-  thumbnailUrl: 2023/jack.png
+  thumbnailUrl: 2023/jack3.png
   team: true
   ribbon: 
     - {abbr: "CHR", title: "Chairman"}
@@ -80,7 +80,7 @@
   name: "Emily"
   surname: "Tinsley"
   title: "Communications"
-  thumbnailUrl: 2023/blank.png
+  thumbnailUrl: 2023/emily.png
   team: true
   ribbon:
     - { abbr: "CMM", title: "Communications" }
