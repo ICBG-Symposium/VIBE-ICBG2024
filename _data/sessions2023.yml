@@ -25,21 +25,24 @@
 
 -
   id: 23105 # used
-  title: "Short Talk 1"
-  description: ""
+  title: "Specificity Matters: Machine Learning in Antibiotic Discovery"
+  description: "The continued efficacy of antibiotics is currently uncertain due to the global dissemination of antibiotic-resistance determinants. In 2019, 4.95 million deaths were associated with antimicrobial resistance-related infections, including almost 700,000 by Klebsiella pneumoniae. A machine learning algorithm was trained on Minimum Inhibitory Concentrations of 9,800 compounds tested versus K. pneumoniae, and finally tested in an independent dataset of 2,450 compounds. 80 sufficiently informative chemoinformatic descriptors were employed by the convolutional neural network model, ensembled across a number of different model settings, which predicts the likelihood of a SMILES representation of a compound inhibiting K. pneumoniae, with strong precision (0.83) and recall (0.78) in the independent dataset. We applied the model to discover which approved and clinically investigated drugs might be repurposed as antibiotics. The top six non-antibiotics tested across 16 K. pneumoniae strains all showed inhibitory activity across all strains, suggesting that there are no common pre-existing resistance mechanisms present versus these drugs. These tested compounds show clinical potential as an antibiotic suitable for application to K. pneumoniae, as well as versus antibiotic resistant E. coli, P. aeruginosa, S. aureus and Enterococcus. In order to study whether this model is tackling specificity on different bacteria, we trained this same model using datasets tested in different bacteria (Enterococcus, E. coli, S. aureus, S. pneumoniae, P. aeruginosa and Mycobacterium). A comparison between these models showed a clear distinction on the predictions between bacteria gram types. In summary, this study highlights the potential of these machine learning models to address the pressing need for the discovery of novel, highly specific antibiotics, thereby contributing to the advancement of precision medicine in the field of microbiology."
   subtype: presentation
+  speaker-name: "Marina Villacampa Fernandez"
 
 -
   id: 23106 # used
-  title: "Short Talk 2"
-  description: ""
+  title: "Talking the talk: Considering genomic epidemiology vernacular through a bacterial accent"
+  description: "Events since 2020 have brought aspects of pathogen genomics and epidemiology into sharp relief, to the extent that concepts and terms such as \"lineage\", \"variant\", and \"mutation\" are now part of our common vernacular. Clearly, sequencing and analysing microbial genomes can offer substantial insight into how pathogens spread, evolve, and cause disease. However, it is also important to remember that bioinformatic approaches need to be considered alongside the biology of chosen pathogens, and that bacterial genomes have several features which distinguish them from both eukaryotes and viruses. In this talk, I will rely on the fact that these epidemiological concepts are now familiar to a very wide audience, to illustrate how important it is to understand a pathogen's population structure alongside having a deep functional understanding of the organism’s genetics and biology. I will use some key published examples from “popular” bacterial pathogens with high burdens of disease, to demonstrate how genomics and epidemiology have refined our understanding of certain infectious diseases and, conversely, where experimental laboratory data have informed the interpretation of bioinformatic data. I aim to highlight that genomic concepts may be intuitive to the public, but their interpretation should also be guided by those familiar with the pathogen under consideration."
   subtype: presentation
+  speaker-name: "Dr Matthew Dorman"
 
 -
   id: 23107 # used
-  title: "Sponsor Talk 1"
+  title: "Sponsor Talk 1: Systems Biology Ireland"
   description: ""
   subtype: presentation
+  speaker-name:
 
 -
   id: 23108 # used
@@ -62,72 +65,129 @@
 
 -
   id: 23110 # used
-  title: "Short Talk 3"
-  description: ""
+  title: "Cell-type specific transcriptomic profiling in schizophrenia identifies changes in GABAergic neurons and oligodendrocytes at transcript level"
+  description: "Schizophrenia is a complex neuropsychiatric disorder which affects approximately 1% of the population. There is an increasing focus on studying the molecular mechanisms of this disorder at cell-type resolution. Cell-type specific changes in schizophrenia are largely unexplored, particularly at the transcript-level. As such, we investigated disease-specific changes in gene expression and chromatin accessibility across a range of cell-types."
   subtype: presentation
+  speaker-name: "Rebecca Mahoney"
 
 -
   id: 23111 # used
-  title: "Short Talk 4"
-  description: ""
+  title: "Spatiotemporal analysis of midbrain dopaminergic subpopulations in an AAV-mediated alpha-synuclein Parkinson's mouse model"
+  description: "OBJECTIVES:
+Pathological hallmarks of Parkinson's Disease (PD) are the progressive and selective degeneration of dopaminergic neurons (DAns) in the substantia nigra (SN) and intraneuronal α-Synuclein inclusions known as Lewy bodies. DAns can be categorized into distinct subpopulations based on location, physiological functions, and expression profiles. Over 60% of nigral DAns express Aldehyde dehydrogenase 1 family member A1 (ALDH1A1). This subpopulation has been identified as selectively vulnerable in post-mortem PD tissue and is over-represented in pathways underpinning vulnerability in PD models. Other findings suggest more complex mechanisms of vulnerability that, during pathological processes, may include changes in neuronal phenotypic and expression profiles. In this study, the distribution and transcriptome of midbrain ALDH1A1+ and ALDH1A1- DAns were elucidated in an mouse model of α-Synuclein pathology.
+METHODS:
+Mice received intra-nigral injections of AAV-expressing human-α-Synuclein (SNCA) or GFP. Brain slices were collected 3- and 8-weeks post-injection. Neuroanatomical regions were delineated and DAn subtypes were identified using immunofluorescence. Spatially-resolved transcriptomics was performed on midbrain ALDH1A1+ and ALDH1A1- DAns using NanoString’s GeoMx Digital Spatial Profiler. Bioinformatics [e.g., clustering, differential expression, enrichment analyses] was performed in R. 
+RESULTS: 
+Increased midbrain SNCA expression was accompanied by diffuse α-Synuclein pathology at both timepoints. Cell counting detected increased vulnerability of ALDH1A1+ DAns in the whole midbrain, although these effects were not evident in individual midbrain regions. Differential expression analysis identified distinct transcriptomic signatures of ALDH1A1+/- subtypes at each timepoint, indicating that α-Synuclein pathology induces subtype- and brain region-specific transcriptional differences over time. Enrichment analysis identified critical pathways associated with each subtype [e.g., synaptic transmission, calcium transport, inflammation], underscoring the functional impact of α-Synuclein pathology.
+CONCLUSIONS:
+Development of α-Synuclein pathology differentially affects expression profiles of midbrain dopaminergic ALDH1A1+/- subpopulations, likely bearing important functional consequences."
   subtype: presentation
+  speaker-name: "Carmen-Jeanette Stepek"
+
 -
   id: 23112 # used
-  title: "Lightning Talks (1 min each)"
-  description: ""
+  title: "Identifying genetic loci influencing the cellular composition of aortic tissues"
+  description: "Aorta, the largest artery, carries oxygen-rich blood from the left ventricle to the circulatory system. Despite advances in treatment and diagnostic methods, the burden of aortic diseases has grown by 12% over the past two decades. Older age, hypertension, hyperlipidemia, and other external factors like smoking can cause the aorta to stiffen, potentially leading to acute aortic syndromes (AAS) and abdominal and thoracic aortic aneurysms. An aortic aneurysm is a balloon-like bulge in the aorta that can rupture or dissect. An aortic dissection occurs when the inner layer of the aorta tears and it carries a high risk of sudden death. Aortic Distensibility is a direct measure of aortic stiffness that can be accurately obtained from cardiovascular magnetic resonance (CMR). Distensibility can predict adverse cardiovascular events and shed light on the relationships between imaging phenotypes and aortic disorders. To find the aortic distensibility, an existing deep-learning convolutional neural network approach was applied on 62,497 MRI subjects from the UK Biobank. Following quality checks, distensibility was measured for 56,765 subjects. GWAS was carried out on the aortic distensibility of these participants with available genotypic data. To further explore the mechanism of aortic disease, we applied deconvolution to gene expression data from aortic samples in 432 individuals from GTEx. This enabled us to identify changes in cellular composition of the aorta associated with aging. In the future, we plan to test whether any of the genetic variants identified through GWAS also show an association with the cell-type conposition of aortic tissues in the GTEx samples. This will enable us to assess whether variation in cell-type composition could help to explain some of the genetic variation in this important physiological phenotype."
   subtype: presentation
+  speaker-name: "Mehak Chopra"
 
 -
   id: 23113 # used
+  title: "Identification of potential therapeutic targets for NK cell-based therapies in Multiple Myeloma through single-cell RNA-Seq analysis"
+  description: "Introduction:
+Multiple myeloma (MM) is a blood cancer resulting from excess plasma cells in bone marrow, linked to immune suppression. Natural Killer (NK) cells are vital for antitumor defense. To understand whether and how the NK cells may be impacted by MM, we analyzed NK cell transcriptomic changes at a single-cell level.
+Methods:
+We integrated 6 scRNA-Seq studies covering all MM stages. NK cells were classified as resident (rNK) or exhausted (eNK) using an algorithm we developed that scores the cell state based on a gene expression signature. The classification has been validated with GSEA and MSigDB gene sets. We characterized NK cells through Differential Gene Expression (DGE), Gene Ontology (GO) enrichment, active ligand-receptor pairs (LIANA), and transcription factors (TF) with pyScenic. An immune checkpoint receptor (ICR) signaling network was created using NicheNet.
+Results:
+The dataset had 14,103 MM and 7,596 healthy NK cells. eNK cells increased in all disease stages (p.value<0.01). They up-regulated ICRs, malignancy-associated genes, and altered the immune microenvironment. A minority of DEG, enriched Biological Processes (BP), and TF were shared by eNK cells in MM and healthy samples. Suggesting disease-specific pathways driving NK cell exhaustion in MM. Cell-cell interactions suggest the tumor microenvironment actively supports immune exhaustion via ICRs. Network analysis ranked genes in the ICR signaling cascade, with top-ranking genes expression showing significant correlation with exhaustion scores. In vitro experiments are planned for gene validation.
+Conclusions:
+Our study revealed myeloma-specific pathways driving NK exhaustion, even early in the disease progression. By delineating the exhaustion signaling cascade, we have pinpointed potential therapeutic targets. These targets are anticipated for experimental evaluation, to design NK cells resistant to the debilitating influences of the tumor microenvironment."
+  subtype: presentation
+  speaker-name: "Jacopo Umberto Verga"
+
+-
+  id: 23114 # used
+  title: "Sponsor Talk 2: Parse Biosciences"
+  description: ""
+  subtype: presentation
+  speaker-name:
+
+-
+  id: 23115 # used
   title: "Lunch + Poster Session"
   description: ""
   service: true
 
 -
+  id: 23116 # used
+  title: "BTLA and PD-1 signals attenuate TCR-mediated gene expression"
+  description: "T cell coinhibitory immune checkpoints, such as PD-1 or BTLA, are bona fide targets in cancer therapy. We used a human T cell reporter line to measure transcriptomic changes mediated by PD-1 and BTLA induced signalling. TCR-complex stimulation resulted in the upregulation of a large number of genes but also repressed a similar number of genes. PD-1 and BTLA signals attenuated transcriptomic changes mediated by TCR-complex signalling: upregulated genes tended to be suppressed and the expression of a significant number of downregulated genes was higher during PD-1 or BTLA signalling. BTLA was a significantly stronger attenuator of TCR-complex-induced transcriptome changes than PD-1. A strong overlap between genes that were regulated indicated quantitative rather than qualitative differences between these receptors. In line with their function as attenuators of TCR-complex mediated changes, we found strongly regulated genes to be prime targets of PD-1 and BTLA signalling."
+  subtype: presentation
+  speaker-name: "Muhammad Zainful Arifin"
+
+-
+  id: 23117 # used
+  title: "Identification of potential neoantigens in cancer-associated fibroblasts isolated from breast cancer patients"
+  description: "Introduction:
+Cancer-associated fibroblasts (CAFs) are a heterogeneous cell type found in the tumour microenvironment (TME). CAFs support tumour growth and metastasis and contribute to therapeutic resistance. CAFs also have a significant impact on immune infiltration and immune responses in the TME. Therefore, therapeutic targeting of CAFs is a viable strategy in the treatment of cancer. In this study, we aim to identify somatic mutations in CAFs, potentially giving rise to neoantigens. Ultimately, we aim to elucidate the therapeutic potential of targeting CAFs through the exploitation of CAF-specific neoantigens.
+Material and methods:
+CAFs and corresponding tumour-associated normal fibroblasts (TANs) were cultured from tissue of 12 breast cancer patients (11 Luminal A and one triple-negative). Bulk RNA-sequencing was carried out on all samples. Leveraging publicly available data, CIBERSORTx was used to characterise CAFs and TANs into three fibroblast subpopulations. Whole-exome sequencing (WES) was carried out on CAFs and TANs from six patients. Landscape of Effective Neoantigens Software (LENS) was used to identify CAF-specific neoantigens.
+Results:
+Our studies confirm the heterogeneity of our patient-derived CAFs and TANs, with the immunosuppressive-myofibroblastic subpopulation being the most prevalent. This is important as for the effective design of CAF-targeting therapies, it is necessary to target pro-tumourigenic CAF subpopulations. WES identified 13 private missense mutations, with five of the six patients exhibiting one or more such variants. Interestingly, genes with these mutations included previously reported CAF markers and genes implicated in tumour metabolism, specifically lipid metabolic pathways. CAFs contribute to lipid metabolism within the TME, thus playing a vital role in cancer progression and tumour immunogenicity. 
+Conclusions:
+This study identifies candidate neoantigens in breast cancer CAFs. The next step is their validation using T-cell immunogenicity assays. These studies may unravel the potential of targeting CAF neoantigens as a way of enhancing the efficacy of anti-cancer therapy."
+  subtype: presentation
+  speaker-name: "Kevin Ryan"
+
+-
   id: 231140 # used
   title: "Session 3"
-  description: "Biotechnological Genomics"
+  description: "Biotechnological Genomics | Metagenomics"
   service: true
 
 -
-  id: 23114 # used
+  id: 23118 # used
   title: "Keynote Speaker 3"
   subtype: keynote
   speakers: [1]
   theme: "Biotechnological Genomics"
 
 -
-  id: 23115 # used
-  title: "Short Talk 5"
-  description: ""
-  subtype: presentation
-
--
-  id: 23116 # used
-  title: "Short Talk 6"
-  description: ""
-  subtype: presentation
-
--
-  id: 23117 # used
-  title: "Short Talk 7"
-  description: ""
-  subtype: presentation
-
--
-  id: 23118 # used
-  title: "Short Talk 8"
-  description: ""
-  subtype: presentation
-
--
   id: 23119 # used
+  title: "Annotation of the Sf9 cell line transcriptome using 3rd generation sequencing"
+  description: "Adeno-associated virus (AAV) based gene therapies have recently emerged as an exciting new modality of treatments [1]. Production of these therapeutics needs a host cell line where the expression and assembly of the AAV vector containing the gene of interest takes place. Currently, insect cell lines have become a viable alternative to traditional human lines (e.g., HEK293), due to their suitability for large scale cell culture processes. In June 2023, the Food and Drug Administration approved a BioMarin’s gene therapy to treat haemophilia produced in the Sf9 cell line, derived from the fall armyworm (Spodoptera frugiperda) [2]. 
+The presence of proteins originating from the cellular factory (i.e., host-cell proteins (HCPs)) in the final AAV drug product is a concern for biopharmaceutical companies and regulatory authorities. Risks associated with HCPs include degradation of the product, reduction of efficacy or, in extreme cases, an immune response in the patient. During the manufacturing process, the removal of HCPs must be reduced to acceptable levels. The United States Pharmacopeia recommends mass spectrometry (MS) as an orthogonal method to traditional ELISAs for HCP assessment, due to its ability to identify individual HCPs [3]. The current annotation of the fall armyworm transcriptome, however, has been largely accomplished computationally and likely remains incomplete, therefore limiting MS-based HCP analysis.
+In this study, we sought to improve the annotation using 3rd generation sequencing technology and construct an improved protein database to enable deeper MS-based characterisation of HCPs in medicines manufactured using the Sf9 cell line. We performed whole transcriptome sequencing of sf9 cells on the PacBio and Oxford Nanopore platforms. We assembled a set of transcript models from these models to reveal novel isoforms and genes. Orthogonal data from sf9 cells (Illumina RNA sequencing) helped us discriminate potential artifacts from high confidence isoforms. In this presentation, we discuss the initial results of our project. 
+
+1.Q. Lin, S. Fan, Y. Zhang, M. Xu, H. Zhang, Y. Yang, A. P. Lee, J. M. Woltering, V. Ravi, H. M. Gunter, W. Luo, Z. Gao, Z. W. Lim, G. Qin, R. F. Schneider, X. Wang, P. Xiong, G. Li, K. Wang, J. Min, C. Zhang, Y. Qiu, J. Bai, W. He, C. Bian, X. Zhang, D. Shan, H. Qu, Y. Sun, Q. Gao, L. Huang, Q. Shi, A. Meyer, B. Venkatesh, The seahorse genome and the evolution of its specialized morphology. Nature. 540, 395–399 (2016).
+2.U.S. Food and Drug Administration Approves BioMarin’s ROCTAVIANTM (valoctocogene roxaparvovec-rvox), the First and Only Gene Therapy for Adults with Severe Hemophilia A, (available at https://www.prnewswire.com/news-releases/us-food-and-drug-administration-approves-biomarins-roctavian-valoctocogene-roxaparvovec-rvox-the-first-and-only-gene-therapy-for-adults-with-severe-hemophilia-a-301867403.html).
+3.Residual Host Cell Protein Measurement in Biopharmaceuticals, (available at https://doi.usp.org/USPNF/USPNF_M8647_01_01.html)."
+  subtype: presentation
+  speaker-name: "Marina Ainciburu"
+
+-
+  id: 23120 # used
+  title: "Cell Type Specific Genome Stability Maintenance in the Non-Aging Cnidarian Hydractinia"
+  description: "The Cnidarian Hydractinia is highly regenerative, does not age, develops no spontaneous neoplasia, and is highly resistant to ionizing irradiation (IR). These features are thought to depend on a population of adult pluripotent stem cells, called i-cells, and may indicate the presence of a highly stable genome in some or all Hydractinia cell types. Here we show that Hydractinia possesses no unique protection against IR-induced DNA double-strand breaks (DSBs), and that cells clear γH2A.X foci within 24 hours, in-line with other organisms. However, in contrast to other animals, Hydractinia stem cells are not more sensitised to IR when compared to somatic cells. Following irradiation, cycling i-cells exit the cell cycle for an extended period. Continued growth of the animals depends on i-cell migration and differentiation only. To explore IR response we generated an Acetic Acid Methanol fixed (ACME) Split Pool Ligation Barcoded (SPLiT) single cell RNA dataset from animals at 1 and 9 days post exposure to 50 Gy IR. We merged the post IR libraries with the new Hydractinia reference atlas, and identified markers of irradiated cells at 1 and 9 days post IR. We assessed differential expression of genes in specific cell types during recovery from high dose IR. Finally, we demonstrate on a single cell level that the mutational load decreases significantly between 1 and 9 days post IR, indicating the presence of a post DSB repair mutation correction mechanism in some or all cell types. Understanding these mechanisms could provide insight into cnidarians' overall resilience to age-related degeneration and cancer."
+  subtype: presentation
+  speaker-name: "Helen Horkan"
+
+-
+  id: 23121 # used
+  title: "An atlas of CMS in colorectal cancers at spatial single-cell resolution"
+  description: "Identification of the consensus molecular subtypes (CMS) opened an immense potential for understanding the prognosis, tumour biology and intertumour heterogeneity in colorectal cancer (CRC). Molecular subtyping in CRC often relies on bulk transcriptomics data. However, it was shown in single-cell studies that CRC tumours may be composed of tumour cells displaying different CMS traits. Therefore, we investigated the intratumour heterogeneity of CRC tumours using spatially resolved single-cell datasets and compared different CMSs as classified by bulk transcriptomics. We analysed >2 million cells in 581 tumour microarrays (TMA) from 219 patients. TMAs were stained and imaged with Cell DIVE technology using selected 56 protein markers, ranging from the markers of the extrinsic and intrinsic apoptosis pathways to the metabolic and immune cell markers. Through multiplexed immunofluorescence imaging analysis, we revealed an atlas illustrating the cell states, spatial heterogeneity, cellular neighbourhoods, cellular network and protein profile of different CMS tumours. Our findings suggest that, at cellular composition, CMS1 tumours have more CD3+, CD8+ and PD1+ cells. Moreover, immune cells are seen in the epithelial layer more frequently in CMS1 than in the other subtypes. KI67, BCLXL and SR2B levels were found to be higher in epithelial cells and CDX2 to be lower in CMS1. We observed higher spatial autocorrelation (Moran’s I) scores of many proteins in CMS2 which suggests expression of the proteins tend to be more clustered in CMS2 tumours. Epithelial cells in the CMS3 tumours were clustered together and closely surrounded by stromal cells. Finally, in CMS4 tumours, regulatory T cells and helper T-cells were found to be far away from cancer cells and the overall epithelial cell content was lower. In conclusion, combining cutting-edge multiplexed imaging technology with novel spatial single-cell analysis, our study provides the first atlas of CRC tumours with regard to their molecular subtypes at single-cell protein resolution and demonstrates a new spatial aspect of tumour structures."
+  subtype: presentation
+  speaker-name: "Batuhan Kisakol"
+
+-
+  id: 23122 # used
   title: "Day 1 Closing Address"
   description: ""
   service: true
+
 -
   id: 23202 # used
-  title: "Coffee"
+  title: "Coffee and Networking"
   description: ""
   service: true
 -
@@ -139,7 +199,7 @@
 -
   id: 232040 # used
   title: "Session 4"
-  description: "Population Genomics and Molecular Evolution"
+  description: "Population Genomics, Molecular Evolution and Agricultural Genomics"
   service: true
 
 -
@@ -151,19 +211,29 @@
 
 -
   id: 23205 # used
-  title: "Short Talk 9"
-  description: ""
+  title: "Characterisation of diverse global ancestries within the UK Biobank"
+  description: "The UK Biobank (UKB) is a large dataset containing in-depth phenotype and genotype data of nearly 500,000 UK participants. Studies leveraging the UKB routinely analyse a subset of the participants with homogenous European-British ancestry, labelled by the UKB as “White British” according to self-identification and genotype-based principal component analysis. Thus, by analysing 78,573 participants without this “White British” label there is an opportunity to understand the under-represented ancestries present in the UKB using population genetic approaches. 
+ 
+Here we characterised world-wide ancestry in the UKB by identifying primary continental ancestry groups. To determine these ancestries, an individuals’ continental ancestry proportions were estimated using the ADMIXTURE algorithm by projecting the UKB samples onto reference populations from the 1000 Genomes and Human Genome Diversity Projects. The machine learning algorithm xgboost was trained using ADMIXTURE data from these reference populations to assign each individual in the UKB to one of seven continental ancestry clusters. These clusters were further divided by applying community detection to a network of Identity-By-Descent sharing connections. With this haplotype sharing data we further characterised sub-continental communities by demographic history, such as population size and relative isolation. 
+
+We find that the UKB is a repository of diverse ancestries primarily from Europe, Africa, and Asia. The ancestry and immigration history of this world-wide ancestry reflects the demographic history of Britain and the Commonwealth in the 20th century. The population structure identified in this study can serve as a control for population history and facilitate nuanced detection of rare functional variation in diverse ancestry groups."
   subtype: presentation
+  speaker-name: "Fiona Pantring"
 
 -
   id: 23206 # used
-  title: "Short Talk 10"
-  description: ""
+  title: "Exploring Genetic Diversity and Identifying Key Contributors in the Thoroughbred Horse Population"
+  description: "Whole-genome sequencing (WGS) is vital for understanding genetic architecture in animal genomics. Researchers commonly employ reference panels and imputation techniques to enhance genotyping resolution while addressing cost constraints. Key factors affecting imputation accuracy include reference panel size, imputation methods, genotyping densities, genetic diversity, minor allele frequencies (MAF), and population relatedness.
+Careful selection of animals for the reference panel is pivotal, especially when dealing with rare variants. Thoroughbred horses, selectively bred for specific exercise phenotypes, exhibit notable inbreeding due to the preservation of popular sire-lines. Recent WGS of the Thoroughbred breed revealed a significant presence of rare variants, making them promising candidates for performance traits. In past Thoroughbred studies, individuals have been primarily selected randomly for such genetic analysis. However, our research introduces a novel approach by utilizing formal algorithms and visual statistical techniques to gain deeper insights into the Thoroughbred population's genetic landscape. 
+We aimed to comprehensively assess the genetic diversity of 16,000 Thoroughbred genotypes to identify significant contributors to the overall genetic makeup. This genotype data is complemented by a 10-generation pedigree information, including numerous half and full-siblings, enhancing our ability to detect and quantify gene variants associated with specific traits. 
+We investigated the degree of inbreeding and kinship coefficients, shedding light on the population's state. To discern the impact of key stallions, we employed visual methods such as Principal Component Analysis, coupled with the projection technique. Our analysis also incorporated cutting-edge visual techniques, including Potential of heat diffusion for affinity-based transition embedding (PHATE) and network construction using the netviewr package. Additionally, well-established population genomics algorithms, such as Key Ancestor Methods (AMAT), and Key Contributors, helped identify individuals with significant genetic influence. 
+Our results underscored a high level of relatedness and pronounced inbreeding within the population, highlighting the substantial impact of specific, well-known stallions. To ensure the accuracy of our selections, we cross-validated them using extensive pedigree data and leveraging kinship estimates, reducing potential redundancy. Our study pioneers a novel approach to identify and rank the most influential individuals within the complex Thoroughbred population, revealing genetic intricacies and providing a carefully curated list of animals for constructing a reference panel. This approach promises to enhance the precision and utility of genomic studies in the Thoroughbred domain."
   subtype: presentation
+  speaker-name: "Kseniia Maksimova"
 
 -
   id: 23207 # used
-  title: "Sponsor Talk 2"
+  title: "Sponsor Talk 3: CloudCIX"
   description: ""
   subtype: presentation
 
@@ -174,12 +244,6 @@
   service: true
 
 -
-  id: 232090 # used
-  title: "Session 5"
-  description: "Agrigenomics"
-  service: true
-
--
   id: 23209 # used
   title: "Keynote Speaker 5"
   subtype: keynote
@@ -187,37 +251,58 @@
   theme: "Agrigenomics"
 
 -
+  id: 232090 # used
+  title: "Session 5"
+  description: "Methods and Infrastructure Development for Genomics"
+  service: true
+
+-
   id: 23210 # used
-  title: "Short Talk 11"
-  description: ""
+  title: "Multimodal Deep Learning for Drug Repurposing: Integrating Gene Expression and Chemical Features"
+  description: "Recent advancements in computational methods, especially in machine learning and deep learning, offer great potential for advancing biological research. This study employs a Multimodal Deep Belief Network (MM-DBN) to seamlessly merge data from two distinct sources: the chemical structures of small molecules and gene expression data, with a specific focus on drug repurposing.
+The MM-DBN consists of three Restricted Boltzmann Machines (RBMs) and undergoes a comprehensive three-step training process. Initially, each model within the MM-DBN is individually trained in an unsupervised manner to capture distributions of each modality. Then, the integrated model is trained to capture distributions between modalities. Finally, the entire model is fine-tuned using a dataset of nearly 3,000 approved and experimental drugs, classifying them into 16 distinct categories.
+Data for the study includes around 29,000 compounds obtained from ZINC and DrugBank. Chemical features are extracted using MACC fingerprints through Padel tools, while gene expression data is sourced from Hormonizom, a project rooted in the LINCS initiative. Comparative evaluation against SVM demonstrates the commendable accuracy of the MM-DBN.
+Going beyond mere classification, the study explores misclassifications as potential opportunities for drug repurposing. A meticulous analysis, leveraging the Comparative Toxicogenomics Database (CTD), identifies curated and inferred references supporting the repurposing of drugs previously misclassified.
+This research not only emphasizes the potential for drug repurposing but also underscores the critical role of leveraging multimodal data to enhance accuracy and reliability in drug repurposing within the realms of biology and genomic data science."
   subtype: presentation
+  speaker-name: "Dr Seyed Aghil Hooshmand"
 
 -
   id: 23211 # used
-  title: "Short Talk 12"
-  description: ""
+  title: "Using Copy Number Variants Inferred from Single-Cell RNA Sequencing Data to Identify Malignant Cells in Acute Myeloid Leukaemia"
+  description: "Background: Acute myeloid leukaemia (AML) is an aggressive malignancy, resulting in the accumulation of poorly differentiated white blood cells in the bone marrow (BM). In AML, normal and malignant blood production take place simultaneously and the malignant cells share features with normal haematopoietic cells which makes identifying the malignant cells a challenging task. Single cell transcriptomics (scRNA-seq) data have been used in recent years to infer the presence of copy number variants (CNVs). We hypothesised that AML cells may differ from normal haematopoietic cells in the complement of expressed CNVs which could be used to demarcate the malignant cells from their normal counterparts.
+Methods: We previously performed scRNA-seq on 28 longitudinal samples (diagnosis, n=10; remission, n=7; relapse, n=11) from BM aspirates of 10 AML patients. In the current project we evaluated the ability of three different CNV profiling tools (inferCNV, CopyKAT, Numbat) to identify the leukemic cell populations based on altered CNV profiles. InferCNV and CopyKAT use expression levels of adjacent genes to infer genomic copy numbers, while Numbat integrates additional allelic ratio and haplotype data to identify CNVs present.
+Results: All diagnosis and relapse samples had detectable CNVs which included deletions, amplifications, and copy-neutral loss of heterozygosity events across the genome. The tools differed in their malignant predictions with only 41% of malignant cells predicted to be malignant by both CopyKAT and Numbat with the concordance of these predictions showing variability between individual samples.
+Conclusion: While CNVs show promise for identifying malignant AML cells, a few limitations of this approach must be recognised, namely how to account for malignant cells without CNVs. Additional features such as an LSC/AML-specific gene-expression signature should therefore be incorporated to improve the predictive performance of the malignancy identification method, which will be the focus of future work."
   subtype: presentation
+  speaker-name: "Micheál Ó Dálaigh"
+
 -
   id: 23212 # used
-  title: "Sponsor Talk 3"
-  description: ""
+  title: "Machine learning for the selection of signature genes for muscle aging"
+  description: "Aging is the primary risk factor for numerous diseases, with sarcopenia, and age-related muscle loss. Prevalence estimates currently range from 5% to 13% among individuals aged over 60 and as high as 50% in those aged 80 and older. Projections indicate that sarcopenia will affect approximately 18 million people in Europe by 2045. Muscle mass is lost at approximately 3% to 8% per decade after the age of 30, with an even steeper decline post-60. 
+
+ The absence of a cure for sarcopenia highlights the urgency in identifying and validating therapeutic targets. Unfortunately, target identification has proven challenging, with many candidates showing poor associations with the disease or failing altogether. Computational modeling offers promise in this endeavor, as it permits the integration of various biological components and interactions into a cohesive network, reducing time and cost in the process. 
+
+ In this project, we use a blend of machine learning/pattern recognition techniques to discern the signature of muscle aging across three age groups: young (18-35), middle-aged (35-65), and old (+65), utilizing data from over 900 individuals worldwide encompassing 23 distinct studies of changes in gene expression in vastus Lateralis. We aim to eliminate the subjectivity of arbitrary thresholds used to determine gene relevance, identifying patterns of gene expression changes that may be accentuated during muscle aging. 
+
+ Our objective is to identify a group of genes that serve as a signature of age-related muscle loss, whereby a straightforward learning model can capture differences. 
+
+ Preliminary findings demonstrate that with Z-score normalization, 24 genes highlighted a Matthews correlation coefficient that ranging from 0.35 and 0.47 depending on the dataset evaluated. Notably, the old cohort proves the easiest to identify, with over 80% correctly classified as such. The middle-aged group poses the greatest challenge, with only around 40% correctly classified, often with the most common misclassification being middle-aged individuals categorized as old."
   subtype: presentation
+  speaker-name: "Karen Guerrero Vazquez"
+
 -
   id: 23213 # used
   title: "Lightning Talks (1 min each)"
   description: ""
   subtype: presentation
+  speaker-name:
 
 -
   id: 23214 # used
   title: "Lunch + Poster Session"
   description: ""
-  service: true
-
--
-  id: 232150 # used
-  title: "Session 6"
-  description: "Methods and Infrastructure Development for Genomics"
   service: true
 
 -
@@ -229,34 +314,59 @@
 
 -
   id: 23216 # used
-  title: "Short Talk 13"
-  description: ""
+  title: "Overview of Molecular Diagnostics in Irish Clinical Oncology"
+  description: "Cancer is fundamentally a disease of genetic origins. As such, molecular diagnostics for genetic and cell surface markers are often critical for patient care. In Ireland, the National Cancer Control Programme (NCCP) develops national cancer therapy regimens, which provide guidance for when such a diagnostic is clinically indicated.
+
+To provide an overview of the current use of molecular testing for cancer care in Ireland, we first compiled and reviewed the 748 therapy indications included in the 471 NCCP National Systemic Anticancer Therapy regimens. From these, we identified 205 indications directly informed by approximately 25 molecular genotypes/phenotypes.
+
+For the cancer types listed in these indications, we then compared their incidence as reported by National Cancer Registry Ireland to molecular subtype rates in published literature to establish both the size of the Irish population that could benefit from molecular testing, as well as the expected number of patients that would then be eligible to receive a molecular-guided therapy. We estimate that over 10,000 patients (approx. 40%) should be receiving some form of molecular diagnostic test yearly to identify the subpopulation of at least 6,300 cancer patients (approx. 25%) that stand to benefit from current molecular-diagnostic-guided therapeutics used in Ireland.
+
+As precision medicine advances, with clinical trials and novel or repurposed drugs becoming more available, the need for molecular testing is likely to increase steadily until the total number of required molecular tests converges with, and exceeds, the total number of cancer cases in Ireland. This work highlights the importance of centralised data collection and institutions such as the NCCP and National Genetics and Genomics Office in ensuring that Irish healthcare keeps pace with scientific advancement."
   subtype: presentation
+  speaker-name: "Tyler Medina"
+
+-
+  id: 23222 # used
+  title: "Coffee break"
+  description: ""
+  service: true
 
 -
   id: 23217 # used
-  title: "Short Talk 14"
-  description: ""
+  title: "AutoPeptideML: An Automated Machine Learning Method for Building Peptide Bioactivity Predictors Leveraging Protein Language Models"
+  description: "Automated machine learning (AutoML) solutions can bridge the gap between new computational advances and their real-world applications by enabling experimental scientists to build their own custom models. Here, we consider the design of such a tool for developing peptide bioactivity predictors. We analyse different design choices concerning data acquisition and negative class definition, homology partitioning for the construction of independent evaluation sets, the use of protein language models as a general sequence featurization method, and model selection and hyperparameter optimisation. Finally, we integrate the conclusions drawn from this study into AutoPeptideML, an end-to-end, user-friendly application that enables experimental researchers to build their own custom models, facilitating compliance with community guidelines.
+
+The source code, documentation, and data will be made available in the project GitHub repository: https://github.com/IBM/AutoPeptideML. Additionally, we are working on deploying a web-server."
   subtype: presentation
+  speaker-name: "Raúl Fernández Díaz"
 
 -
   id: 23218 # used
-  title: "Short Talk 15"
-  description: ""
+  title: "De-nosing auto encoders for neuroimaging endophenotype derivation of Alzheimer's disease data"
+  description: "Alzheimer’s disease (AD) is a debilitating neurodegenerative condition marked by memory loss, cognitive impairment, and large patterns of brain atrophy. To date, several patterns of neuroanatomical variation have been repeatedly observed, including temporal lobe volumetric reductions and ven-
+tricular enlargement [1, 2]. However, such observations have historically focused on regions in isolation, which is likely not reflective of AD neuroanatomical manifestations. Additionally, such relationships have been described in linear terms, which may be a prohibitive modelling assumption.
+Here, we present the use of interpretable unsupervised de-noising autoencoders to model the neuroanatomical variation of 533 AD participants and controls from the Alzheimer’s Disease Neuroimaging Initiative. We condition our latent node values on AD status to determine the node with the most
+statistically significant differential values in AD participants relative to controls (adj.P = 4e − 6). Further, we investigate the genetic properties of our discriminative node by carrying out a genome-wide association (GWA) study.
+Results from this association study identify three significant loci located in long non-coding RNA transcripts (RP11-239H6.2, RP11-509J21.1, and RP11-707M1.1 ) aligning with an emerging body of literature linking non-coding RNA expression to AD progression [3]. We further demonstrate that the regions with the largest contribution to node output are consistent with previous neuroanatomical findings, including atrophy in several temporal gyrus structures. This method offers a flexible non-linear modelling approach to deriving composite biomarkers of neuropsychiatric phenotypes and examining their genetic properties.
+
+This work has been supported by Science Foundation Ireland under Grant number 18/CRT/6214
+References
+[1] Davis C Woodworth, Nasim Sheikh-Bahaei, Kiana A Scambray,
+Michael J Phelan, Mari Perez-Rosendahl, Mar ́ıa M Corrada, Claudia H Kawas, Seyed Ahmad Sajjadi, and Alzheimer’s Disease Neuroimaging Initiative. Dementia is associated with medial temporal atrophy even after accounting for neuropathologies. Brain communications, 4(2):fcac052, 2022.
+[2] J. S. Luxenberg, J. V. Haxby, H. Creasey, M. Sundaram, and S. I. Rapoport. Rate of ventricular enlargement in dementia of the alzheimer type correlates with rate of neuropsychological deterioration. Neurology, 37(7):1135–1135, 1987.
+[3] Parnian Shobeiri, Sanam Alilou, Mehran Jaberinezhad, Farshad Zare, Nastaran Karimi, Saba Maleki, Antonio L Teixeira, George Perry, and Nima Rezaei. Circulating long non-coding rnas as novel diagnostic biomarkers for alzheimer’s disease (ad): A systematic review and metaanalysis. Plos one, 18(3):e0281784, 2023."
   subtype: presentation
+  speaker-name: "Shane O’Connell"
 
 -
   id: 23219 # used
-  title: "Short Talk 16"
-  description: ""
+  title: "Deciphering the genomic architecture of the human peripheral blood transcriptomic response to Mycobacterium tuberculosis antibacterial treatment."
+  description: "Mycobacterium tuberculosis is the causative agent of tuberculosis disease (TB). Recent estimates report that approximately 6.4 million people were diagnosed with TB in 2021 and economic forecasting suggests that TB is expected to cost over US$1 trillion during the period 2015-2030. Tuberculosis treatment is a protracted process, characterised by the administration of strong antibiotics over a period of 1-6 months. Studies have identified transcriptional changes occurring during TB treatment; however, no study has examined the genomic architecture undergirding this transcriptional response. Here, we leveraged published peripheral blood RNA-seq data from a total of n = 48 individuals representing diverse ancestral populations with confirmed M. tuberculosis infection before and at four stages post-treatment (median sampling points; -1D, +7D, +55D, +166D, and +286D). Using DeepVariant and the 1000 Genomes Project WGS reference panel, we called, imputed, and retained a total of 1,506,864 common variants from these RNA-seq reads that, collectively, reflect known global population genetic structure. Associating these variants to proximal (<100 kb) gene transcript abundance levels at each sampling point using TensorQTL revealed hundreds of consistent and time point-specific cis-eGenes (FDR Padj < 0.1). These eQTLs provide a snapshot of the genetic architecture underpinning the peripheral blood transcriptional response to TB treatment. Integrating these results with GWAS data for TB treatment drug-induced liver injury (DILI) will, potentially, identify genes with expression patterns associated with TB treatment DILI and contribute to the development of new therapeutics that mitigate this adverse event."
   subtype: presentation
+  speaker-name: "John O’Grady"
+
 -
   id: 23220 # used
-  title: "Prizes"
-  description: ""
-  service: true
--
-  id: 23221 # used
-  title: "Day 2 Closing Address"
+  title: "Prizes + Closing Address"
   description: ""
   service: true
