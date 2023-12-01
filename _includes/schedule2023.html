@@ -20,10 +20,10 @@
     </div> -->
     <div class="content-wrapper">
     <!-- <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-        <h5 class="schedule-table-heading"> This is a tentative schedule. More details will be added soon!</h3> 
         <iframe src="{{ site.baseurl }}/img/Draft_schedule_outline_ICBG_1.pdf" width="1000" height="800"> </iframe>  -->
         {% for day in site.data.schedule2023 %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
+			<h5 class="schedule-table-heading"> The abstract book can be found <a href="https://drive.google.com/file/d/1WpoMRx0NE63my3nZ3Yl6D5ioY0WMIhQY/view?usp=drive_link" target="_blank">here</a></h5> 
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label">Day {{ forloop.index }}</div>
