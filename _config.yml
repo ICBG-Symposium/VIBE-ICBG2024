@@ -7,7 +7,7 @@ safe: false
 markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
+date: 1992-27-07
 
 # Site Settings
 title: "ICBG/VIBE 2024"
