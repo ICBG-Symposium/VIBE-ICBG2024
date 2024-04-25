@@ -1,5 +1,7 @@
-- 
+-
   group: "ORGANIZER"
   elements:
-    - {name: "SFI CRT GDS", description: "SFI Centre for Research Training in Genomics Data Science", link: "https://genomicsdatascience.ie/", imageUrl: "GDS.svg"}
--
+    - {name: "SFI CRT GDS",
+       description: "SFI Centre for Research Training in Genomics Data Science",
+       link: "https://genomicsdatascience.ie/",
+       imageUrl: "GDS.svg"}

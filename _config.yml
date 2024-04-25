@@ -32,7 +32,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "CRT Genomics Data Science"
 organizerAlternateName: "SFI Centre for Research Training in Genomics Data Science"
-organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2023"
+organizerDescription: "ICBG is a student-led genomics symposium scheduled for December 2024"
 organizerEmail: "icbgsymposium@gmail.com"
 organizerLogo: "/img/seo/logo.png"
 organizerLink: "http://icbgsymposium.com/"
@@ -120,7 +120,9 @@ venueFeatures: ['<a href="https://maps.app.goo.gl/cuX4KnGhXSHAmYpMA" style="colo
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Tweet @ us!"
-twitterHashTag: "ICBG2023"
+twitterHashTag: 
+  - "ICBG2024"
+  - "VIBE2024"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
@@ -135,7 +137,7 @@ partnersTitle: "Partners"
 
 # Footer
 socialLinks:
- - {link: "https://twitter.com/ICBG2023", icon: "twitter"}
+ - {link: "https://twitter.com/VIBE_ICBG2024", icon: "twitter"}
  - {link: "https://www.linkedin.com/in/icbg2023/", icon: "linkedin"}
 footerBlocks:
  -
@@ -161,8 +163,25 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "ICBG Symposium 2023 is organized by a committee of PhD students from Irish universities. We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science (partner universities: University College Dublin, University of Galway, Royal College of Surgeons in Ireland, Trinity College Dublin, University College Cork, Dublin City University and Queen’s University Belfast). We look forward to welcoming you to a fantastic event in-person this December!"
-aboutUs-2022: "ICBG Symposium 2022 is organized by a committee of PhD students from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported by the PhD programs in SFI Center for Research Training in Genomics Data Science. We look forward to welcoming you to a fantastic event in-person this December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan (NUIG), Narod Kebabcı (UCD), Zain Arifin (UCD), and Micheál Ó Dálaigh  (NUIG)."
+
+aboutUs: >
+  ICBG Symposium 2024 is organized by a committee of PhD students from
+  Irish universities. We are supported by the PhD programs in SFI Center for
+  Research Training in Genomics Data Science (partner universities: University
+  College Dublin, University of Galway, Royal College of Surgeons in Ireland,
+  Trinity College Dublin, University College Cork, Dublin City University and
+  Queen’s University Belfast). We look forward to welcoming you to a fantastic
+  event in-person this December!
+
+aboutUs-2022: >
+  ICBG Symposium 2022 is organized by a committee of PhD students
+  from five Irish universities (NUIG, RCSI, TCD, UCC and UCD). We are supported
+  by the PhD programs in SFI Center for Research Training in Genomics Data
+  Science. We look forward to welcoming you to a fantastic event in-person this
+  December! We are John F O’Grady (UCD), Aideen McCabee (UCC), Karen Guerrero
+  Vázquez (NUIG), Muhammad Ali (RCSI), Catherine Higgins (UCD), Kevin Ryan
+  (NUIG), Narod Kebabcı (UCD), Zain Arifin (UCD), and Micheál Ó Dálaigh
+  (NUIG).
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -191,7 +210,7 @@ directionDetailsWideCards:
 #       - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
  - title: "What to do in Galway!"
    subCards:
-    - title: "<p>Galway is a vibrant medieval city with a wonderful selection of restaurants, pubs and tourist attractions, like the annual Christmas market currently in Eyre Square. Why not make the most of your Galway trip for #ICBG2023 and visit <a href='http://galwaytourism.ie'>Galway tourism</a> to plan your stay. <br><br>If you are an international visitor, we would recommend to use train to visit Galway. There are many public transportation options you can choose once you are in Galway. Visit <a href='http://www.galwaytransport.info/2009/07/city-bus-services.html'>http://www.galwaytransport.info/2009/07/city-bus-services.html</a> for more information.</p>"
+    - title: "<p>Galway is a vibrant medieval city with a wonderful selection of restaurants, pubs and tourist attractions, like the annual Christmas market currently in Eyre Square. Why not make the most of your Galway trip for #VIBE2024 #ICBG2024 and visit <a href='http://galwaytourism.ie'>Galway tourism</a> to plan your stay. <br><br>If you are an international visitor, we would recommend to use train to visit Galway. There are many public transportation options you can choose once you are in Galway. Visit <a href='http://www.galwaytransport.info/2009/07/city-bus-services.html'>http://www.galwaytransport.info/2009/07/city-bus-services.html</a> for more information.</p>"
       links:
        - { link: "https://www.galwaycity.ie/", text: "Galway City Council" }
        - {link: "http://galwaytourism.ie", text: "Galway Tourism"}
@@ -202,7 +221,7 @@ directionDetailsWideCards:
 aboutHackathonTitle: "Code of Conduct"
 hackathonRows:
  - {title: "Please respect each other", image: "inclusion.png", details: "The Irish Computational Biology and Genomics Symposium is dedicated to facilitate the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. ICBG is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
- - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2023 to familiarise themselves with travel and public health measures that are in place. The ICBG 2023 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2023. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
+ - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2024 to familiarise themselves with travel and public health measures that are in place. The ICBG 2024 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2024. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
 
 
 # Irish session About block
@@ -215,7 +234,7 @@ Má tá baint agat leis an ngéanómaíocht nó leis an ríomh-bhitheolaíocht, 
 <a href='https://www.eventbrite.ie/e/irish-computational-biology-and-genomics-symposium-2022-tickets-399436444157'>https://www.eventbrite.ie/e/irish-computational-biology-and-genomics-symposium-2022-tickets-399436444157</a>
 <br><br>
 Má roghnaítear mar chainteoir thú, beidh muid in ann tacú le costais taistil. Mar sin, bí cinnte achoimre a sheoladh isteach chugainn chomh luath agus is féidir. <br> <br>
-Má tá suim agat freastal ar an seisiún seo, beidh tuilleadh eolais maidir le ticéid le fáil go luath; coinnígí súil ar ár gcuntas Twitter (@ICBG2022) don nuacht is déanaí. Cuirigí ríomhphost chugainn ag icbg@universityofgalway.ie má tá aon cheist/aon mholadh agaibh faoin togra seo.
+Má tá suim agat freastal ar an seisiún seo, beidh tuilleadh eolais maidir le ticéid le fáil go luath; coinnígí súil ar ár gcuntas Twitter (@VIBE_ICBG2024) don nuacht is déanaí. Cuirigí ríomhphost chugainn ag icbg@universityofgalway.ie má tá aon cheist/aon mholadh agaibh faoin togra seo.
 </p>"}
 
 
@@ -225,10 +244,10 @@ enableSponsors: true
 
 # Sponsors About Block
 aboutSponsorsTitle: "Meet our Sponsors"
-sposorsRows2023:
+sponsorsRows2023:
   - title: "Government Organizations"
     subCards:
-      - {title: "CRT Genomics Data Science", image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
+      - {title: "CRT Genomics Data Science",image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
       - {title: "Science Foundation Ireland", image: "SFI.png", details: "<p>Science Foundation Ireland funds oriented basic and applied research in the areas of science, technology, engineering and mathematics (STEM), which promotes and assists the development and competitiveness of industry, enterprise and employment in Ireland. The Foundation also promotes and supports the study of, education in, and engagement with STEM and promotes an awareness and understanding of the value of STEM to society and, in particular, to the growth of the economy.<br><br>For more information visit <a href='https://www.sfi.ie/'>SFI website</a> or follow their Twitter <a href='https://twitter.com/scienceirel'>@scienceirel</a></p>"}
   - title: "Gold Sponsors"
     subCards:
