@@ -10,11 +10,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
+title: "ICBG/VIBE 2024"
 email: "icbgsymposium@gmail.com"
-description: "ICBG is a student-led genomics conference scheduled for December 2023 in Galway, Ireland. We are looking forward to hosting world-class speakers working on research covering different areas in genomics and systems biology. We will have talks covering a wide range of themes, including Methods Development and Systems Biology, Metagenomics and Agrigenomics, Evolution and Population Genomics, and Health and Disease Genomics. In previous years, this conference was hosted at University College Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems Biology Summit."
+description: >
+  ICBG/VIBE is a student-led genomics conference scheduled for
+  December 2024 in Galway, Ireland. We are looking forward to hosting
+  world-class speakers working on research covering different areas in genomics
+  and systems biology. We will have talks covering a wide range of themes,
+  including Methods Development and Systems Biology, Metagenomics and
+  Agrigenomics, Evolution and Population Genomics, and Health and Disease
+  Genomics. In previous years, this conference was hosted at University College
+  Dublin (online in 2020!) as the Computational Genomics and Molecular/Systems
+  Biology Summit.
 baseurl: ""
-url: "https://icbgsymposium.com"
+url: "https://icbg-vibe2024.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "sysgen2022.github.io"
@@ -30,7 +39,7 @@ organizerLink: "http://icbgsymposium.com/"
 
 # Head
 metaKeywords: "genomics, genetics, bioinformatics, data science, ireland, research, systems, biology, biotech, ireland, galway"
-twitterAccount: "@ICBG2023"
+twitterAccount: "@VIBE_ICBG2024"
 socialImageSrcGooglePlus: "/img/seo/logo.png"
 socialImageSrcTwitter: "/img/seo/logo.png"
 socialImageSrcFacebook: "/img/seo/logo.png"
@@ -55,10 +64,13 @@ navigationLinks:
 
 # Hero Block
 heroImage: "sysgen.jpg"
-heroTitle: "IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"
-eventDate: "4th and 5th December 2023"
+heroTitle: |
+  IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM
+  AND
+  VIRTUAL INSTITUTE OF BIOINFORMATICS AND EVOLUTION, ALL-IRELAND CONFERENCE
+eventDate: "5th and 6th of December 2024"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
-typeoutFallback: "ICBG 2023"
+typeoutFallback: "ICBG 2024"
 heroButtons:
 #  - {text: "Abstract submissions are closed but general admission is open till 20th November, 2023", link: "https://www.eventbrite.ie/e/icbg2023-irish-computational-biology-and-genomics-symposium-2023-tickets-696678753907"}
 
@@ -84,7 +96,7 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 10
-rockstarSpeakersTitle: "ICBG Symposium 2023 Keynote Speakers"
+rockstarSpeakersTitle: "ICBG Symposium 2024 Keynote Speakers"
 rockstarSpeakersButtonText: "Find out more about our speakers"
 
 # Team Block
