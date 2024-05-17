@@ -6,9 +6,13 @@
             <svg class="icon" viewBox="0 0 30 32">
                 <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-twitter"></use>
             </svg>
-            <h3>{{ site.tweetsFeedTitle }} <a href="https://twitter.com/search?q=%23{{ site.twitterHashTag }}" target="_blank">#{{ site.twitterHashTag }}</a>
+            <h3>{{ site.tweetsFeedTitle }}
+            <br>
+            {% for hashtag in site.twitterHashTag %}
+                <a href="https://twitter.com/search?q=%23{{ hashtag }}" target="_blank">#{{ hashtag }}</a>
+            {% endfor %}
             </h3>
-            <a class="twitter-timeline" data-height="470" data-theme="dark" href="https://twitter.com/ICBG2023">Tweets by ICBG</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <a class="twitter-timeline" data-height="470" data-theme="dark" target="_blank" href="{{ site.twitterAccount }}">Tweets by ICBG</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             <div id="tweets" class="tweets"></div>
         </div>
     </div>

@@ -1,8 +1,8 @@
 -
   id: 0
-  name: "Jack"
-  surname: "Roban"
-  title: "Chairman"
+  name: "Sophie"
+  surname: "Matthews"
+  title: "Sophie"
   thumbnailUrl: 2023/jack3.png
   team: true
   ribbon: 
@@ -11,8 +11,8 @@
     - {name: "linkedin", link: "https://ie.linkedin.com/in/jack-roban-5abb06195"}
 - 
   id: 1
-  name: "Alanah"
-  surname: "McIntosh"
+  name: "Harrison"
+  surname: "Anthony"
   title: "Secretary"
   thumbnailUrl: 2023/alanah.png
   team: true
@@ -44,8 +44,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/mehak-chopra/"}
 -
   id: 4
-  name: "Bhavya"
-  surname: "Dhaka"
+  name: "Anna"
+  surname: "Großbach"
   title: "Sponsorships Liaisons"
   thumbnailUrl: 2023/bhavya.png
   team: true
@@ -55,8 +55,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/bhavyadhaka"}
 -
   id: 5
-  name: "Katie"
-  surname: "Herron"
+  name: "Micheál"
+  surname: "Ó Dálaigh"
   title: "Sponsorships Liaisons"
   thumbnailUrl: 2023/katie.png
   team: true
@@ -66,8 +66,8 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/kherronism"}
 -
   id: 6
-  name: "Ciardha"
-  surname: "Carmody"
+  name: "Kevin"
+  surname: "Ryan"
   title: "Communications"
   thumbnailUrl: 2023/ciardha.png
   team: true
@@ -77,8 +77,8 @@
     - {name: "linkedin", link: ""}
 - 
   id: 7
-  name: "Emily"
-  surname: "Tinsley"
+  name: "Bianca"
+  surname: "Pasat"
   title: "Communications"
   thumbnailUrl: 2023/emily.png
   team: true
@@ -89,8 +89,8 @@
 
 -
   id: 8
-  name: "Sarang"
-  surname: "Bhutada"
+  name: "Tyler"
+  surname: "Medina"
   title: "Website Development"
   thumbnailUrl: 2023/sarang.png
   team: true
@@ -98,3 +98,29 @@
     - { abbr: "WED", title: "Web Development" }
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
+
+-
+  id: 9
+  name: "Pilib"
+  surname: "Ó Broin"
+  title: "Website Development"
+  thumbnailUrl: 2023/sarang.png
+  team: true
+  ribbon:
+    - { abbr: "WED", title: "Web Development" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
+ 
+-
+  id: 10
+  name: "Sandra"
+  surname: "Healey"
+  title: "Website Development"
+  thumbnailUrl: 2023/sarang.png
+  team: true
+  ribbon:
+    - { abbr: "WED", title: "Web Development" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
+
+-
