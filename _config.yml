@@ -64,7 +64,7 @@ navigationLinks:
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/sponsors/", text: "Sponsors"}
+ # - {permalink: "/sponsors/", text: "Sponsors"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/decorum/", text: "Decorum"}
 
