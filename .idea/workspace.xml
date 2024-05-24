@@ -5,8 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed818c9a-bab3-42e2-9326-51733b0a0da5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contactUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/contactUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/team.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/team.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/aedin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/aedin2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/alanah.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/aylwyn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/bhavya.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/blank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/ciardha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/daria-original.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/daria.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/emily.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/francois.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/jack.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/jack2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/jack3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/katie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/mehak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/alanah.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/bhavya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/ciardha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/jack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/katie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/mehak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/sarang.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/old/shir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/orla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/orla2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/sarang.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/shir.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/2023/zosia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Ali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Carole_Goble.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Catherine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/DawidOstrowski.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/DmytroDanylyk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/John.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Mads.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Maire.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/MateuszHerych.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Micheal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Nabil_F.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Nicholas_McGranahan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/OlehZasadnyy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/OstapAndrusiv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/RomanMazur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Sandrine.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/ValentynShybanov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/VitaliyZasadnyy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Zain.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/Zain2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/aideen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/james_P.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/karen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/kevin.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/people/kevin.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/nabil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/people/narod_k.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logistics.html" beforeDir="false" afterPath="$PROJECT_DIR$/logistics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sponsors.html" beforeDir="false" afterPath="$PROJECT_DIR$/sponsors.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +96,35 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="25sprIUftaoj7jHhPQZgB6DSujk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/tyler/Repositories/VIBE-ICBG2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -53,8 +134,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1646325847467</updated>
+      <workItem from="1716065771120" duration="832000" />
+      <workItem from="1716448816749" duration="17000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
@@ -69,9 +155,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>

@@ -63,10 +63,10 @@ navigationLinks:
  # - {permalink: "/registration/", text: "Registration"}
  # - {permalink: "/schedule/", text: "Schedule"}
  # - {permalink: "/speakers/", text: "Speakers"}
- # - {permalink: "/logistics/", text: "Logistics"}
- # - {permalink: "/sponsors/", text: "Sponsors"}
- # - {permalink: "/team/", text: "Team"}
- # - {permalink: "/decorum/", text: "Decorum"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/sponsors/", text: "Sponsors"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/decorum/", text: "Decorum"}
 
 
 # Hero Block
@@ -188,7 +188,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
@@ -225,10 +225,13 @@ logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 logisticsMapAutoDirections: false
 
 # Logistics Direction Details Block
-directionDetailsImage: "Galway1.jpg"
+directionDetailsImage: "quad.png"
 directionDetailsTitle: "Get to Galway"
 directionDetailsCards:
- - {title: "From the Airport", information: 'You can use either train or bus to reach Galway from Dublin Airport. More information is available at this <a href="https://www.tripsavvy.com/how-to-get-from-dublin-to-galway-4799818">site</a>.'}
+ - title: "From Dublin Airport"
+   information: >
+    Direct busses run regularly from Dublin Airport to Galway City. More 
+    information is available <a href="https://www.tripsavvy.com/how-to-get-from-dublin-to-galway-4799818">here</a>.
  - {title: "Public Transit", information: 'Public busses are available in Galway. To find your way to the University of Galway Human Biology Building, visit this <a href="https://www.google.com/maps/place/The+Human+Biology+Building/@53.2766449,-9.0614814,15z/data=!4m5!3m4!1s0x485b96f17ec4e985:0xc9d0744e751e6211!8m2!3d53.2785951!4d-9.0591318">map</a>.'}
  - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. Check out some of the hotels that partners with us. Do not forget to mention you are with "ICBG Symposium" to get the special rates!'}
 directionDetailsWideCards:
@@ -246,11 +249,33 @@ directionDetailsWideCards:
        - {link: "https://www.irishrail.ie/", text: "Irish Rail"}
        - {link: "http://www.galwaytransport.info/2009/07/city-bus-services.html", text: "Galway Bus Services"}
 
+# Decorum Page Info
+decorumTitle: "Code of Conduct"
+decorumRows:
+  - title: "Please respect each other"
+    image: "inclusion.png"
+    details: >
+      VIBE and ICBG are dedicated to facilitate the communication and
+      presentation of research in a harassment-free environment. Any harassment
+      on the basis of sex, gender, sexual orientation, religion, nationality,
+      ethnicity, age, or disability will not be tolerated. Any actions such as
+      stalking, assault, or disruption to talks will not be tolerated. Any
+      members violating the Code of Conduct will be expelled from the
+      conference. Harassment includes any written, verbal, or physical action
+      that targets any individuals on the bases outlined above, or that cause
+      harm to and/or degrade any individuals. If you are being harassed or
+      notice anyone being harassed, please notify one of the members of the
+      organising committee. If you are found to not be compliant, you will be
+      asked to comply with the Code of Conduct or be barred from the
+      conference. VIBE/ICBG is intended to be an enjoyable and safe experience
+      for everyone, and we expect all attendees of the conference to follow the
+      Code of Conduct accordingly.
+
 # Hackathon About Block (actually decorum)
-aboutHackathonTitle: "Code of Conduct"
-hackathonRows:
- - {title: "Please respect each other", image: "inclusion.png", details: "The Irish Computational Biology and Genomics Symposium is dedicated to facilitate the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. ICBG is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
- - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2024 to familiarise themselves with travel and public health measures that are in place. The ICBG 2024 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2024. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
+# aboutHackathonTitle: "Code of Conduct"
+# hackathonRows:
+#  - {title: "Please respect each other", image: "inclusion.png", details: "The Irish Computational Biology and Genomics Symposium is dedicated to facilitate the communication and presentation of research in a harassment-free environment. Any harassment on the basis of sex, gender, religion, sexual orientation, age, disability, nationality, or ethnicity will not be tolerated. Any actions such as stalking, assault, and disruptions to talks will not be tolerated. Any members violating the Code of Conduct will be expelled from the conference. Harassment includes any written, verbal, or physical actions that target any individuals on the bases outlined above or that cause harm to and/or degrade any individuals. If you are being harassed or notice anyone being harassed, please notify one of the members of the organizing committee. If you are found to not be compliant, you will be asked to comply with the code of conduct or barred from the conference. ICBG is intended to be an enjoyable and safe experience for everyone, and we expect all attendees of the conference to follow the code of conduct accordingly."}
+#  - {title: "COVID-19 Statement", image: "covid.png",details: "To maintain the health and safety of all involved, the Irish Computational Biology and Genomics Symposium will abide by all public health measures applicable at the time of the conference. We would ask that all those intending to come to ICBG 2024 to familiarise themselves with travel and public health measures that are in place. The ICBG 2024 Organising Committee will continue to monitor the situation in Ireland and tailor our plans accordingly for a safe in-person conference in December 2024. We will provide updates on public health guidelines as they change. Please visit www.gov.ie for the current rules for travelling to Ireland."}
 
 
 # Irish session About block

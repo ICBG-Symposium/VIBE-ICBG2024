@@ -1,126 +1,137 @@
--
-  id: 0
-  name: "Sophie"
-  surname: "Matthews"
-  title: "Sophie"
-  thumbnailUrl: 2023/jack3.png
-  team: true
-  ribbon: 
-    - {abbr: "CHR", title: "Chairman"}
-  social:
-    - {name: "linkedin", link: "https://ie.linkedin.com/in/jack-roban-5abb06195"}
-- 
-  id: 1
-  name: "Harrison"
-  surname: "Anthony"
-  title: "Secretary"
-  thumbnailUrl: 2023/alanah.png
-  team: true
-  ribbon: 
-    - {abbr: "CCR", title: "Secretary"}
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/alanah-mcintosh-7a4530222/"}
-- 
-  id: 2
-  name: "Shir"
-  surname: "Dahan"
-  title: "Finance and Venue"
-  thumbnailUrl: 2023/shir.png
-  team: true
-  ribbon: 
-    - {abbr: "FAV", title: "Finance and Venue"}
-  social:
-    - {name: "linkedin", link: ""}
-- 
-  id: 3
-  name: "Mehak"
-  surname: "Chopra"
-  title: "Finance and Venue"
-  thumbnailUrl: 2023/mehak.png
-  team: true
-  ribbon:
-    - { abbr: "FAV", title: "Finance and Venue" }
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mehak-chopra/"}
--
-  id: 4
-  name: "Anna"
-  surname: "Großbach"
-  title: "Sponsorships Liaisons"
-  thumbnailUrl: 2023/bhavya.png
-  team: true
-  ribbon:
-    - { abbr: "SPL", title: "Sponsorships Liaisons" }
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bhavyadhaka"}
--
-  id: 5
-  name: "Micheál"
-  surname: "Ó Dálaigh"
-  title: "Sponsorships Liaisons"
-  thumbnailUrl: 2023/katie.png
-  team: true
-  ribbon:
-    - { abbr: "SPL", title: "Sponsorships Liaisons" }
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kherronism"}
--
-  id: 6
-  name: "Kevin"
-  surname: "Ryan"
-  title: "Communications"
-  thumbnailUrl: 2023/ciardha.png
-  team: true
-  ribbon:
-    - { abbr: "SPL", title: "Sponsorships Liaisons" }
-  social:
-    - {name: "linkedin", link: ""}
-- 
-  id: 7
-  name: "Bianca"
-  surname: "Pasat"
-  title: "Communications"
-  thumbnailUrl: 2023/emily.png
-  team: true
-  ribbon:
-    - { abbr: "CMM", title: "Communications" }
-  social:
-    - {name: "linkedin", link: ""}
-
--
-  id: 8
-  name: "Tyler"
-  surname: "Medina"
-  title: "Website Development"
-  thumbnailUrl: 2023/sarang.png
-  team: true
-  ribbon:
-    - { abbr: "WED", title: "Web Development" }
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
-
--
-  id: 9
+- id: 0
   name: "Pilib"
   surname: "Ó Broin"
-  title: "Website Development"
-  thumbnailUrl: 2023/sarang.png
+  title: "Chair"
+  thumbnailUrl: pilib.square.jpeg
   team: true
   ribbon:
-    - { abbr: "WED", title: "Web Development" }
+    - { abbr: "WED", title: "Chair" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
- 
--
-  id: 10
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pilib-%C3%B3-broin-b03019148/"}
+    - {name: "twitter", link: "https://twitter.com/pilib_"}
+
+- id: 1
+  name: "Micheál"
+  surname: "Ó Dálaigh"
+  title: "Science Coordinator"
+  thumbnailUrl: micheál.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Scientific Committee" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/micheal-o-dalaigh/"}
+
+- id: 2
+  name: "Kevin"
+  surname: "Ryan"
+  title: "Speaker Liason"
+  thumbnailUrl: kevin.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Speaker Liason" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-ryan-85549b12b/"}
+
+- id: 3
   name: "Sandra"
   surname: "Healey"
-  title: "Website Development"
-  thumbnailUrl: 2023/sarang.png
+  title: "University Liason"
+  thumbnailUrl: sandra.jpg
   team: true
   ribbon:
-    - { abbr: "WED", title: "Web Development" }
+    - { abbr: "WED", title: "University Liason" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sarang-bhutada"}
+    - {name: "linkedin", link: ""}
 
--
+- id: 4
+  name: "Sophie"
+  surname: "Matthews"
+  title: "Social Media Coordinator"
+  thumbnailUrl: sophie2.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "CHR", title: "Social Media Coordinator"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/SophiieMatthews"}
+
+- id: 5
+  name: "Anna"
+  surname: "Großbach"
+  title: "Print Media and Venue"
+  thumbnailUrl: anna.jpg
+  team: true
+  ribbon:
+    - { abbr: "SPL", title: "Print Media and Venue" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/anna-gro%C3%9Fbach-1555611a9/"}
+    - {name: "twitter", link: "https://twitter.com/anna_gbach"}
+
+- id: 6
+  name: "Harrison"
+  surname: "Anthony"
+  title: "Budget Committee"
+  thumbnailUrl: harrison2.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "CCR", title: "Budget Committee"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/genomeplumber"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hdanthony/"}
+    - {name: "github", link: "https://github.com/harrison-anth"}
+
+- id: 7
+  name: "Mehak"
+  surname: "Chopra"
+  title: "Budget Committee"
+  thumbnailUrl: mehak.jpg
+  team: true
+  ribbon:
+    - { abbr: "FAV", title: "Budget Committee" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/mehak-chopra/"}
+
+- id: 8
+  name: "Bianca"
+  surname: "Pasat"
+  title: "Budget Committee"
+  thumbnailUrl: bianca.jpeg
+  team: true
+  ribbon:
+    - { abbr: "CMM", title: "Budget Committee" }
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/bianca-pasat-8344b522a/"}
+
+- id: 9
+  name: "Shir"
+  surname: "Dahan"
+  title: "Venue and Catering"
+  thumbnailUrl: shir.jpg
+  team: true
+  ribbon: 
+    - {abbr: "FAV", title: "Venue and Catering"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/shir-dahan-2468b3207/"}
+
+- id: 10
+  name: "Javi"
+  surname: "Villegas  Salmerón"
+  title: "Venue and Catering"
+  thumbnailUrl: javi.jpeg
+  team: true
+  ribbon: 
+    - {abbr: "FAV", title: "Venue and Catering"}
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/821villegas/"}
+
+- id: 11
+  name: "Tyler"
+  surname: "Medina"
+  title: "Web Development"
+  thumbnailUrl: tyler.png
+  team: true
+  ribbon:
+    - { abbr: "WEB", title: "Web Development" }
+  social:
+    - {name: "email", link: "mailto:tyler.medina@universityofgalway.ie"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tymedina/"}
+    - {name: "github", link: "https://github.com/TDMedina"}
