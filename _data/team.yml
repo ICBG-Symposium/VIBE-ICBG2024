@@ -25,10 +25,10 @@
 - id: 1
   name: "Micheál"
   surname: "Ó Dálaigh"
-  title: "Science Coordinator"
+  title: "Scientific Committee"
   ribbon:
     - abbr: "Science"
-      title: "Science Coordinator"
+      title: "Scientific Committee"
   company: "University of Galway"
   bio: >
     Growing up as a twin, Micheál was always fascinated by the apparent
@@ -51,6 +51,33 @@
   social:
     - name: "linkedin"
       link: "https://www.linkedin.com/in/micheal-o-dalaigh/"
+
+- id: 10
+  name: "Javi"
+  surname: "Villegas Salmerón"
+  title: "Scientific Committee"
+  ribbon:
+    - abbr: "Science"
+      title: "Scientific Committee"
+  company: "Royal College of Surgeons in Ireland"
+  bio: >
+    Javi has a BSc [Honours] in Biotechnology and a MSc in Genetics and
+    Evolution from the University of Granada (UGR). During his studies, he was
+    awarded a scholarship that allowed him to do an intership at the Biomedical
+    Research Centre of the UGR, where he studied the genetic basis of male
+    infertility. Here, he was carrying out wet/dry lab research, studying the
+    impact that mutations at the SNP level can have on the development of the
+    disease.<br><br>
+
+    Javi's current research focuses on studying the molecular landscape of the
+    epileptic brain at the single-cell level, investigating whether cell
+    type-specific transcriptional changes in neurons and glia contribute to the
+    aberrant network function that produces epilepsy.
+  thumbnailUrl: javi.jpeg
+  team: true
+  social:
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/821villegas/"
 
 - id: 2
   name: "Kevin"
@@ -240,32 +267,7 @@
     - name: "linkedin"
       link: "https://www.linkedin.com/in/shir-dahan-2468b3207/"
 
-- id: 10
-  name: "Javi"
-  surname: "Villegas Salmerón"
-  title: "Venue and Catering"
-  ribbon:
-    - abbr: "Venue"
-      title: "Venue and Catering"
-  company: "Royal College of Surgeons in Ireland"
-  bio: >
-    Javi has a BSc [Honours] in Biotechnology and a MSc in Genetics and
-    Evolution from the University of Granada (UGR). During his studies, he was
-    awarded a scholarship that allowed him to do an intership at the Biomedical
-    Research Centre of the UGR, where he studied the genetic basis of male
-    infertility. Here, he was carrying out wet/dry lab research, studying the
-    impact that mutations at the SNP level can have on the development of the
-    disease.<br><br>
 
-    Javi's current research focuses on studying the molecular landscape of the
-    epileptic brain at the single-cell level, investigating whether cell
-    type-specific transcriptional changes in neurons and glia contribute to the
-    aberrant network function that produces epilepsy.
-  thumbnailUrl: javi.jpeg
-  team: true
-  social:
-    - name: "linkedin"
-      link: "https://www.linkedin.com/in/821villegas/"
 
 - id: 11
   name: "Tyler"
