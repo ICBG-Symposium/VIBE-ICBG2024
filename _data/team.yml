@@ -1,137 +1,295 @@
 - id: 0
-  name: "Pilib"
+  name: "Dr. Pilib"
   surname: "Ó Broin"
   title: "Chair"
+  ribbon:
+    - abbr: "Chair"
+      title: "Chairperson"
+  company: "University of Galway"
+  bio: >
+    Pilib Ó Broin is a PI in the Bioinformatics and Biostatistics Research
+    Cluster where his group is primarily interested in the development and
+    application of statistical/machine learning methods, with a particular
+    focus on genomics applications in immunology, cancer, and neuroscience. His
+    research has been funded by SFI, HRB, IRC, and the European Commission.
   thumbnailUrl: pilib.square.jpeg
   team: true
-  ribbon:
-    - { abbr: "WED", title: "Chair" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pilib-%C3%B3-broin-b03019148/"}
-    - {name: "twitter", link: "https://twitter.com/pilib_"}
+    - name: "site"
+      link: "https://www.universityofgalway.ie/our-research/people/mathematical-statistical-sciences/pilibobroin/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/pilib-%C3%B3-broin-b03019148/"
+    - name: "twitter"
+      link: "https://twitter.com/pilib_"
 
 - id: 1
   name: "Micheál"
   surname: "Ó Dálaigh"
   title: "Science Coordinator"
+  ribbon:
+    - abbr: "Science"
+      title: "Science Coordinator"
+  company: "University of Galway"
+  bio: >
+    Growing up as a twin, Micheál was always fascinated by the apparent
+    differences between he and his brother. This sparked his interest in
+    genetics and molecular biology, and he chose to pursue science for his
+    undergraduate degree at University College Dublin. He graduated from UCD in
+    2021 with a BSc. in Cell and Molecular Biology along with a structured
+    elective in Statistics and Data Analytics. During this time, he developed
+    an interest in the mathematical and statistical side of biology, and so he
+    decided to apply to the CRT in Genomics Data Science. His PhD research
+    focuses on improving our understanding of the progression of Acute Myeloid
+    Leukemia in patients by developing methods to identify malignant AML cells
+    using DNA/RNA-seq data and to subsequently track their evolution.<br><br>
+
+    Ar na hábhair spéise eile atá aige tá an Ghaeilge agus faoi láthair tá sé ag
+    déanamh an Dioplóma sa Ghaeilge C1 go páirtaimseartha anseo in Ollscoil na
+    hÉireann, Gaillimh.
   thumbnailUrl: micheál.jpg
   team: true
-  ribbon:
-    - { abbr: "SPL", title: "Scientific Committee" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/micheal-o-dalaigh/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/micheal-o-dalaigh/"
 
 - id: 2
   name: "Kevin"
   surname: "Ryan"
   title: "Speaker Liason"
+  ribbon:
+    - abbr: "Speakers"
+      title: "Speaker Liason"
+  company: "University of Galway"
+  bio: >
+    Kevin graduated from University College Cork in 2018 with a BPharm and then
+    received his MPharm from Royal College of Surgeons in Ireland in 2019. He
+    completed an MSc in Biomedical Genomics at NUI Galway in 2021. His PhD
+    project is focused on exploring the therapeutic potential of
+    patient-derived tumour stromal cells as a source of neoantigens.
   thumbnailUrl: kevin.jpg
   team: true
-  ribbon:
-    - { abbr: "SPL", title: "Speaker Liason" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kevin-ryan-85549b12b/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/kevin-ryan-85549b12b/"
 
 - id: 3
-  name: "Sandra"
+  name: "Dr. Sandra"
   surname: "Healey"
   title: "University Liason"
+  ribbon:
+    - abbr: "University"
+      title: "University Liason"
+  company: "University of Galway"
+  bio: >
+    With a background in research involving the role of the endoplasmic
+    reticulum in apoptosis in cancer cells, Sandra is now the Programme Manager
+    of the SFI Centre for Research Training in Genomics Data Science.
   thumbnailUrl: sandra.jpg
   team: true
-  ribbon:
-    - { abbr: "WED", title: "University Liason" }
   social:
-    - {name: "linkedin", link: ""}
+    - name: "linkedin"
+      link: ""
 
 - id: 4
   name: "Sophie"
   surname: "Matthews"
   title: "Social Media Coordinator"
+  ribbon:
+    - abbr: "Socials"
+      title: "Social Media Coordinator"
+  company: "University of Galway"
+  bio: >
+    Sophie graduated in 2021 from the University of Exeter with an M.Sc. in
+    Biological Sciences, with a focus on genome evolution and bioinformatics.
+    Her current research interests include exploring structural variation within
+    the human genome, with her PhD project focusing on copy number variation
+    within the Irish population.
   thumbnailUrl: sophie2.jpeg
   team: true
-  ribbon: 
-    - {abbr: "CHR", title: "Social Media Coordinator"}
   social:
-    - {name: "twitter", link: "https://twitter.com/SophiieMatthews"}
+    - name: "twitter"
+      link: "https://twitter.com/SophiieMatthews"
 
 - id: 5
   name: "Anna"
   surname: "Großbach"
   title: "Print Media and Venue"
+  ribbon:
+    - abbr: "Print"
+      title: "Print Media and Venue"
+  company: "University of Galway"
+  bio: >
+    Anna graduated from the Johannes Gutenberg-University in Mainz, Germany, in
+    2021 with a M.Sc. in Anthropology and Biology, focusing on Molecular
+    Genetics, Human Evolution and Bioinformatics. In her final year project she
+    worked on the detection of intestinal eukaryotic parasites using NGS
+    techniques. She is excited to now start her PhD research where she tries to
+    better understand the time-dependent effects of childhood adversity on DNA
+    Methylation and how this might be related to psychiatric risk in later
+    life.
   thumbnailUrl: anna.jpg
   team: true
-  ribbon:
-    - { abbr: "SPL", title: "Print Media and Venue" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/anna-gro%C3%9Fbach-1555611a9/"}
-    - {name: "twitter", link: "https://twitter.com/anna_gbach"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/anna-gro%C3%9Fbach-1555611a9/"
+    - name: "twitter"
+      link: "https://twitter.com/anna_gbach"
 
 - id: 6
   name: "Harrison"
   surname: "Anthony"
   title: "Budget Committee"
+  ribbon:
+    - abbr: "Budget"
+      title: "Budget Committee"
+  company: "University of Galway"
+  bio: >
+    Harrison received a MSc from Washington State University in Biology. His
+    master’s thesis focused on genome evolution in invasive asexual species.
+    His current focus is on the use of population genetics in cancer genomic
+    data/models and improving metrics commonly used with cancer data
+    (tumor mutation burden, microsatellite instability, etc.). He is broadly
+    interested in the evolutionary consequences of asexual vs sexual
+    reproduction, models of neutral/non-neutral evolution, invasive species,
+    polyploidy, and what fuels rapid adaptation.<br><br>
+
+    An unordered list of Harrison's favorite population geneticists:
+    <ul><li>Mueller</li><li>Haldane</li><li>Wright</li><li>Tajima</li>
+    <li>Watterson</li><li>Kimura</li></ul>
   thumbnailUrl: harrison2.jpeg
   team: true
-  ribbon: 
-    - {abbr: "CCR", title: "Budget Committee"}
   social:
-    - {name: "twitter", link: "https://twitter.com/genomeplumber"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/hdanthony/"}
-    - {name: "github", link: "https://github.com/harrison-anth"}
+    - name: "site"
+      link: "https://harrison-anth.github.io/about/"
+    - name: "twitter"
+      link: "https://twitter.com/genomeplumber"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/hdanthony/"
+    - name: "github"
+      link: "https://github.com/harrison-anth"
 
 - id: 7
   name: "Mehak"
   surname: "Chopra"
   title: "Budget Committee"
+  ribbon:
+    - abbr: "Budget"
+      title: "Budget Committee"
+  company: "University of Galway"
+  bio: >
+    As a PhD candidate, with a strong interest in gaining expertise in different
+    bioinformatics approaches and their applications in Cardiovascular
+    diseases, Mehak is deeply engaged in cutting-edge research endeavors aimed at
+    understanding various types of Aortic acute diseases by integrating medical
+    images, genomics and functional genomics aspects.<br><br>
+
+    Before embarking on her PhD journey, Mehak had the valuable opportunity to delve into
+    RNA-seq analysis during her Master’s thesis. She explored the correlation between
+    diabetes and unhealthy heart using high-throughput sequencing datasets and
+    found candidate biomarkers associated with coronary heart disease,
+    hyperlipidemia, and diabetes.This experience provided her with a firm foundation
+    in genomics as well as a thorough awareness of the complexities involved in
+    studying complicated diseases at the molecular level.<br><br>
+
+    Furthermore, she had the privilege of working as a Data Analyst in the Genome
+    India project at the Centre for Brain Research, Indian Institute of Science.
+    Here, she was actively involved in managing and analyzing genetic genotypic data
+    from the Indian population. In the project, she also dedicated herself to
+    identifying copy number variations and exploring the fascinating field of
+    ancient genomics, which further fueled her enthusiasm to pursue a PhD.
   thumbnailUrl: mehak.jpg
   team: true
-  ribbon:
-    - { abbr: "FAV", title: "Budget Committee" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/mehak-chopra/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/mehak-chopra/"
 
 - id: 8
   name: "Bianca"
   surname: "Pasat"
   title: "Budget Committee"
+  ribbon:
+    - abbr: "Budget"
+      title: "Budget Committee"
+  company: "University of Galway"
+  bio: >
+    Bachelor's degree in Biology, MSc in Bio-entrepreneurship<br><br>
+    
+    Research interests include cancer research, epidemiology, evolutionary
+    biology, genomics and regulation of gene expression. Currently working on
+    integrating multi omics data to understand Triple Negative Breast Cancer.
   thumbnailUrl: bianca.jpeg
   team: true
-  ribbon:
-    - { abbr: "CMM", title: "Budget Committee" }
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/bianca-pasat-8344b522a/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/bianca-pasat-8344b522a/"
 
 - id: 9
   name: "Shir"
   surname: "Dahan"
   title: "Venue and Catering"
+  ribbon:
+    - abbr: "Venue"
+      title: "Venue and Catering"
+  company: "University of Galway"
+  bio: >
+    Shir has a background in psychology and neuroscience. Her research interests
+    are in computational psychiatry using neuroimaging and genomics tools.
   thumbnailUrl: shir.jpg
   team: true
-  ribbon: 
-    - {abbr: "FAV", title: "Venue and Catering"}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/shir-dahan-2468b3207/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/shir-dahan-2468b3207/"
 
 - id: 10
   name: "Javi"
-  surname: "Villegas  Salmerón"
+  surname: "Villegas Salmerón"
   title: "Venue and Catering"
+  ribbon:
+    - abbr: "Venue"
+      title: "Venue and Catering"
+  company: "Royal College of Surgeons in Ireland"
+  bio: >
+    Javi has a BSc [Honours] in Biotechnology and a MSc in Genetics and
+    Evolution from the University of Granada (UGR). During his studies, he was
+    awarded a scholarship that allowed him to do an intership at the Biomedical
+    Research Centre of the UGR, where he studied the genetic basis of male
+    infertility. Here, he was carrying out wet/dry lab research, studying the
+    impact that mutations at the SNP level can have on the development of the
+    disease.<br><br>
+
+    Javi's current research focuses on studying the molecular landscape of the
+    epileptic brain at the single-cell level, investigating whether cell
+    type-specific transcriptional changes in neurons and glia contribute to the
+    aberrant network function that produces epilepsy.
   thumbnailUrl: javi.jpeg
   team: true
-  ribbon: 
-    - {abbr: "FAV", title: "Venue and Catering"}
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/821villegas/"}
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/821villegas/"
 
 - id: 11
   name: "Tyler"
   surname: "Medina"
   title: "Web Development"
+  ribbon:
+    - abbr: "Web"
+      title: "Web Development"
+  company: "University of Galway"
+  bio: >
+    Originally from California, Tyler received his BSc. in Biochemistry –
+    Molecular Biology from the University of California, Santa Barbara. He
+    followed this with an MSc. in Biomedical Genomics from NUI Galway, where
+    his thesis looked at the presence of large repetitive elements in otherwise
+    satellite-free neocentromeres under the supervision of Profs. Kevin
+    Sullivan and Aaron Golden. His PhD, under the supervision of Prof. Cathal
+    Seoighe, focuses on implementing cloud-based tools to support genomics for
+    childhood cancer in Ireland.
   thumbnailUrl: tyler.png
   team: true
-  ribbon:
-    - { abbr: "WEB", title: "Web Development" }
   social:
-    - {name: "email", link: "mailto:tyler.medina@universityofgalway.ie"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tymedina/"}
-    - {name: "github", link: "https://github.com/TDMedina"}
+    - name: "email"
+      link: "mailto:tyler.medina@universityofgalway.ie"
+    - name: "github"
+      link: "https://github.com/TDMedina"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/tymedina/"

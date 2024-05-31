@@ -137,13 +137,13 @@ venueBlockTitle: "Venue"
 # venueBigImage: "Aula3.jpg"
 # venueSmallImage1: "Aula2.JPG"
 # venueSmallImage2: "Aula1.JPG"
-venueBigImage: "hbbbig.jpg"
+venueBigImage: "hbb_new_crop.jpg"
 venueSmallImage1: "hbb3.jpg"
 venueSmallImage2: "hbb4.jpg"
 venueSmallImadirectionDetailsWideCardsge3: "NUIG.jpg"
 #venueTitle: "Aula Maxima Building University of Galway"
 venueTitle: "Human Biology Building, University of Galway"
-venueFeatures: ['<a href="https://maps.app.goo.gl/cuX4KnGhXSHAmYpMA" style="color:white">Click here for directions.</a>', 'The venue is wheelchair accessible.']
+venueFeatures: ['<a href="https://maps.app.goo.gl/mZUeQLcH6CZfxubj7" style="color:white" target="_blank">Click here for directions.</a>', 'This venue is wheelchair accessible.']
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -230,10 +230,29 @@ directionDetailsTitle: "Get to Galway"
 directionDetailsCards:
  - title: "From Dublin Airport"
    information: >
-    Direct busses run regularly from Dublin Airport to Galway City. More 
-    information is available <a href="https://www.tripsavvy.com/how-to-get-from-dublin-to-galway-4799818">here</a>.
- - {title: "Public Transit", information: 'Public busses are available in Galway. To find your way to the University of Galway Human Biology Building, visit this <a href="https://www.google.com/maps/place/The+Human+Biology+Building/@53.2766449,-9.0614814,15z/data=!4m5!3m4!1s0x485b96f17ec4e985:0xc9d0744e751e6211!8m2!3d53.2785951!4d-9.0591318">map</a>.'}
- - {title: "Hotels", information: 'Galway has lots of great hotels and hostels. Check out some of the hotels that partners with us. Do not forget to mention you are with "ICBG Symposium" to get the special rates!'}
+    Direct buses run regularly from Dublin Airport and Dublin City to Galway
+    city centre. Bus services include <a href='https://www.buseireann.ie/'>Bus
+    Éireann</a> and <a href='https://www.citylink.ie/'>Citylink</a>. <a
+    href='https://irishrail.ie/'>Trains</a> are also available from Dublin
+    Heuston Station to Galway city centre. More information is available <a
+    href='https://www.tripsavvy.com/how-to-get-from-dublin-to-galway-4799818'>here</a>.
+ - title: "Once in Galway"
+   information: >
+    Several <a
+    href='https://www.buseireann.ie/inner.php?id=406&form-view-timetables-from=Eyre+Square+East+%28Stop+No+5%29&form-view-timetables-to=University+Rd+%28Cathedral%29&form-view-timetables-route=&form-view-timetables-submit=1'>bus
+    lines</a> run regularly from Eyre Square near the bus and train stations to
+    the university entrance. Taxi ranks can also be found nearby.
+    Alternatively, the <a href='https://maps.app.goo.gl/UjKPNLjpGQ442wWJ6'>20
+    minute walk</a> from Eyre Square can take you past notable sites like Shop
+    Street, Galway Cathedral, and Salmon Weir Bridge over the Corrib River.
+ - title: "Hotels"
+   information: >
+    Event rates are available with the <a
+    href='https://www.maldronhotels.com/galway-sandy-road/'>Maldron Hotel</a>
+    in Galway on the nights of Dec 5th, 6th, and 7th. A discount code for the
+    Maldron Hotel will be provided when you register for the event. The Maldon
+    is a quick bus ride from town and Eyre Square, where connections to the
+    university are available.
 directionDetailsWideCards:
 # - title: "Hotel registration"
 #   subCards:
@@ -242,12 +261,22 @@ directionDetailsWideCards:
 #       - { link: "https://www.maldronhotelsandyroadgalway.com/contact/", text: "Maldron Hotel Sandy Road Galway" }
  - title: "What to do in Galway!"
    subCards:
-    - title: "<p>Galway is a vibrant medieval city with a wonderful selection of restaurants, pubs and tourist attractions, like the annual Christmas market currently in Eyre Square. Why not make the most of your Galway trip for #VIBE2024 #ICBG2024 and visit <a href='http://galwaytourism.ie'>Galway tourism</a> to plan your stay. <br><br>If you are an international visitor, we would recommend to use train to visit Galway. There are many public transportation options you can choose once you are in Galway. Visit <a href='http://www.galwaytransport.info/2009/07/city-bus-services.html'>http://www.galwaytransport.info/2009/07/city-bus-services.html</a> for more information.</p>"
+    - title: >
+         Galway is a vibrant medieval city with a wonderful selection of
+         restaurants, pubs, and tourist attractions, including the annual
+         Christmas market in Eyre Square! Why not make the most of your Galway
+         trip for #VIBE2024 #ICBG2024 and visit <a
+         href='http://galwaytourism.ie' target='_blank'>Galway tourism</a> to
+         plan your stay?
       links:
-       - { link: "https://www.galwaycity.ie/", text: "Galway City Council" }
-       - {link: "http://galwaytourism.ie", text: "Galway Tourism"}
-       - {link: "https://www.irishrail.ie/", text: "Irish Rail"}
-       - {link: "http://www.galwaytransport.info/2009/07/city-bus-services.html", text: "Galway Bus Services"}
+       - link: "https://www.galwaycity.ie/"
+         text: "Galway City Council"
+       - link: "http://galwaytourism.ie"
+         text: "Galway Tourism"
+       - link: "https://www.irishrail.ie/"
+         text: "Irish Rail"
+       - link: "http://www.galwaytransport.info/2009/07/city-bus-services.html"
+         text: "Galway Bus Services"
 
 # Decorum Page Info
 decorumTitle: "Code of Conduct"

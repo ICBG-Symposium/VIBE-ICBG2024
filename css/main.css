@@ -2926,8 +2926,13 @@ time {
 }
 
 .logo {
-	background-image: url("../img/sprites/logos.svg");
+	background-image: url("../img/seo/VIBE_ICBG_2024_Header_transparent.svg");
 	background-repeat: no-repeat
+}
+
+.logo.logo-standard {
+/*	width: 2750;
+	height: 500;*/
 }
 
 .logo.logo-dark {
@@ -4091,6 +4096,9 @@ nav li a.current, nav li a:hover {
 
 .zoe-effect:hover .bio {
 	-webkit-transform: translateY(-70%);
+	-webkit-line-clamp: 4;
+	overflow: hidden; 
+    text-overflow: ellipsis; 
 	transform: translateY(-70%);
 	opacity: 1
 }
