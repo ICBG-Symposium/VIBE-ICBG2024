@@ -1,0 +1,79 @@
+<!-- Begin Team Modals -->
+<div class="modals" class="modals">
+	{% for teamster in site.data.team %}
+		{% if page.modal == "all" or (page.modal == 'team' and (teamster.team != null or teamster.subTeam != null)) %}
+		<div class="modal fade text-left people-modal" id="speakerDetail-{{ teamster.id }}" tabindex="-1" role="dialog" aria-labelledby="speakerDetailLabel-{{ teamster.id }}" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-body">
+						<div class="close">
+							<svg class="icon icon-cross" viewBox="0 0 32 32">
+								<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-cross"></use>
+							</svg>
+							<div class="close-mask" data-dismiss="modal"></div>
+						</div>
+						{% if site.showSessions %}
+							{% for session in site.data.sessions2023 %}
+								{% for session_speaker in session.speakers %}
+									{% if session_speaker == teamster.id %}
+										<h4>{{ session.title }}</h4>
+										{% if session.language != null %}
+										<span class="theme-metadata"><span class="caption">Language: </span>{{ session.language }}</span>
+										{% endif %}
+										{% if session.theme != null %}
+										<span class="theme-metadata"><span class="caption">Theme: </span>{{ session.theme }}</span>
+										{% endif %}
+										{% if session.video %}
+										<div class="theme-video embed-responsive embed-responsive-16by9">
+										    <iframe class="embed-responsive-item" src="{{ session.video }}"></iframe>
+										</div>
+										{% endif %}
+										<p class="theme-description">{{ session.description }}</p>
+										{% if session.presentation %}
+										<a class="theme-presentation" href="{{ session.presentation }}" title="Presentation" target="_blank">View presentation</a>
+										{% endif %}
+									{% endif %}
+								{% endfor %}
+							{% endfor %}
+							<hr>
+						{% endif %}
+						<div class="people-details">
+							<div class="row">
+								<div class="col-md-2 col-sm-2">
+									<div class="flow-img img-circle people-img" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: teamster.thumbnailUrl }})"></div>
+								</div>
+								<div class="col-md-10 col-sm-10 details">
+									<p class="name">{{ teamster.name }} {{ teamster.surname }}
+										<span class="position">{{ teamster.company }}</span>
+									</p>
+									{% if teamster.ribbon != null %}
+									<div class="modal-ribbon-wrapper">
+			                            {% for ribbon in teamster.ribbon %}
+			                               <!-- <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a> -->
+			                               <span class="modal-ribbon">{{ ribbon["title"] }}</span>
+			                            {% endfor %}
+			                        </div>
+			                        {% endif %}
+									<p class="about">{{ teamster.bio }}</p>
+									<ul class="social">
+										{% for social in teamster.social %}
+											<li>
+												<a href="{{ social["link"] }}" target="_blank">
+													<svg class="icon icon-{{ social["name"] }}" viewBox="0 0 30 32">
+														<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social["name"] }}"></use>
+													</svg>
+												</a>
+											</li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% endif %}
+	{% endfor %}
+</div>
+<!-- End Team Modals -->
