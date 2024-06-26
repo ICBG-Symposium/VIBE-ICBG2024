@@ -32,20 +32,16 @@
   company: "University of Galway"
   bio: >
     Growing up as a twin, Micheál was always fascinated by the apparent
-    differences between he and his brother. This sparked his interest in
-    genetics and molecular biology, and he chose to pursue science for his
-    undergraduate degree at University College Dublin. He graduated from UCD in
-    2021 with a BSc. in Cell and Molecular Biology along with a structured
-    elective in Statistics and Data Analytics. During this time, he developed
-    an interest in the mathematical and statistical side of biology, and so he
-    decided to apply to the CRT in Genomics Data Science. His PhD research
-    focuses on improving our understanding of the progression of Acute Myeloid
-    Leukemia in patients by developing methods to identify malignant AML cells
-    using DNA/RNA-seq data and to subsequently track their evolution.<br><br>
-
-    Ar na hábhair spéise eile atá aige tá an Ghaeilge agus faoi láthair tá sé ag
-    déanamh an Dioplóma sa Ghaeilge C1 go páirtaimseartha anseo in Ollscoil na
-    hÉireann, Gaillimh.
+    differences between him and his brother. This sparked his interest in
+    genetics, and he chose to pursue science for his undergraduate degree at
+    University College Dublin. He graduated from UCD in 2021 with a BSc. in
+    Cell and Molecular Biology along with a structured elective in Statistics
+    and Data Analytics. During this time, he developed an interest in the
+    mathematical and statistical side of biology, and so he decided to apply
+    to the CRT in Genomics Data Science. His PhD research focuses on
+    improving our understanding of disease progression in Acute Myeloid
+    Leukaemia patients by developing methods to identify and characterise
+    malignant AML cells in single-cell RNA sequencing datasets.
   thumbnailUrl: micheál.jpg
   team: true
   social:
