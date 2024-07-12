@@ -2925,9 +2925,17 @@ time {
 	padding: 0
 }
 
-.logo {
+/*.logo {
 	background-image: url("../img/seo/VIBE_ICBG_2024_Header_transparent.svg");
 	background-repeat: no-repeat
+}*/
+
+.logo {
+  display: block;
+  width: 600px;
+  height: 150px;
+  background: url("../img/seo/redone_logo3.svg") no-repeat top left;
+  background-size: contain;
 }
 
 .logo.logo-standard {
@@ -3038,15 +3046,15 @@ time {
 
 .logo-header {
 	display: block;
-	-webkit-transform: translateY(20px);
-	transform: translateY(20px);
+	-webkit-transform: translateY(24px);
+	transform: translateY(24px);
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s
 }
 
 .top-header.after-scroll .logo-header {
-	-webkit-transform: translateY(1px);
-	transform: translateY(1px)
+	-webkit-transform: translateY(5px);
+	transform: translateY(5px)
 }
 
 .logo-header .logo {
@@ -3103,16 +3111,18 @@ nav li a {
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
 	text-transform: uppercase;
-	color: #fff
+	color: #ffffff;
+	text-shadow: 1px 1px 2px #216d71;
 }
 
 nav li a.current, nav li a:hover {
 	text-decoration: none;
-	color: #cfcfcf
+	color: #216d71
 }
 
 .top-header.after-scroll nav li a {
-	color: rgba(0, 0, 0, 0.5)
+	color: rgba(0, 0, 0, 0.5);
+	text-shadow: none;
 }
 
 .top-header.after-scroll nav li a.current, .top-header.after-scroll nav li a:hover {
@@ -3132,7 +3142,7 @@ nav li a.current, nav li a:hover {
 }
 
 .right-nav-button a {
-	font-size: 11.7px
+	font-size: 11.7px;
 }
 
 .right-nav-button.right-nav-button-hidden {
