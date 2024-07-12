@@ -1,0 +1,13 @@
+---
+layout: default
+title: Team
+permalink: /team/
+color: "#00bcd4"
+modal: team
+image: Galway1.jpg
+---
+
+ {% include top-section.html %}
+
+ {% include team.html %}
+

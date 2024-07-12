@@ -1,0 +1,10 @@
+---
+layout: default
+title: Event schedule
+permalink: /schedule/
+image: Galway1.jpg
+---
+
+{% include top-section.html %}
+
+{% include schedule2023.html %}
