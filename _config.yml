@@ -88,7 +88,7 @@ heroImage: "Galway1.jpg"
 #   2024
 heroTitle: "<img src='/img/seo/redone_logo2.svg' width=500px alt='VIBE 2024 / ICBG 2024'/>"
 # heroTitle: "VIBE 2024<br>ICBG 2024"
-eventDate: "Galway, 5th-6th December 2024"
+eventDate: "<b>Galway, 5th-6th December 2024</b>"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2024"
 # heroButtons:
