@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="712.78748mm"
-   height="130.96875mm"
-   viewBox="0 0 712.78748 130.96875"
+   width="732.89154mm"
+   height="129.03967mm"
+   viewBox="0 0 732.89155 129.03967"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -28,11 +28,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.19325386"
-     inkscape:cx="1498.0296"
-     inkscape:cy="282.01248"
+     inkscape:zoom="0.24774041"
+     inkscape:cx="1330.0212"
+     inkscape:cy="639.78259"
      inkscape:window-width="1366"
      inkscape:window-height="704"
      inkscape:window-x="0"
@@ -49,7 +49,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Background"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <rect
        style="fill:#ffffff;stroke-width:0.264583"
        id="rect692"
@@ -62,7 +63,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Original PNG"
-     transform="translate(294.36459,-61.738121)"
+     transform="translate(293.72949,-62.66933)"
      sodipodi:insensitive="true"
      style="display:none">
     <image
@@ -79,7 +80,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Text"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.63510436,-0.93120928)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -117,17 +119,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:47.9778px;line-height:1.25;font-family:sans-serif;letter-spacing:15.875px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="539.43811"
+       x="566.11353"
        y="45.274261"
        id="text169427"><tspan
          sodipodi:role="line"
          id="tspan169425"
          style="font-size:47.9778px;stroke-width:0.264583"
-         x="539.43811"
+         x="566.11353"
          y="45.274261">2024</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.1667px;line-height:1.25;font-family:sans-serif;word-spacing:3.14854px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:21.1667px;line-height:1.25;font-family:sans-serif;word-spacing:8.33438px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="82.898643"
        y="84.496796"
        id="text189131"
@@ -149,7 +151,7 @@
          style="font-size:21.1667px;stroke-width:0.264583"
          x="82.898643"
          y="124.3344"
-         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">IRISH COMPUTATION BIOLOGY AND GENOMICS SYMPOSIUM</tspan></text>
+         rotate="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -166,7 +168,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Divider"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.63510436,-0.93120928)">
     <rect
        style="fill:#216d71;fill-opacity:1;stroke-width:0.264583"
        id="rect291213"
@@ -179,12 +182,14 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Helix"
-     style="display:none" />
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)" />
   <g
      inkscape:groupmode="layer"
      id="layer12"
      inkscape:label="Guides"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <rect
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.261991"
        id="rect294002"
@@ -218,7 +223,8 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Helix Left Bezier"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 43.514786,-0.61357957 c 0,0 -84.615009,31.91888857 -7.323186,66.06382457 77.29182,34.144936 -7.137544,66.063825 -7.137544,66.063825"
@@ -229,7 +235,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Helix Left Paths"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path23138"
        style="color:#000000;fill:#216d71;stroke-width:3.77953;-inkscape-stroke:none"
@@ -240,7 +247,8 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="Breaks"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:14;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 43.1909,60.864558 c -2.146423,1.492709 -4.446034,3.021024 -6.906481,4.58569 -2.460447,1.564666 -4.760057,3.092981 -6.90648,4.58569"
@@ -251,7 +259,8 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Nts fitted"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path81383"
        style="color:#000000;fill:#40c8a4;stroke-width:3.77953;-inkscape-stroke:none"
@@ -287,7 +296,8 @@
      inkscape:groupmode="layer"
      id="g80475"
      inkscape:label="Nts full"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        style="fill:none;stroke:#40c8a4;stroke-width:5.11718;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 9.6648259,21.64484 H 66.883002"
@@ -317,7 +327,8 @@
      inkscape:groupmode="layer"
      id="g81871"
      inkscape:label="Nts square"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path82715"
        style="color:#000000;fill:#40c8a4;stroke-width:0.992;stroke-miterlimit:4;stroke-dasharray:none"
@@ -347,12 +358,14 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="nt breaks"
-     style="display:none" />
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Helix Right Bezier"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        style="display:inline;fill:none;stroke:#ffffff;stroke-width:4.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 29.056094,2.5343167 c 0,0 85.962636,12.8466263 7.228325,62.9159313 -78.734305,50.069302 7.228326,62.915932 7.228326,62.915932"
@@ -363,17 +376,20 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Helix Left Breaks"
-     style="display:none" />
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)" />
   <g
      inkscape:groupmode="layer"
      id="g23144"
      inkscape:label="Helix Left Breaks copy"
-     style="display:none" />
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)" />
   <g
      inkscape:groupmode="layer"
      id="g15976"
      inkscape:label="Helix Right Paths"
-     style="display:none">
+     style="display:none"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path18242"
        style="color:#000000;fill:#216d71;stroke-width:3.77953;-inkscape-stroke:none"
@@ -384,7 +400,8 @@
      inkscape:groupmode="layer"
      id="g23913"
      inkscape:label="Helix Left Paths Final"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path23911"
        style="color:#000000;fill:#216d71;stroke-width:3.77953;-inkscape-stroke:none"
@@ -400,7 +417,8 @@
      inkscape:groupmode="layer"
      id="g23308"
      inkscape:label="Helix Right Paths Final"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.63510436,-0.93120928)">
     <path
        id="path23306"
        style="color:#000000;fill:#216d71;stroke-width:3.77953;-inkscape-stroke:none"
