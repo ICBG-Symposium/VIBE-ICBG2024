@@ -1,84 +1,87 @@
--
-  id: 1
-  name: "Professor Carole"
-  surname: "Goble"
-  company: "The University of Manchester"
-  bio: "Carole is a Full Professor of Computer Science at the University of Manchester, UK where she leads the e-Science Group of Researchers, Research Software Engineers and Data Stewards. She has 30+ years’ experience of research reproducible science, open data and method sharing, knowledge and metadata management and computational workflows in a range of disciplines, notably the Life Sciences. She has developed production services for workflows, web services, and data management and co-led digital infrastructure projects and resources. <br><br>Carole is the Joint Head of Node of ELIXIR-UK, the national node of the ELIXIR European Research infrastructure for Life Science data, and leads the digital infrastructure for IBISBA, the EU Research Infrastructure for Industrial Biotechnology. <br><br>At the national level she serves on the leadership team of Health Data Research-UK and is a founder of the UK’s Software Sustainability Institute. Carole serves on the Board of Directors of Sage Bionetworks, the SAB of Helmholtz Metadata Collaboration, and 10+ other centres, and is the UK representative on the G7 Open Science Working Group. She has a long-time activity in computational workflows – developing workflow platforms (Taverna) , public resources for sharing workflows (myExperiment, Workflowhub) and metadata frameworks for reproducible workflows (RO-Crate, Bioschemas, CWL).  She is a pioneer of Open and FAIR data and software in scholarly communication and an author of the original Nature FAIR Scientific Data Principles article. These two threads come together as FAIR Computational Workflows, which she leads for the Workflows Community Initiative.  "
-  thumbnailUrl: Carole_Goble.jpg
-  rockstar: true
+- id: 0
+  name: "Prof. Karen"
+  surname: "Miga"
+  title: "Speaker"
+  ribbon:
+    - abbr: "Keynote"
+      title: "Invited Speaker"
+  company: "University of California, Santa Cruz"
+  bio: >
+    Throughout my career, I have developed innovative computational and
+    experimental approaches to advance our understanding of centromeric and
+    pericentromeric DNAs. I work at the forefront of genome technologies as
+    part of the T2T and Pangenome initiative to construct genetic and
+    epigenetic maps to expand our understanding of their structure and
+    function.  As a group leader, I prioritize fostering a creative and
+    scientifically rigorous environment that supports inclusivity and
+    diversity within our scientific team.  I also prioritize training that
+    operates at the intersection of science, justice, and equity.
+  thumbnailUrl: karen_miga_cropped.jpg
+  team: true
   social:
-    - {name: "site", link: "https://scholar.google.com/citations?user=2G4kqPYAAAAJ&hl=en"}
-    - {name: "twitter", link: "https://twitter.com/caroleannegoble "}
+    - name: "site"
+      link: "https://migalab.com/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/karen-miga-77335625/"
+    - name: "twitter"
+      link: "https://x.com/khmiga"
 
--
-  id: 2
-  name: "Dr. James"
-  surname: "Prendergast"
-  company: "Roslin Institute, University of Edinburgh"
-  bio: "James completed his PhD in bioinformatics and statistical genetics in 2007 from the University of Edinburgh, and following positions at the European Bioinformatics Institute and University College Dublin returned to Edinburgh to work first at the MRC Human genetics unit before joining the Roslin in 2013. James’s group is focused on understanding mammalian gene regulation, genome evolution and human and animal disease genetics."
-  thumbnailUrl: james_P.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "https://scholar.google.com/citations?user=4rW5cx4AAAAJ"}
-    - {name: "twitter", link: "https://twitter.com/JGDPrendergast"}
-
--
-  id: 3
-  name: "Dr. Nicholas"
-  surname: "McGranahan"
-  company: "CRUK-UCL"
-  bio: "Dr Nicholas McGranahan completed his undergraduate degree in Natural Sciences, specializing in Evolutionary Genetics, at the University of Bath before pursuing post-graduate studies at University College London at the Centre of Mathematics and Physics in the Life Science and Experimental Biology (CoMPLEX). In 2011, Dr McGranahan joined Professor Charles Swanton’s group at the CR-UK London Research Institute (now the Francis Crick Institute), completing a PhD in Cancer Genomics in 2015.<br> Nicholas established his own research group in 2018 and as a Sir Henry Dale fellow at the UCL-CRUK Lung Cancer Centre of Excellence, his research interests include using bioinformatics to dissect cancer evolution. His team explore the evolutionary history of cancers through sequencing multiple regions of individual tumours. In particular, Dr McGranahan’s research has focused on understanding the importance of genome doubling in tumour evolution, exploring the mutational processes shaping the genomes of cancers over space and time,  and investigating the interface between the cancer genome and the immune microenvironment."
-  thumbnailUrl: Nicholas_McGranahan.jpg
-  rockstar: true
+- id: 1
+  name: "Prof. Davide"
+  surname: "Cirillo"
+  title: "Speaker"
+  ribbon:
+    - abbr: "Keynote"
+      title: "Invited Speaker"
+  company: "Barcelona Supercomputing Center"
+  bio: >
+    Davide Cirillo is the head of the Machine Learning for Biomedical Research
+    Unit and Juan de la Cierva Incorporación fellow of the BSC Computational
+    Biology group. His area of expertise is data analysis and predictive
+    modeling for precision medicine using network biology and machine
+    learning. His research in precision medicine includes rare diseases and
+    paediatric cancers, as well as ethics of artificial intelligence. He is
+    co-editor of the book Sex and Gender Bias in Technology and Artificial
+    Intelligence: Biomedicine and Healthcare Applications (Elsevier Academic
+    Press 2022).
+  thumbnailUrl: davide_cirillo.png
+  team: true
   social:
-    - {name: "site", link: "https://scholar.google.com/citations?user=9sMhHS8AAAAJ"}
-    - {name: "twitter", link: "https://mobile.twitter.com/nickymcgranahan"}
+    - name: "site"
+      link: "https://www.bsc.es/cirillo-davide"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/davide-cirillo-97492921"
+    - name: "twitter"
+      link: "https://twitter.com/davide__cirillo"
 
--
-  id: 4
-  name: "Dr. Yan"
-  surname: "Wong"
-  company: "University of Oxford"
-  bio: "Yan is evolutionary geneticist with an interest in a wide range of biological problems. After a DPhil in Plant Sciences at Oxford, he collaborated with Richard Dawkins to write The Ancestor’s Tale, a comprehensive history of life in reverse time. This was followed by a period of time as a lecturer at the University of Leeds, then as a TV and radio presenter, most notably on the BBC One show Bang Goes The Theory.<br><br>Yan currently works at Oxford University’s “Big Data Institute” <https://www.bdi.ox.ac.uk/Team/yan-wong> helping to develop open source software for storing, analysing, and simulating huge genomic datasets using an evolutionary approach <https://tskit.dev>. The applications of this approach range from Covid phylogenetics to the “ancestry of everyone on earth” <https://www.science.org/doi/10.1126/science.abi8264>. Yan is also heavily involved in the OneZoom project <https://www.onezoom.org>, a popular online visualization of the entire tree of life down to the species level."
-  thumbnailUrl: Yan.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.bdi.ox.ac.uk/Team/yan-wong"}
-    - {name: "twitter", link: "https://twitter.com/DrYanWong"}
--
-  id: 5
-  name: "Professor Sandrine"
-  surname: "Dudoit"
-  company: "University of California, Berkeley"
-  bio: "Professor Sandrine Dudoit is Associate Dean for the Faculty in the Division of Computing, Data Science, and Society, Professor in the Department of Statistics, and Professor in the Division of Biostatistics, School of Public Health, at the University of California, Berkeley.  Professor Dudoit's methodological research interests regard high-dimensional statistical learning and include exploratory data analysis (EDA), visualization, loss-based estimation with cross-validation (e.g., density estimation, classification, regression, model selection), and multiple hypothesis testing. <br>Much of her methodological work is motivated by statistical questions arising in biological research and, in particular, the design and analysis of high-throughput sequencing studies, e.g., single-cell transcriptome sequencing (RNA-Seq) for discovering novel cell types and for the study of stem cell differentiation. Her contributions include: exploratory data analysis, normalization and expression quantitation, differential expression analysis, class discovery and prediction,  inference of cell lineages, and the integration of biological annotation metadata (e.g., Gene Ontology (GO) annotation). She is also interested in statistical computing and, in particular, computationally reproducible research. She is a founding core developer of the Bioconductor Project (http://www.bioconductor.org), an open-source and open-development software project for the analysis of biomedical and genomic data."
-  thumbnailUrl: Sandrine.jpeg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://scholar.google.com/citations?user=hBWARYEAAAAJ"}
-    - {name: "twitter", link: "https://mobile.twitter.com/cendrinou"}
 
--
-  id: 6
-  name: "Dr. Nabil-Fareed"
-  surname: "Alikhan"
-  company: "Quadram institute"
-  bio: "Nabil-Fareed is currently a Bioinformatics Scientific Programmer with Andrew Page at the Quadram Institute Bioscience. He was previously a Senior Research Fellow with Mark Achtman at the University of Warwick. He completed his PhD in 2015, under the supervision of Scott Beatson at the University of Queensland. He graduated from UQ with a Bachelor of Information Technology and a Bachelor of Science in 2008. <br><br>Nabil-Fareed's recent contributions include analysis and data curation for Quadram Institute as part of the COG UK Consortium National effort for tracking COVID19 (SARSCoV2) through genome sequencing. He also develops bioinformatics infrastructure within Quadram Institute, moving towards open web platforms and cloud computing. He contributes to the infrastructure working group within The Public Health Alliance for Genomic Epidemiology (PHA4GE).
-
-Nabil-Fareed's research interest include the population genetics and pathogenesis of enteric pathogens, including Salmonella and E. coli."
-  thumbnailUrl: nabil.png
-  rockstar: true
+- id: 2
+  name: "Prof. Elisabeth"
+  surname: "Bik"
+  title: "Speaker"
+  ribbon:
+    - abbr: "Keynote"
+      title: "Remote Speaker"
+  company: "Harbers Bik LLC"
+  bio: >
+    After receiving her PhD at Utrecht University in the Netherlands where she
+    worked on epidemic Vibrio cholerae strains, Elisabeth Bik worked at the
+    Dutch National Institute for Health and the St. Antonius Hospital in
+    Nieuwegein. She worked 15 years in the lab of David Relman in the School
+    of Medicine at Stanford, on the microbiomes of humans and marine mammals.
+    In May 2014, she founded Microbiome Digest, an almost daily compilation
+    of scientific papers in the rapidly growing microbiome field. From
+    2016-2018, she worked at uBiome as a Science Editor, and later as the
+    Scientific and Editorial Director. In 2018, she joined Astarte Medical as
+    their Director of Science. In March 2019, she became a Science Integrity
+    consultant. Her work has resulted in 1069 Retractions, 149 Expressions of
+    Concern, and 1008 Corrections as of November 2023.
+  thumbnailUrl: Elisabeth_Bik.jpg
+  team: true
   social:
-    - {name: "site", link: "https://scholar.google.com/citations?user=BpzrleYAAAAJ"}
-    - {name: "twitter", link: "https://twitter.com/happy_khan"}
-
--
-  id: 10
-  name: "Dr. Máire Ní"
-  surname: "Leathlobhair"
-  company: "Trinity College Dublin"
-  bio: "Máire Ní Leathlobhair originally graduated from Trinity College Dublin with a BA in Mathematics. She completed her PhD in Biological Sciences under the supervision of Elizabeth Murchison at the University of Cambridge in 2018. Following three years as a Junior Research Fellow at the University of Oxford, Máire recently started her research group at the School of Genetics and Microbiology in Trinity College Dublin where she is HCI Assistant Professor in Biological Data Analytics. Currently, her main research interests lie in investigating the development of rare cancers."
-  thumbnailUrl: Maire.jpg
-  rockstar: true
-  social:
-    - {name: "site", link: "https://www.tcd.ie/Microbiology/people/nleathlm/"}
-    - {name: "twitter", link: "https://twitter.com/mnileathlobhair"}
+    - name: "site"
+      link: "https://scienceintegritydigest.com/"
+    - name: "linkedin"
+      link: "https://www.linkedin.com/in/elisabeth-bik-4376782/"
+    - name: "twitter"
+      link: "https://twitter.com/MicrobiomDigest"

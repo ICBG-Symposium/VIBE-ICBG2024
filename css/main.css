@@ -4056,7 +4056,7 @@ nav li a.current, nav li a:hover {
 
 .zoe-effect {
 	margin-bottom: 26px;
-	height: 250px;
+	height: 316px;
 	cursor: pointer;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
@@ -4071,7 +4071,7 @@ nav li a.current, nav li a:hover {
 
 .zoe-effect:hover figure {
 	background-position: center left;
-	background-size: 105%
+	background-size: 100%
 }
 
 .zoe-effect:hover figure .overlay {
@@ -4119,8 +4119,7 @@ nav li a.current, nav li a:hover {
 	height: 100%;
 	-webkit-transition: all 0.3s;
 	transition: all 0.3s;
-	background-position: -30px;
-	background-size: 115%
+	background-size: 100%
 }
 
 .zoe-effect figure .overlay {

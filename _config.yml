@@ -61,16 +61,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
   - permalink: "/"
     text: "Home"
- # - permalink: "/registration/"
- #   text: "Registration"
+  - permalink: "/registration/"
+    text: "Registration"
  # - permalink: "/schedule/"
  #   text: "Schedule"
- # - permalink: "/speakers/"
- #   text: "Speakers"
+  - permalink: "/speakers/"
+    text: "Speakers"
   - permalink: "/logistics/"
     text: "Logistics"
- # - permalink: "/sponsors/"
- #   text: "Sponsors"
+  - permalink: "/sponsors/"
+    text: "Sponsors"
   - permalink: "/team/"
     text: "Team"
   - permalink: "/decorum/"
@@ -79,8 +79,12 @@ navigationLinks:
   #   text: "ICBG2022"
 
 
+# Event Details
+eventbrite: "https://www.eventbrite.ie/e/vibeicbg-2024-tickets-1015970413857"
+abstractPortal: "https://app.oxfordabstracts.com/stages/75796/submitter"
+
 # Hero Block
-heroImage: "Galway1.jpg"
+heroImage: "Galway3.jpg"
 # heroTitle: |
 #   VIRTUAL INSTITUTE OF BIOINFORMATICS AND EVOLUTION CONFERENCE
 #   and
@@ -91,9 +95,11 @@ heroTitle: "<img src='/img/seo/redone_logo.svg' width=500px alt='VIBE 2024 / ICB
 eventDate: "<b>Galway, 5th-6th December 2024</b>"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2024"
-# heroButtons:
-#  -  text: "Abstract submissions are closed but general admission is open till 20th November, 2023"
-#     link: "https://www.eventbrite.ie/e/icbg2023-irish-computational-biology-and-genomics-symposium-2023-tickets-696678753907"
+heroButtons:
+  -  text: "Registration now open"
+     permalink: "registration"
+  -  text: "Abstract submissions now open"
+     link: https://app.oxfordabstracts.com/stages/75796/submitter"
 
 # About Block
 aboutTitle: "About VIBE/ICBG 2024"
@@ -104,7 +110,7 @@ aboutBlock:
       VIBE/ICBG 2024 is organised and led by PhD students from the SFI CRT
       in Genomics Data Science. The format, speakers, and all activities for
       the conference have been carefully selected by the organising committee
-      made up of 2nd and 3rd year PhD students who research a wide variety
+      made up of 3rd and 4th year PhD students who research a wide variety
       of genomics topics.
   - title: "Themes"
     image: "cells2.jpg"
@@ -117,9 +123,13 @@ aboutBlock:
       - Methods, frameworks, and infrastructure development for genomics
   - title: "Format"
     image: "workshop.jpg"
-    text: >
-      The symposium talks will be categorized based on the 6 themes. We will have
-      keynote speaker talks, lightning talk, poster session, and sponsor talks.
+    text: |
+      The symposium talks will be categorized based on the 6 themes. We will have:<br>
+      - 3 keynote speaker presentations<br>
+      - short student presentations<br>
+      - lightning talks<br>
+      - poster sessions<br>
+      - sponsor talks
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -342,7 +352,7 @@ enableSponsors: true
 # Sponsors About Block
 aboutSponsorsTitle: "Meet our Sponsors"
 sponsorsRows:
-  - title: "Government Organizations"
+  - title: "Government Sponsors"
     subCards:
       - title: "CRT Genomics Data Science"
         image: "CRT.png"
@@ -375,31 +385,54 @@ sponsorsRows:
           <a href='https://www.sfi.ie/'>SFI website</a> or follow their
           Twitter <a
           href='https://twitter.com/scienceirel'>@scienceirel</a></p>
-  # - title: "Gold Sponsors"
-  #   subCards:
-  #     - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland (SBI) investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. SBI specialises in cellular signal transduction investigation with a particular focus on development of new diagnostics and treatment strategies for diseases. The centre has expertise in: Drug target and biomarker discovery, Patient stratification and sub-population characterisation, Combination therapy prediction and screening, Protein-Protein interaction profiling, Computational network inference and modelling, Dynamic mechanistic disease models. We collaborate nationally and internationally to produce high impact research that delivers tangible results for patients and clinicians. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
-  #     - {title: "Parse Biosciences", image: "Parse_FullLogo_RGB_Purple.jpg", details: "<p>Parse Biosciences is a Seattle-based company with the mission of accelerating progress in human health and scientific research. At the core of our company is our pioneering approach for single cell sequencing. Single cell sequencing has already enabled groundbreaking discoveries which have led to new understandings of cancer treatment, tissue repair, stem cell therapy, kidney and liver disease, brain development, and the immune system. At Parse Biosciences, we are providing researchers with the ability to perform single cell sequencing with unprecedented scale and ease.<br><br>For more information visit website or follow Twitter </p>"}
-  #     - {title: "CloudCIX", image: "cloudcix-logo.jpg", details: "<p>CloudCIX is a public Cloud service delivering flexible cost-efficient compute, storage, networking, GPU and security options. Our dedicated team of fully qualified technical engineers is at your service around the clock, ensuring your IT systems run seamlessly and reliably. <br><br>For more information visit website or follow Twitter </p>"}
+  - title: "Industry Sponsors"
+    subCards:
+      - title: "CloudCIX"
+        image: "cloudcix-logo.jpg"
+        details: >
+          <p>CloudCIX is a public cloud service delivering flexible
+          cost-efficient compute, storage, networking, GPU, and security
+          options. Our dedicated team of fully qualified technical engineers
+          is at your service around the clock, ensuring your IT systems run
+          seamlessly and reliably.<br><br>For more information visit our <a
+          href='https://www.cloudcix.com/'>website</a> or follow us on <a
+          href='https://x.com/cloudcix'>Twitter</a>.</p>
+      - title: "Novogene"
+        image: "Novogene-logo-colour.png"
+        details: >
+          <p>Novogene utilises scientific excellence, a commitment to customer
+          service and unsurpassed data quality to help our clients realise
+          their research goals in the rapidly evolving world of genomics.
+          With over 2,000 employees, multiple locations around the world, 37
+          NGS related patents, and over 670 publications in top tier journal
+          such as Nature and Science, the company has rapidly become a
+          world-leader in NGS services. In this conference, we will exhibit
+          the latest genome sequencing solutions.<br><br>For more information
+          visit our <a href='https://www.novogene.com/us-en/'>website</a> or
+          follow us on <a
+          href='https://twitter.com/Novogene_Europe'>Twitter</a>.</p>
+      # - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland (SBI) investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. SBI specialises in cellular signal transduction investigation with a particular focus on development of new diagnostics and treatment strategies for diseases. The centre has expertise in: Drug target and biomarker discovery, Patient stratification and sub-population characterisation, Combination therapy prediction and screening, Protein-Protein interaction profiling, Computational network inference and modelling, Dynamic mechanistic disease models. We collaborate nationally and internationally to produce high impact research that delivers tangible results for patients and clinicians. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
+      # - {title: "Parse Biosciences", image: "Parse_FullLogo_RGB_Purple.jpg", details: "<p>Parse Biosciences is a Seattle-based company with the mission of accelerating progress in human health and scientific research. At the core of our company is our pioneering approach for single cell sequencing. Single cell sequencing has already enabled groundbreaking discoveries which have led to new understandings of cancer treatment, tissue repair, stem cell therapy, kidney and liver disease, brain development, and the immune system. At Parse Biosciences, we are providing researchers with the ability to perform single cell sequencing with unprecedented scale and ease.<br><br>For more information visit website or follow Twitter </p>"}
   # - title: "Silver Sponsor"
   #   subCards:
-  #     - {title: "Novogene", image: "Novogene-logo-colour.png", details: "<p>Novogene utilises scientific excellence, a commitment to customer service and unsurpassed data quality to help our clients realise their research goals in the rapidly evolving world of genomics. With over 2,000 employees, multiple locations around the world, 37 NGS related patents, and over 670 publications in top tier journal such as Nature and Science, the company has rapidly become a world-leader in NGS services. In this conference, we will exhibit the latest genome sequencing solutions.<br><br>For more information visit website or follow Twitter </p>"}
+  #     
 
-  - {title: "CRT Genomics Data Science", image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
-  - {title: "Science Foundation Ireland", image: "SFI.png", details: "<p>Science Foundation Ireland funds oriented basic and applied research in the areas of science, technology, engineering and mathematics (STEM), which promotes and assists the development and competitiveness of industry, enterprise and employment in Ireland. The Foundation also promotes and supports the study of, education in, and engagement with STEM and promotes an awareness and understanding of the value of STEM to society and, in particular, to the growth of the economy.<br><br>For more information visit <a href='https://www.sfi.ie/'>SFI website</a> or follow their Twitter <a href='https://twitter.com/scienceirel'>@scienceirel</a></p>"}
-  - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland (SBI) investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. SBI specialises in cellular signal transduction investigation with a particular focus on development of new diagnostics and treatment strategies for diseases. The centre has expertise in: Drug target and biomarker discovery, Patient stratification and sub-population characterisation, Combination therapy prediction and screening, Protein-Protein interaction profiling, Computational network inference and modelling, Dynamic mechanistic disease models. We collaborate nationally and internationally to produce high impact research that delivers tangible results for patients and clinicians. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
-  - {title: "Parse Biosciences", image: "Parse_FullLogo_RGB_Purple.jpg", details: "<p>Parse Biosciences is a Seattle-based company with the mission of accelerating progress in human health and scientific research. At the core of our company is our pioneering approach for single cell sequencing. Single cell sequencing has already enabled groundbreaking discoveries which have led to new understandings of cancer treatment, tissue repair, stem cell therapy, kidney and liver disease, brain development, and the immune system. At Parse Biosciences, we are providing researchers with the ability to perform single cell sequencing with unprecedented scale and ease.<br><br>For more information visit website or follow Twitter </p>"}
-  - {title: "CloudCIX", image: "cloudcix-logo.jpg", details: "<p>CloudCIX is a public Cloud service delivering flexible cost-efficient compute, storage, networking, GPU and security options. Our dedicated team of fully qualified technical engineers is at your service around the clock, ensuring your IT systems run seamlessly and reliably. <br><br>For more information visit website or follow Twitter </p>"}
-  - {title: "Novogene", image: "Novogene-logo-colour.png", details: "<p>Novogene utilises scientific excellence, a commitment to customer service and unsurpassed data quality to help our clients realise their research goals in the rapidly evolving world of genomics. With over 2,000 employees, multiple locations around the world, 37 NGS related patents, and over 670 publications in top tier journal such as Nature and Science, the company has rapidly become a world-leader in NGS services. In this conference, we will exhibit the latest genome sequencing solutions.<br><br>For more information visit website or follow Twitter </p>"}
+  # - {title: "CloudCIX", image: "cloudcix-logo.jpg", details: "<p>CloudCIX is a public Cloud service delivering flexible cost-efficient compute, storage, networking, GPU and security options. Our dedicated team of fully qualified technical engineers is at your service around the clock, ensuring your IT systems run seamlessly and reliably. <br><br>For more information visit website or follow Twitter </p>"}
+  # - {title: "CRT Genomics Data Science", image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
+  # - {title: "Science Foundation Ireland", image: "SFI.png", details: "<p>Science Foundation Ireland funds oriented basic and applied research in the areas of science, technology, engineering and mathematics (STEM), which promotes and assists the development and competitiveness of industry, enterprise and employment in Ireland. The Foundation also promotes and supports the study of, education in, and engagement with STEM and promotes an awareness and understanding of the value of STEM to society and, in particular, to the growth of the economy.<br><br>For more information visit <a href='https://www.sfi.ie/'>SFI website</a> or follow their Twitter <a href='https://twitter.com/scienceirel'>@scienceirel</a></p>"}
+  # - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland (SBI) investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. SBI specialises in cellular signal transduction investigation with a particular focus on development of new diagnostics and treatment strategies for diseases. The centre has expertise in: Drug target and biomarker discovery, Patient stratification and sub-population characterisation, Combination therapy prediction and screening, Protein-Protein interaction profiling, Computational network inference and modelling, Dynamic mechanistic disease models. We collaborate nationally and internationally to produce high impact research that delivers tangible results for patients and clinicians. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
+  # - {title: "Parse Biosciences", image: "Parse_FullLogo_RGB_Purple.jpg", details: "<p>Parse Biosciences is a Seattle-based company with the mission of accelerating progress in human health and scientific research. At the core of our company is our pioneering approach for single cell sequencing. Single cell sequencing has already enabled groundbreaking discoveries which have led to new understandings of cancer treatment, tissue repair, stem cell therapy, kidney and liver disease, brain development, and the immune system. At Parse Biosciences, we are providing researchers with the ability to perform single cell sequencing with unprecedented scale and ease.<br><br>For more information visit website or follow Twitter </p>"}
+  # - {title: "Novogene", image: "Novogene-logo-colour.png", details: "<p>Novogene utilises scientific excellence, a commitment to customer service and unsurpassed data quality to help our clients realise their research goals in the rapidly evolving world of genomics. With over 2,000 employees, multiple locations around the world, 37 NGS related patents, and over 670 publications in top tier journal such as Nature and Science, the company has rapidly become a world-leader in NGS services. In this conference, we will exhibit the latest genome sequencing solutions.<br><br>For more information visit website or follow Twitter </p>"}
 
-sposorsRows:
-  - {title: "CRT Genomics Data Science", image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
-  - {title: "Science Foundation Ireland", image: "SFI.png", details: "<p>Science Foundation Ireland funds oriented basic and applied research in the areas of science, technology, engineering and mathematics (STEM), which promotes and assists the development and competitiveness of industry, enterprise and employment in Ireland. The Foundation also promotes and supports the study of, education in, and engagement with STEM and promotes an awareness and understanding of the value of STEM to society and, in particular, to the growth of the economy.<br><br>For more information visit <a href='https://www.sfi.ie/'>SFI website</a> or follow their Twitter <a href='https://twitter.com/scienceirel'>@scienceirel</a></p>"}
-  - {title: "National Forum T&L", image: "ForumTL.png", details: "<p>The National Forum is responsible for advising on the enhancement of teaching and learning in Irish higher education. They work with those who teach, learn and shape policy and practice to ensure a valued and informed teaching and learning culture in Irish higher education. They focus on the professional development of all those who teach, teaching and learning in a digital world, teaching and learning within and across disciplines, and student success.<br><br>For more information visit <a href='http://teachingandlearning.ie'>teachingandlearning.ie</a> or follow their Twitter <a href='https://twitter.com/ForumTL'>@ForumTL</a></p>"}
-  - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
-  - {title: "Brennan & Co", image: "brennan.jpeg", details: "<p>Brennan & Co was founded in Dublin in 1967 and since then has been a market leader in the supply and servicing of equipment, reagents and consumables to the Life Sciences, Healthcare, Industrial and Pharmacy sectors in the Republic of Ireland. Brennan & Co operates as part of The Brennan & Co Group.<br><br>For more information visit <a href='https://www.brennanco.ie/'>Brennan & Co website</a> or follow their Twitter <a href='https://twitter.com/Brennan_Company'>@Brennan_Company</a></p>"}
-  - {title: "Galway City Council" , image: "GCC.png" , details: "<p>Galway City Council is the local authority for the city of Galway, Ireland. <br><br>For more information visit <a href='https://www.galwaycity.ie/'>the Galway City Council website</a> or follow their Twitter <a href='https://twitter.com/GalwayCityCo'>@GalwayCityCo</a></p>"}
-  - {title: "Oxford Nanopore", image: "nanopore.jpg", details: "<p>Oxford Nanopore Technologies plc was founded in 2005 as a spin-out from the University of Oxford. The company now employs about 900 employees from multiple disciplines including nanopore science, molecular biology and applications, informatics, engineering, electronics, manufacturing and commercialisation. <br><br>For more information visit <a href='https://nanoporetech.com/'>Oxford Nanopore website</a> or follow their Twitter <a href='https://twitter.com/nanopore'>@nanopore</a></p>"}
-  - {title: "Avantor", image: "avantor.png", details: "<p>As the delivery channel of Avantor®, a Fortune 500 company, VWR provides access to mission-critical product and service solutions across life sciences and other regulated industries, including: Pharmaceutical, biotechnology, industrial, education, government, healthcare and advanced technologies. We offer an integrated, seamless purchasing experience that is optimized for the way our customers do business and supported by a strong global distribution network. Our global e-commerce platform gives you easy, convenient access to an extensive portfolio, including our own brands, as well as those from thousands of other manufacturers. Avantor is a trusted global partner to customers and suppliers in the life sciences and advanced technologies & applied materials industries. We set science in motion to create a better world. <br><br>For more information visit <a href='www.avantorsciences.com'>Avantor VWR website</a> or follow their Twitter <a href='https://twitter.com/Avantor_News'>@Avantor_News</a></p></p>"}
+# sposorsRows:
+#   - {title: "CRT Genomics Data Science", image: "CRT.png", details: "<p>The SFI Centre for Research Training in Genomics Data Science is one of six Centres for Research Training (CRTs) funded under a €100M Science Foundation Ireland initiative. The first PhD training initiative of scale with an all-Ireland remit, the Genomics Data Science CRT will train 115 PhD students across the island of Ireland over the coming seven years, with 15 to be based in Northern Ireland and 100 in the Republic of Ireland. The CRT is a partnership between the University of Galway, University College Dublin, Trinity College Dublin, the Royal College of Surgeons in Ireland, University College Cork, Dublin City University and Queen’s University Belfast.<br><br>For more information visit <a href='https://genomicsdatascience.ie/'>CRT Genomics Data Science website</a> or follow their Twitter <a href='https://twitter.com/genomicscrt'>@genomicscrt</a></p></p>"}
+#   - {title: "Science Foundation Ireland", image: "SFI.png", details: "<p>Science Foundation Ireland funds oriented basic and applied research in the areas of science, technology, engineering and mathematics (STEM), which promotes and assists the development and competitiveness of industry, enterprise and employment in Ireland. The Foundation also promotes and supports the study of, education in, and engagement with STEM and promotes an awareness and understanding of the value of STEM to society and, in particular, to the growth of the economy.<br><br>For more information visit <a href='https://www.sfi.ie/'>SFI website</a> or follow their Twitter <a href='https://twitter.com/scienceirel'>@scienceirel</a></p>"}
+#   - {title: "National Forum T&L", image: "ForumTL.png", details: "<p>The National Forum is responsible for advising on the enhancement of teaching and learning in Irish higher education. They work with those who teach, learn and shape policy and practice to ensure a valued and informed teaching and learning culture in Irish higher education. They focus on the professional development of all those who teach, teaching and learning in a digital world, teaching and learning within and across disciplines, and student success.<br><br>For more information visit <a href='http://teachingandlearning.ie'>teachingandlearning.ie</a> or follow their Twitter <a href='https://twitter.com/ForumTL'>@ForumTL</a></p>"}
+#   - {title: "Systems Biology Ireland", image: "ucd.png", details: "<p>Systems Biology Ireland investigates new therapeutic approaches to disease, with a focus on cancer at a systems level. We use a combination of traditional wet-lab and computational modeling approaches to understand cellular signaling networks. <br><br>For more information visit <a href='https://www.ucd.ie/sbi/'>SBI website</a> or follow their Twitter <a href='https://twitter.com/sysbioire'>@SysBioire</a></p>"}
+#   - {title: "Brennan & Co", image: "brennan.jpeg", details: "<p>Brennan & Co was founded in Dublin in 1967 and since then has been a market leader in the supply and servicing of equipment, reagents and consumables to the Life Sciences, Healthcare, Industrial and Pharmacy sectors in the Republic of Ireland. Brennan & Co operates as part of The Brennan & Co Group.<br><br>For more information visit <a href='https://www.brennanco.ie/'>Brennan & Co website</a> or follow their Twitter <a href='https://twitter.com/Brennan_Company'>@Brennan_Company</a></p>"}
+#   - {title: "Galway City Council" , image: "GCC.png" , details: "<p>Galway City Council is the local authority for the city of Galway, Ireland. <br><br>For more information visit <a href='https://www.galwaycity.ie/'>the Galway City Council website</a> or follow their Twitter <a href='https://twitter.com/GalwayCityCo'>@GalwayCityCo</a></p>"}
+#   - {title: "Oxford Nanopore", image: "nanopore.jpg", details: "<p>Oxford Nanopore Technologies plc was founded in 2005 as a spin-out from the University of Oxford. The company now employs about 900 employees from multiple disciplines including nanopore science, molecular biology and applications, informatics, engineering, electronics, manufacturing and commercialisation. <br><br>For more information visit <a href='https://nanoporetech.com/'>Oxford Nanopore website</a> or follow their Twitter <a href='https://twitter.com/nanopore'>@nanopore</a></p>"}
+#   - {title: "Avantor", image: "avantor.png", details: "<p>As the delivery channel of Avantor®, a Fortune 500 company, VWR provides access to mission-critical product and service solutions across life sciences and other regulated industries, including: Pharmaceutical, biotechnology, industrial, education, government, healthcare and advanced technologies. We offer an integrated, seamless purchasing experience that is optimized for the way our customers do business and supported by a strong global distribution network. Our global e-commerce platform gives you easy, convenient access to an extensive portfolio, including our own brands, as well as those from thousands of other manufacturers. Avantor is a trusted global partner to customers and suppliers in the life sciences and advanced technologies & applied materials industries. We set science in motion to create a better world. <br><br>For more information visit <a href='www.avantorsciences.com'>Avantor VWR website</a> or follow their Twitter <a href='https://twitter.com/Avantor_News'>@Avantor_News</a></p></p>"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
