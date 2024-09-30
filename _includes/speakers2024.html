@@ -32,7 +32,12 @@
                             </a>
                             {% endfor %}
                         </figcaption>
-                        <p class="bio">{{ speaker.bio | strip_html }}</p>
+                        <!-- <p class="bio">{{ speaker.bio | strip_html }}</p> -->
+                        {% if speaker.talkTitle != null %}
+                            <p class="bio"><b>{{ speaker.talkTitle }}</b><br><br>{{ speaker.bio | strip_html }}</p>
+                        {% else %}
+                            <p class="bio">{{ speaker.bio | strip_html %}}</p>
+                        {% endif %}
                     </figure>
                 </div>
             </div>

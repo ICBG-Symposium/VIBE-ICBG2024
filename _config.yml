@@ -98,7 +98,7 @@ typeoutFallback: "ICBG 2024"
 heroButtons:
   -  text: "Registration now open"
      permalink: "registration"
-  -  text: "Abstract submissions now open"
+  -  text: "Abstract submissions open until 25 Oct"
      link: https://app.oxfordabstracts.com/stages/75796/submitter"
 
 # About Block
