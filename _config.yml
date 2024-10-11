@@ -25,7 +25,7 @@ description: >
   Population Genomics.
 baseurl: ""
 url: "https://vibe-icbg.com"
-permalink: "/blog/:title"
+permalink: "/news/:title"
 # Check on this stuff:
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "sysgen2022.github.io"
@@ -67,6 +67,8 @@ navigationLinks:
  #   text: "Schedule"
   - permalink: "/speakers/"
     text: "Speakers"
+  - permalink: "/news/"
+    text: "News"
   - permalink: "/logistics/"
     text: "Logistics"
   - permalink: "/sponsors/"
@@ -96,10 +98,12 @@ eventDate: "<b>Galway, 5th-6th December 2024</b>"
 typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2024"
 heroButtons:
-  -  text: "Registration now open"
-     permalink: "registration"
-  -  text: "Abstract submissions open until 25 Oct"
-     link: https://app.oxfordabstracts.com/stages/75796/submitter"
+  - text: "Latest updates"
+    link: "news"
+  - text: "Registration now open"
+    permalink: "registration"
+  - text: "Abstract submissions open until 25 Oct"
+    link: "https://app.oxfordabstracts.com/stages/75796/submitter"
 
 # About Block
 aboutTitle: "About VIBE/ICBG 2024"
@@ -140,7 +144,7 @@ statisticBlock:
   - {count: "0", specialCharacter: "€", info: "fees", detail: "to enter"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest News"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -273,10 +277,11 @@ directionDetailsCards:
     information: >
       Event rates are available with the <a
       href='https://www.maldronhotels.com/galway-sandy-road/'>Maldron
-      Hotel</a> in Galway on the nights of Dec 5th, 6th, and 7th. A discount
-      code for the Maldron Hotel will be provided when you register for the
-      event. The Maldon is a quick bus ride from town and Eyre Square, where
-      connections to the university are available.
+      Hotel</a> in Galway on the nights of Dec 5th, 6th, and 7th if you book
+      before 24th of October. A discount code for the Maldron Hotel will be
+      provided when you register for the event. The Maldon is a quick bus
+      ride from town and Eyre Square, where connections to the university are
+      available.
 directionDetailsWideCards:
 # - title: "Hotel registration"
 #   subCards:
