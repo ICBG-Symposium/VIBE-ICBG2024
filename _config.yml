@@ -99,7 +99,7 @@ typeoutTextValues: '"IRISH COMPUTATIONAL BIOLOGY AND GENOMICS SYMPOSIUM"'
 typeoutFallback: "ICBG 2024"
 heroButtons:
   - text: "Latest updates"
-    link: "news"
+    permalink: "news"
   - text: "Registration now open"
     permalink: "registration"
   - text: "Abstract submissions open until 25 Oct"
