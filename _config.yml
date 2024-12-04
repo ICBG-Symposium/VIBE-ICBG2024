@@ -100,6 +100,8 @@ typeoutFallback: "ICBG 2024"
 heroButtons:
   - text: "View schedule"
     permalink: "schedule"
+  - text: "Abstract book"
+    permalink: "VIBE_ICBG_Abstract_Book.pdf"
   - text: "Latest updates"
     permalink: "news"
   # - text: "Abstract submissions open until 25 Oct"
